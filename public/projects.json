@@ -1,0 +1,20 @@
+[{
+        "name": "partigle face",
+        "nick": "particlemace",
+        "description": "best game",
+        "tags": [
+            "game",
+            "art"
+        ]
+    },
+
+    {
+        "name": "intimate codex",
+        "nick": "intimatecodex",
+        "description": "best text",
+        "tags": [
+            "game",
+            "featured"
+        ]
+    }
+]
