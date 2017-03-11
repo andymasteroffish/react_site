@@ -46,7 +46,7 @@ class App extends Component {
       }
     } else {
       let qs = queryString.parse(location.search);
-      console.log(qs)
+      //console.log(qs)
       if (qs["?p"]) {
         const index = _.indexOf(allProjectNicks, qs["?p"]);
         if (index > -1) {
@@ -134,7 +134,7 @@ class FilterBar extends Component {
     })
 
     return (
-      <Navbar>
+      <Navbar >
         <Navbar.Header>
           <Navbar.Toggle/>
         </Navbar.Header>
@@ -196,8 +196,32 @@ class GridItem extends Component {
 
 class ProjectContainer extends Component {
   render() {
+
+    //var testo = "../public/img/"+this.props.myProject.nick+"/icon.png";
+    //var img0 = require("../public/img/"+this.props.myProject.nick+"/pic0.png");
+    //var imgSrc = require("../public/img/"+this.props.myProject.nick+"/icon.png");
     return (
-      <div>{this.props.project.name}</div>
+
+      <div>
+        <Grid fluid>
+           <Row style={{height:"40px", lineHeight:"70px"}}>
+              <Col xs={12}>
+                 <h2>{this.props.project.name} - {this.props.project.year}</h2>
+              </Col>
+           </Row>
+
+           <Row >
+              <Col xs={4}>
+                 <div>{this.props.project.description}</div>
+              </Col>
+              <Col xs={8}>
+
+              </Col>
+           </Row>
+        </Grid>
+      </div>
+
+      
     )
 
   }
