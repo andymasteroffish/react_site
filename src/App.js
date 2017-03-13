@@ -129,8 +129,9 @@ class FilterBar extends Component {
 
   render() {
 
-    let elems = allTags.map((v) => {
-      return <NavItem onClick={this.props.changeFilter.bind(this, v)}>{v}</NavItem>
+    //i is just to give each one a unique key. it doesn't do anything
+    let elems = allTags.map((item,i) => {
+      return <NavItem key={i} onClick={this.props.changeFilter.bind(this, item)}>{item}</NavItem>
     })
 
     return (
@@ -159,7 +160,7 @@ class GridContainer extends Component {
 
     let elems = Projects.map((v, i) => {
       if (_.indexOf(v.tags, this.props.filter) > -1) {
-        return <GridItem key={i} chooseProject={this.props.chooseProject} myProject={v}/>  
+        return <GridItem key={i} chooseProject={this.props.chooseProject} project={v}/>  
       }
     })
 
@@ -180,14 +181,14 @@ class GridItem extends Component {
 
   render() {
 
-    var projectName = this.props.myProject.name
-    var imgSrc = require("../public/img/"+this.props.myProject.nick+"/icon.png");
+    var projectName = this.props.project.name
+    var imgSrc = "/img/"+this.props.project.nick+"/icon.png";
 
     return (
       <Col xs={3}>
-      <div onClick={this.props.chooseProject.bind(this, this.props.myProject.nick)}>
+      <div onClick={this.props.chooseProject.bind(this, this.props.project.nick)}>
         <img src={imgSrc} width="200" height="200"></img>
-        <h3 align="center">{projectName}</h3>
+        <h3 style={{textAlign:"center"}}>{projectName}</h3>
       </div>
       </Col>
     )
@@ -196,8 +197,9 @@ class GridItem extends Component {
 
 class ProjectContainer extends Component {
   render() {
+    console.log(this.props)
 
-    //var testo = "../public/img/"+this.props.myProject.nick+"/icon.png";
+    var testo = "/img/"+this.props.project.nick+"/pic0.png";
     //var img0 = require("../public/img/"+this.props.myProject.nick+"/pic0.png");
     //var imgSrc = require("../public/img/"+this.props.myProject.nick+"/icon.png");
     return (
@@ -206,16 +208,16 @@ class ProjectContainer extends Component {
         <Grid fluid>
            <Row style={{height:"40px", lineHeight:"70px"}}>
               <Col xs={12}>
-                 <h2>{this.props.project.name} - {this.props.project.year}</h2>
+                 <h2 style={{textAlign:"left"}}>{this.props.project.name} - {this.props.project.year}</h2>
               </Col>
            </Row>
-
+           {/*hello*/}
            <Row >
               <Col xs={4}>
                  <div>{this.props.project.description}</div>
               </Col>
               <Col xs={8}>
-
+                <img src={testo}/>
               </Col>
            </Row>
         </Grid>

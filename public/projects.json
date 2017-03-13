@@ -1,4 +1,15 @@
-[{
+[
+
+    {
+        "name": "intimate codex",
+        "nick": "intimatecodex",
+        "description": "best text",
+        "tags": [
+            "featured",
+            "game"
+        ]
+    },
+    {
         "name": "partigle face",
         "nick": "particlemace",
         "year": "2015",
@@ -7,15 +18,6 @@
             "game",
             "art"
         ]
-    },
-
-    {
-        "name": "intimate codex",
-        "nick": "intimatecodex",
-        "description": "best text",
-        "tags": [
-            "game",
-            "featured"
-        ]
     }
+    
 ]
