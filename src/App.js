@@ -17,6 +17,7 @@ let location = history.location;
 let defaultSettings = {
   mode: "grid",
   filter: "featured",
+  imgNum: 0,
 }
 
 let allTags = Projects.map((v) => {
@@ -79,21 +80,29 @@ class App extends Component {
     })
     this.setState({
       mode: "project",
+      imgNum: 0,
     })
     window.location.reload();
+  }
+
+  chooseImage(imgNum){
+    this.setState({
+      imgNum: imgNum,
+    })
   }
 
   render() {
     let elem;
     if (this.state.mode == "grid") {
       elem = <GridContainer chooseProject={this.chooseProject.bind(this)} filter={this.state.filter}/>
-    } else if (this.state.mode == "project") {
+    } 
+    else if (this.state.mode == "project") {
       let qs = queryString.parse(location.search);
       let nick = qs["?p"]
       
       let proj = _.find(Projects, {'nick': nick});
 
-      elem = <ProjectContainer project={proj}/>
+      elem = <ProjectContainer project={proj} chooseImage={this.chooseImage.bind(this)} curImgNum={this.state.imgNum}/>
     }
 
     return (
@@ -196,12 +205,22 @@ class GridItem extends Component {
 }
 
 class ProjectContainer extends Component {
-  render() {
-    console.log(this.props)
+  constructor(){
+    super();
+  }
 
-    var testo = "/img/"+this.props.project.nick+"/pic0.png";
-    //var img0 = require("../public/img/"+this.props.myProject.nick+"/pic0.png");
-    //var imgSrc = require("../public/img/"+this.props.myProject.nick+"/icon.png");
+  render() {
+
+    let imgNumButtons = this.props.project.pics.map((picName, i) => {
+      var style = {display:"inline-block", "vertical-align":"top", "margin-right":"10px"}
+      return(
+        <p key={i} onClick={this.props.chooseImage.bind(this, i)} style={style}>{i}</p>
+      )
+      
+    })
+
+    var picSrc = "/img/"+this.props.project.nick+"/"+this.props.project.pics[this.props.curImgNum];
+    //console.log("should draw "+ picSrc);
     return (
 
       <div>
@@ -214,21 +233,21 @@ class ProjectContainer extends Component {
            {/*hello*/}
            <Row >
               <Col xs={4}>
-                 <div>{this.props.project.description}</div>
+                 <div style={{textAlign:"left"}}>{this.props.project.description}</div>
               </Col>
               <Col xs={8}>
-                <img src={testo}/>
+                <img src={picSrc}/>
+                <div style={{textAlign:"left"}}>
+                {imgNumButtons}
+                </div>
               </Col>
            </Row>
         </Grid>
-      </div>
-
-      
+      </div> 
     )
-
   }
-
 }
+
 
 
 export default App;

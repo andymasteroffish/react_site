@@ -7,6 +7,10 @@
         "tags": [
             "featured",
             "game"
+        ],
+        "pics": [
+            "pic0.png",
+            "anotherpic.png"
         ]
     },
     {
@@ -17,6 +21,10 @@
         "tags": [
             "game",
             "art"
+        ],
+        "pics": [
+            "arcade0.png",
+            "pic0.png"
         ]
     }
     
