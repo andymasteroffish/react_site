@@ -105,23 +105,28 @@ class App extends Component {
       elem = <ProjectContainer project={proj} chooseImage={this.chooseImage.bind(this)} curImgNum={this.state.imgNum}/>
     }
 
+    var iconSize = 30;
+    var iconStyle = {"marginRight":"10px"}
+
     return (
-      <div className="App">
+      <div  className="App">
         <Grid fluid>
           <Row style={{height:"40px", lineHeight:"70px"}}>
-            <Col xs={3}>
+            <Col xs={4}>
               <h3>Andy Wallace!</h3>
             </Col>
-            <Col xs={3}>
-              <a href="#">Github</a>
+            <Col xs={8} style={{textAlign:"left"}}>
+              <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={iconSize} height={iconSize} style={iconStyle}></img></a>
+              <a href="https://www.tumblr.com/blog/andymakesgames"><img src={"/img/icons/tumblr_resize.png"} width={iconSize} height={iconSize} style={iconStyle}></img></a>
+              <a href="https://vimeo.com/andymakes"><img src={"/img/icons/vimeo_resize.png"} width={iconSize} height={iconSize} style={iconStyle}></img></a>
+              <a href="https://github.com/andymasteroffish"><img src={"/img/icons/GitHub-Mark-64px.png"} width={iconSize} height={iconSize} style={iconStyle}></img></a>
+              <a href="https://andymakes.itch.io/"><img src={"/img/icons/itch_resize.png"} width={iconSize*3.27} height={iconSize} style={iconStyle}></img></a>
             </Col>
-            <Col xs={3}>
-              <a href="#">Github</a>
-            </Col>
+            
           </Row>
           <Row>
             <Col xs={12}>
-              <FilterBar changeFilter={this.changeFilter.bind(this)}/>
+              <FilterBar changeFilter={this.changeFilter.bind(this)} chooseProject={this.chooseProject.bind(this)}/>
             </Col>
           </Row>
           {elem}
@@ -140,7 +145,15 @@ class FilterBar extends Component {
 
     //i is just to give each one a unique key. it doesn't do anything
     let elems = allTags.map((item,i) => {
-      return <NavItem key={i} onClick={this.props.changeFilter.bind(this, item)}>{item}</NavItem>
+      //most clicks just chaneg the filter
+      var clickFunc = this.props.changeFilter.bind(this, item)
+      //but clicking "about" should call up that page
+      if (item == "about"){
+        console.log("steam "+i)
+        clickFunc = this.props.chooseProject.bind(this, "about")
+      } 
+      return <NavItem key={i} onClick={clickFunc}>{item}</NavItem>
+      
     })
 
     return (
@@ -194,7 +207,7 @@ class GridItem extends Component {
     var imgSrc = "/img/"+this.props.project.nick+"/icon.png";
 
     return (
-      <Col xs={3}>
+      <Col xs={6} sm={4} md={3}>
       <div onClick={this.props.chooseProject.bind(this, this.props.project.nick)}>
         <img src={imgSrc} width="200" height="200"></img>
         <h3 style={{textAlign:"center"}}>{projectName}</h3>
@@ -212,9 +225,9 @@ class ProjectContainer extends Component {
   render() {
 
     let imgNumButtons = this.props.project.pics.map((picName, i) => {
-      var style = {display:"inline-block", "vertical-align":"top", "margin-right":"10px"}
+      var style = {display:"inline-block", "verticalAlign":"top", "marginRight":"10px"}
       return(
-        <p key={i} onClick={this.props.chooseImage.bind(this, i)} style={style}>{i}</p>
+        <p key={i} onClick={this.props.chooseImage.bind(this, i)} style={style}>{i+1}</p>
       )
       
     })
