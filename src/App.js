@@ -16,7 +16,7 @@ let location = history.location;
 
 let defaultSettings = {
   mode: "grid",
-  filter: "featured",
+  filter: "Featured",
   imgNum: 0,
 }
 
@@ -141,6 +141,8 @@ class FilterBar extends Component {
     super();
   }
 
+  //the rollover css for this is in App.css
+
   render() {
 
     //i is just to give each one a unique key. it doesn't do anything
@@ -148,17 +150,24 @@ class FilterBar extends Component {
       //most clicks just chaneg the filter
       var clickFunc = this.props.changeFilter.bind(this, item)
       //but clicking "about" should call up that page
-      if (item == "about"){
-        console.log("steam "+i)
+      if (item == "About"){
         clickFunc = this.props.chooseProject.bind(this, "about")
       } 
       return <NavItem key={i} onClick={clickFunc}>{item}</NavItem>
       
     })
 
+return (
+      <div>
+        <Nav bsStyle="tabs" justified onSelect={this.handleSelect} style={{"fontSize":"16px"}}>
+          {elems}
+        </Nav>
+      </div>
+    );
+/*
     return (
-      <Navbar >
-        <Navbar.Header>
+      <Navbar style={{backgroundImage:"none", "backgroundColor":"transparent", "borderColor":"transparent",  "boxShadow":"inset 0 1px 0 rgba(255,255,255,0), 0 1px 5px rgba(0,0,0,0)"}}>
+        <Navbar.Header >
           <Navbar.Toggle/>
         </Navbar.Header>
         <Navbar.Collapse>
@@ -168,6 +177,7 @@ class FilterBar extends Component {
         </Navbar.Collapse>
       </Navbar>
     )
+    */
   }
 }
 
@@ -187,7 +197,7 @@ class GridContainer extends Component {
     })
 
     return (
-    <div>
+    <div style={{"marginTop":"15px"}}>
         <Grid fluid>
           {elems}
         </Grid>

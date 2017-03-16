@@ -5,9 +5,9 @@
         "nick": "intimatecodex",
         "description": "best text",
         "tags": [
-            "featured",
-            "all",
-            "game"
+            "Featured",
+            "All",
+            "Game"
         ],
         "pics": [
             "pic0.png",
@@ -20,9 +20,9 @@
         "year": "2015",
         "description": "Particle Mace is a game for Windows, Mac and iOS that pays homage to classic space shooters, but replaces the typical guns with an unruly physics-based weapon. Players control a tiny ship in an extremely hostile universe, and must defend themselves as long as possible from enemy ships and asteroids using a collection of trash particles tethered to the ship. To survive, players must carefully navigate around the many hazards while building up momentum to swing their weapon into foes or other players.",
         "tags": [
-            "all",
-            "game",
-            "art"
+            "All",
+            "Game",
+            "Art"
         ],
         "pics": [
             "arcade0.png",
@@ -35,7 +35,7 @@
         "year": "1988",
         "description": "Yeah! I'm a good boy!",
         "tags": [
-            "about"
+            "About"
         ],
         "pics": [
             "scarf.jpg"
