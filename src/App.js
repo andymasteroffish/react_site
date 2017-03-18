@@ -232,6 +232,10 @@ class ProjectContainer extends Component {
     super();
   }
 
+  createMarkup() {
+    return {__html: this.props.project.description}
+  }
+
   render() {
 
     let imgNumButtons = this.props.project.pics.map((picName, i) => {
@@ -256,7 +260,10 @@ class ProjectContainer extends Component {
            {/*hello*/}
            <Row >
               <Col xs={4}>
-                 <div style={{textAlign:"left"}}>{this.props.project.description}</div>
+                 <div style={{textAlign:"left"}}>
+                   <div dangerouslySetInnerHTML={this.createMarkup()}>
+                   </div>
+                 </div>
               </Col>
               <Col xs={8}>
                 <img src={picSrc}/>
