@@ -1,0 +1,120 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf350
+{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;\f1\fnil\fcharset0 Monaco;\f2\fmodern\fcharset0 Courier;
+}
+{\colortbl;\red255\green255\blue255;\red0\green116\blue0;\red14\green126\blue15;\red0\green97\blue0;
+\red0\green99\blue0;}
+\deftab560
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+
+\f0\fs22 \cf2 \CocoaLigature0 s = Server("myServer", NetAddr("127.0.0.1", 12000));\
+ s.boot;\
+ s.dumpOSC(1);\
+ \
+ (\
+ SynthDef("gyro", \{\
+ arg freq = 880, amp=0, detune=4, scale=0;\
+ x =SinOsc.ar([freq,freq+detune],0, amp/1000).scaleneg(scale/100);\
+ Out.ar(0, x)\
+ \}).send(s));\
+ \
+ (\
+ SynthDef("singBowl", \{\
+ arg freq = 220, amp=0, detune=400, scale=0;\
+ x =SinOsc.ar([freq,freq+(detune/100)],0, amp/1000).scaleneg(scale/100);\
+ Out.ar(0, x)\
+ \}).send(s));\
+ \
+ (\
+ SynthDef("singBowlEnd", \{\
+ arg freq = 220, amp=0, detune=1000;\
+ var env, x;\
+ env = EnvGen.kr(Env.perc(0.01,4,0.6,1), doneAction: 2);\
+ x = env * SinOsc.ar([freq, freq+(detune/100)],0, amp/1000);\
+ Out.ar(0, x)\
+ \}).send(s));\
+ \
+ (\
+ SynthDef("gyroHit", \{\
+ arg freq = 880, amp=0, detune=4;\
+ var env, x;\
+ env = EnvGen.kr(Env.perc(0.01,2,1,-4), doneAction: 2);\
+ x = env * SinOsc.ar([freq, freq+detune],0, amp/100);\
+ Out.ar(0, x)\
+ \}).send(s));\
+ \
+ \
+  (\
+ SynthDef("altGyro", \{\
+ arg freq = 164.81, amp=0, saw=500;\
+\cf3  var x,y,z;\
+ x = 
+\f1\fs24 \CocoaLigature1 SyncSaw.ar(freq, saw, amp/1000)
+\f0\fs22 \CocoaLigature0 ;\
+ y = 
+\f1\fs24 \CocoaLigature1 SyncSaw.ar(freq*(
+\f0\fs22 \CocoaLigature0 1.05946309**8)
+\f1\fs24 \CocoaLigature1 , saw, amp/1000)
+\f0\fs22 \CocoaLigature0 ;\
+ z = 
+\f1\fs24 \CocoaLigature1 SyncSaw.ar(freq*(
+\f0\fs22 \CocoaLigature0 1.05946309**15)
+\f1\fs24 \CocoaLigature1 , saw, amp/1000)
+\f0\fs22 \CocoaLigature0 ;\
+ Out.ar(0, x+y+z)\
+ \}).send(s));\cf2 \
+ \
+ \
+  (\
+ SynthDef("accelBall", \{\
+ arg freq = 440, fDist=100, amp=0, detune=400;\
+ var freq1=freq+fDist;\
+ var freq2=freq-fDist;\
+ x =SinOsc.ar([freq1,freq1+(detune/100)],0, amp/1000);\
+ y =SinOsc.ar([freq2,freq2+(detune/100)],0, amp/1000);\
+ Out.ar(0, x+y)\
+ \}).send(s));\
+ \
+   (\
+ SynthDef("accelBall2", \{\
+ arg freq = 440, fDist=100, amp=0, detune=400, \cf4 distort=1000\cf2 ;\
+ var freq1=freq+fDist;\
+ var freq2=freq-fDist;\
+ x =SinOsc.ar([freq1,freq1+(detune/100)],0, 
+\f1\fs24 \cf4 \CocoaLigature1 distort/100).fold2(1) * amp/1000
+\f0\fs22 \cf2 \CocoaLigature0 ;\
+ y =SinOsc.ar([freq2,freq2+(detune/100)],0, 
+\f1\fs24 \cf4 \CocoaLigature1 distort/100).fold2(1) * amp/1000
+\f0\fs22 \cf2 \CocoaLigature0 ;\
+ Out.ar(0, x+y)\
+ \}).send(s));\
+\cf5  
+\f1\fs24 \CocoaLigature1 \
+\pard\pardeftab720\ql\qnatural
+\cf5  \
+  
+\f0\fs22 \CocoaLigature0  (\cf4 \
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+\cf4  SynthDef("accelBall3", \{\
+ arg freq=440, detune=4, amp=0, distort=1000;\
+ //distort range should be be roughly between 0 and 20
+\f2\fs24 \CocoaLigature1 \
+\pard\pardeftab720\ql\qnatural
+
+\f1 \cf4  x=SinOsc.ar(
+\f2 \cf5 [freq,freq+detune]
+\f1 \cf4 , 0, distort/100).fold2(1) * amp/1000;\
+ Out.ar\cf5 (0,x)\
+ \}).send(s));
+\f0\fs22 \cf2 \CocoaLigature0 \
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+\cf2  \
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+
+\f2\fs24 \cf0 \CocoaLigature1 \
+\pard\tx560\pardeftab560\ql\qnatural\pardirnatural
+
+\f0\fs22 \cf2 \CocoaLigature0 \
+ \
+ \
+ \
+}

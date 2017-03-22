@@ -16,6 +16,25 @@
         ]
     },
     {
+        "name": "Drink Rink",
+        "nick": "drinkrink",
+        "year": "2016",
+        "description": "Drink Rink is a bar and a game platform created with fellow <a href='http://deathbyaudioarcade.com/'>Death By Audio Arcade</a> members <a href='http://www.kleebtronics.com/'>Mark Kleback</a> and <a href='http://whomakesgames.me/'>Anthony Marefat</a>. Drinks are placed in special coozies that are seen by the cameras in the bar and used as game pieces for the game projected up onto surface. The bar runs several ambient games and cycles between them. The bar debuted at the <a href='http://lwlvl.com/'>Lwlvl</a> chip tune festival in Brooklyn.",
+        "tags": [
+            "Featured",
+            "All",
+            "Game",
+            "Toy"
+        ],
+        "pics": [
+            "1.jpg",
+            "2.GIF",
+            "3.GIF",
+            "4.gif",
+            "5.JPG"
+        ]
+    },
+    {
         "name": "Genetic Combat",
         "nick": "genetic",
         "year": "2016",
@@ -38,7 +57,8 @@
         "description": "This Chrome extension attempts make sense of Steam reviews by changing the text of any “do not recommend” review by a user who has played over 24 hours of the game to “I do not know what I want.”<br><br><a href='https://chrome.google.com/webstore/detail/steam-users-dont-know-wha/abgbfcdlibmeecalpedlcddjcgjecihn?hl=en'>Available for free on the Chrom Web Store.</a>",
         "tags": [
             "All",
-            "Art"
+            "Art",
+            "Featured"
         ],
         "pics": [
             "pic1_small.png",
@@ -232,10 +252,232 @@
         ]
     },
     {
+        "name": "Find Me A Good One",
+        "nick": "findme",
+        "year": "2012",
+        "description": "Find Me A Good One was created with <a href='http://llcl.lc/'>Haitham Ennasr</a> as our MFA thesis at Parsons The New School For Design, and was nominated as an <a href='http://www.indiecade.com/2012/games/'>Indiecade 2012 Finalist</a>. It is available for free for PC or MAC <a href='http://andymakes.itch.io/find-me-a-good-one'>here.</a><br><br>Find Me A Good One is a puzzle platformer that explores the sense of responsibility felt by players towards non-playing fictional characters. Although the brother in Find Me A Good One is clearly dependent on the player, it is up to the player to decide how much they want to help their sibling. While most games force the player to complete the task at hand in order to move on, Find Me A Good One allows the player to be diligent in their responsibility, or shirk it in order to further explore the dreamscape of the game. Because the system does not assign value to her actions, the player is left to judge their own actions and the effect they have on their virtual brother.",
+        "tags": [
+            "All",
+            "Game",
+            "Featured"
+        ],
+        "pics": [
+            "thesisSitePic0.png",
+            "thesisSitePic1.png",
+            "thesisSitePic2.png",
+            "thesisSitePic3.png",
+            "thesisSitePic4.png"
+        ]
+    },
+    {
+        "name": "Destroy All Color",
+        "nick": "destroycolor",
+        "year": "2012",
+        "description": "The first game we released at <a href='http://goldenrubygames.com/'>Golden Ruby Games</a>, Destroy All Color! is a fast-paced puzzle game played by using the iPhone's camera to find and use colors in the player's environment to destroy blocks on screen. The color choosen is then used in the subsequent levels, getting progressively more difficult. This makes for a unique and interesting game mechanic that combines the real world around the player with the digital puzzle of the game.<br><br>The game is available for <a href='https://itunes.apple.com/us/app/destroy-all-color!-hd/id549937765?mt=8'>iPhone and iPad</a>.",
+        "tags": [
+            "All",
+            "Game",
+            "Featured"
+        ],
+        "pics": [
+            "dac1.PNG",
+            "dac2.PNG",
+            "dac3.PNG"
+        ]
+    },
+    {
+        "name": "Chase No Face",
+        "nick": "chase",
+        "year": "2012",
+        "description": "Music video available <a href='https://www.youtube.com/watch?v=RfbMVOIJzzo'>here</a>.<br><br>To shoot this video we programmed a series of masks in openFrameworks based on the face tracking code developed by <a href='http://thesystemis.com/'>Zach Lieberman</a> and <a href='http://www.daito.ws/'>Daito Manabe</a> using the FaceTracker library by <a href='http://jsaragih.org/'>Jason Saragih</a>. No post-production effects were used: everything in the video was recorded live, using a hacked Kinect, a laptop, a projector and a DSLR camera. Some of the masks respond to movement and others respond to sound, creating an expressive outcome.<br><br><a href='http://bellinspace.com/'>Bell</a> is a Brooklyn-based independent musician.<br><br>Project team : <a href='http://thesystemis.com/'>Zach Lieberman</a> (General direction, programming, video direction), <a href='http://franciscozamorano.cl/'>Francisco Zamorano</a> (Video direction, editing, programming), Andy Wallace (programming), <a href='http://cargocollective.com/michellecalabro'>Michelle Calabro</a> (camera).<br><br>Photos and blurb by Francisco Zamorano",
+        "tags": [
+            "All",
+            "Art",
+            "Featured"
+        ],
+        "pics": [
+            "noFace6.jpg",
+            "noFace0.jpg",
+            "noFace1.jpg",
+            "noFace3.jpg",
+            "noFace4.png",
+            "noFace5.jpg"
+        ]
+    },
+    {
+        "name": "Horse_ebooks Talker",
+        "nick": "horseebooks",
+        "year": "2012",
+        "description": "The Horse_ebooks Talker deals with the id of the internet in the form of Twitter spam-bot extraordinaire, <a href='https://twitter.com/Horse_ebooks'>Horse_ebooks</a>. This Twitter account advertises its products, but avoids the spam filters by grabbing random snippets of text from across the internet to appear ”alive” and in the process creates a compelling Dadaist tapestry of text from across the internet. This project tries to put these words back in the mouths of people by providing an augmented reality for anybody who looks at it, assigning them a random tweet to appear in a word balloon above their head.<br><br>This piece was featured in <a href='http://www.openconceptgallery.org/'>Open Concept Gallery's</a> Smart Multimedia Festival.",
+        "tags": [
+            "All",
+            "Art",
+            "Toy",
+            "Featured"
+        ],
+        "pics": [
+            "horseebooks1.png",
+            "horseebooks2.jpg",
+            "horseebooks3.png"
+        ]
+    },
+    {
+        "name": "All Cyrax Wants To Do Is Dance",
+        "nick": "cyrax",
+        "year": "2012",
+        "description": "This simple HTML5 game was created as an exercise to learn jQuery, which I felt like I really ought to know. It tells the touching story of a cybernetic ninja who just wants to get down.<br><br>It can be played <a href='http://andymakesgames.com/portfoliofiles/cyrax/'>here</a>.",
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "cyrax1.png",
+            "cyrax2.png",
+            "cyrax3.png",
+            "cyrax4.png"
+        ]
+    },
+    {
+        "name": "Broken Mirror",
+        "nick": "brokenmirror",
+        "year": "2011",
+        "description": "Broken Mirror is a camera application made in <a href='http://openframeworks.cc/'>openFrameworks</a> for the iPhone and iPad that takes the incoming camera feed and breaks it apart into a pixelated and constantly moving mosaic. Users can control the degree of abstraction in the image.<br><br><a href='https://itunes.apple.com/us/app/broken-mirror/id511029924'>The app is 99 cents on the iOS store.</a>",
+        "tags": [
+            "All",
+            "Toy",
+            "Featured"
+        ],
+        "pics": [
+            "brokenMirror1.jpeg",
+            "brokenMirror2.jpeg",
+            "brokenMirror3.jpeg"
+        ]
+    },
+    {
+        "name": "Sound Balls",
+        "nick": "soundballs",
+        "year": "2011",
+        "description": "Created as my first year final project at Parsons, Sound Balls is a non-traditional method of sound generation that blends digital and analog elements in the form of a new audio toy. By manipulating a set of smart balls, users convert real world action into a fluid sound-scape that affords play and exploration. The system as a whole has two unique modes of interaction: Free Form and Singing Bowl, and users learn the rules of these systems while interacting with the balls. The balls themselves have unique attributes in both their hardware and the way the information from them is converted into sound. The information is gathered from each ball by an implanted micro-controller and sent wirelessly to a computer where it is interpreted in order to create the sound.<br><br>Design Document: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/SoundBallsWallace.pdf'>Here</a><br><br>Base Station Arduino Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/BaseStationFinal.pde'>Here</a><br><br>Ball Transmitter Arduino Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/BallTransmitterFinal.pde'>Here</a><br><br>Transmitter Wiring Diagram: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/ballWiringDiagram.png'>Here</a><br><br>Receiver openFrameworks Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/soundBallsReciever.zip'>Here</a><br><br>SuperCollider Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/soundBalls.rtf'>Here</a>",
+        "tags": [
+            "All",
+            "Toy",
+            "Art",
+            "Featured"
+        ],
+        "pics": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg"
+        ]
+    },
+    {
+        "name": "ASCII Filter",
+        "nick": "ascii",
+        "year": "2011",
+        "description": "Demo video <a href='https://vimeo.com/27380117'>here</a><br><br>Based on an example project by <a href='http://benfry.com/''>Ben Fry</a> packaged with the Processing language, this program takes incoming video and converts it to a text output. Pixels from the original image are considered as a group, and each letter is chosen based on both its overall weight as well as how well the shape fits the pixel group.<br><br>Ben Fry's original required the use of color to show the image, but to have a filter that felt authentic to ASCII art, I wanted to create one that worked in simple black and white.<br><br>Processing Source Code: <a href='http://www.andymakesgames.com/portfoliofiles/ASCIIfilterWallace.zip'>Here</a>",
+        "tags": [
+            "All",
+            "Toy"
+        ],
+        "pics": [
+            "1.png"
+        ]
+    },
+    {
+        "name": "The Cuddle Cave",
+        "nick": "cuddle",
+        "year": "2011",
+        "description": "I worked with<a href='http://janefriedhoff.com'> Jane Friedhoff</a> and <a href='http://www.breefield.com/''>Dustin Hoffman</a> to create a truck for the Lost Horizons Night Market called the Cuddle Cave. The Cave consisted of over 150 Ikea pillows in the back of a U-Haul dressed up with satin sheets that could only be gotten to via crawling through a small dark tunnel. Those brave enough to enter were treated with calming music and a soft respite from the cold autumn night outside.",
+        "tags": [
+            "All",
+            "Art",
+            "Featured",
+            "Toy"
+        ],
+        "pics": [
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg",
+            "5.jpg",
+            "6.jpg"
+        ]
+    },
+    {
+        "name": "Star Gaze",
+        "nick": "stargaze",
+        "year": "2011",
+        "description": "This unique side-scroller was created by me and <a href='http://llcl.lc/'>Haitham Ennasr</a> as a proof of concept for our thesis at Parsons, exploring how game mechanics can make players feel responsible for NPCs. The player must pick their brother up at a train station late at night. On their way, they are given the chance to gaze up at the heavens to populate the sparse environment with constellations. However, this consumes an unknown amount of time and causes the player to run the risk of being late. There is no definite good or bad ending, but we observed that players tended to attach emotional weight to this relatively mundane situation.<br><br>It can be played online <a href='http://andymakesgames.com/portfoliofiles/stargaze/index.html'>here</a>.",
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "stargaze0.png",
+            "stargaze2.png",
+            "stargaze3.png",
+            "stargaze4.png",
+            "stargaze5.png",
+            "stargaze9.png"
+        ]
+    },
+    {
+        "name": "Bounce Box",
+        "nick": "bouncebox",
+        "year": "2011",
+        "description": "Bounce Box is a simple but compelling game with just one rule: to keep the balls in the box. With each hit, the colors of the game shift, and as more balls get added, the visuals change more rapidly and the game becomes more difficult.<br><br>Bounce Box is <a href='https://itunes.apple.com/us/app/bounce-box/id511751938?mt=8'>free on the iOS store</a>.",
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "bouncebox0.png",
+            "bouncebox1.png",
+            "bouncebox2.png",
+            "bouncebox3.png",
+            "bouncebox4.png"
+        ]
+    },
+    {
+        "name": "Fever Karaoke",
+        "nick": "fever",
+        "year": "2010",
+        "description": "While interning with Eyebeam fellow <a href='http://www.davidjimison.info'>David Jimison</a>, I created animations and worked on the code of his project, Fever Karaoke. The piece was presented in a karaoke bar setting, but after participants selected a song, they were presented with mad-lib style word replacements, which would alter the words of the song as they sang.<br><br>These animations were projected behind the players and danced along with them. The animations are modular and code-driven so that they could be swapped and rearranged easily.",
+        "tags": [
+            "All",
+            "Art",
+            "Featured"
+        ],
+        "pics": [
+            "fever1.jpg",
+            "fever2.jpg",
+            "fever3.jpg",
+            "fever4.jpg"
+        ]
+    },
+    {
+        "name": "Isabelle Poppy & Bling",
+        "nick": "ipb",
+        "year": "2009",
+        "description": "As I was finishing up my undergrad degree, I was approached by musician Justin Braun, to create a music video to promote his new album, <i>Relays From Home</i>. After listening to the song a few times, though, I thought the music was better suited for a game.<br><br>The game uses a collage style and is split into three major sections, each of which takes inspiration from and is directly affected by the music.<br><br>This game was a <a href='http://www.indiegames.com/2009/07/browser_game_pick_isabelle_pop.html'>Browser Game Pick at indieClick.com</a> and was featured in Gamasutra's article <a href='http://www.gamasutra.com/view/news/24749/Best_Of_Indie_Games_Falling_Head_Over_Heels_For_Art_Games.php'>Best of Indie Games: Falling Head Over Heels For Art Games.</a><br><br>It can be <a href='http://www.kongregate.com/games/andymasteroffish/isabelle-poppy-and-bling'>played for free</a> on Kongregate.",
+        "tags": [
+            "All",
+            "Game",
+            "Featured"
+        ],
+        "pics": [
+            "IPB01.png",
+            "IPB02.png",
+            "IPB03.png",
+            "IPB04.png",
+            "IPB05.png"
+        ]
+    },
+    {
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is the Assistant Professor of Game Design at Long Island University Post Campus and an indpipendent digital artist and game designer. He received his MFA from Parsons The New School For Design. His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a> and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been demoed at <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a> and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a><br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves the possibilities posed by the intersection of art and code. He can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>Andy lives in NYC and can't wait to move into an apartment that allows dogs.",
+        "description": "Andy Wallace is the Assistant Professor of Game Design at Long Island University Post Campus and an indpipendent digital artist and game designer. He received his MFA from Parsons The New School For Design in 2012 and worked for a few years at the tiny NYC game company Golden Ruby Games. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a> and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world including <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a><br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves the possibilities posed by the intersection of art and code. He can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>Andy lives in NYC and can't wait to move into an apartment that allows dogs.",
         "tags": [
             "About"
         ],
