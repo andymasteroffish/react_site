@@ -37,6 +37,8 @@ class App extends Component {
   }
 
   componentDidMount() {
+    //window.onpopstate = this.onBackButtonEvent
+
     if (window.location.hash) {
       const h = window.location.hash.replace("#", "");
       const index = _.indexOf(allTags, h);
@@ -59,6 +61,18 @@ class App extends Component {
     }
 
   }
+
+  //this actually fires for forward as well as back
+  // onBackButtonEvent (e) {
+  //   console.log(window.location.hash)
+  //   console.log("BACK")
+  //   console.log(e);
+  //   e.preventDefault()
+  //   //window.location.reload()
+  //   // debug('handling back button press')
+    
+  //   // this.transitionTo('chatrooms')
+  // }
 
   changeFilter(filter) {
     this.setState({
@@ -112,22 +126,21 @@ class App extends Component {
       <div  className="App">
         <Grid fluid>
           <Row style={{height:"40px", lineHeight:"50px"}}>
-            <Col xs={1}></Col>
-            <Col xs={6} style={{textAlign:"left"}} >
-              <h3 >Andy Wallace is a game designer and digital artist</h3>
+            
+            <Col xs={6} style={{textAlign:"left", "paddingLeft":"50px"}} >
+              <h3 style={{ "fontSize":"22px" }} >Andy Wallace makes games & digital art</h3>
             </Col>
-            <Col xs={4} style={{textAlign:"right"}}>
+            <Col xs={6} style={{textAlign:"right", "paddingRight":"50px"}}>
               <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://www.tumblr.com/blog/andymakesgames"><img src={"/img/icons/tumblr_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://vimeo.com/andymakes"><img src={"/img/icons/vimeo_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://github.com/andymasteroffish"><img src={"/img/icons/GitHub-Mark-64px_white.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://andymakes.itch.io/"><img src={"/img/icons/itch_resize.png"} width={socialIconSize*3.27} height={socialIconSize} style={socialIconStyle}></img></a>
             </Col>
-            <Col xs={1}></Col>
           </Row>
           <Row>
             <Col xs={12}>
-              <FilterBar changeFilter={this.changeFilter.bind(this)} chooseProject={this.chooseProject.bind(this)}/>
+              <FilterBar changeFilter={this.changeFilter.bind(this)} chooseProject={this.chooseProject.bind(this)} curFilter={this.state.filter}/>
             </Col>
           </Row>
           {elem}
@@ -154,7 +167,9 @@ class FilterBar extends Component {
       if (item == "About"){
         clickFunc = this.props.chooseProject.bind(this, "about")
       } 
-      return <NavItem key={i} onClick={clickFunc}>{item}</NavItem>
+      var isSelected = item == this.props.curFilter;
+      var thisStyle = isSelected ? {"fontWeight":"bold"} : {"fontWeight":"normal"}; 
+      return <NavItem key={i} style={thisStyle} onClick={clickFunc}>{item}</NavItem>
       
     })
 
@@ -189,10 +204,6 @@ class GridContainer extends Component {
   }
 
   render() {
-
-    console.log("----");
-
-
     let elems = Projects.map((v, i) => {
       if (_.indexOf(v.tags, this.props.filter) > -1) {
         return <GridItem key={i} chooseProject={this.props.chooseProject} project={v}/>  
@@ -220,10 +231,10 @@ class GridItem extends Component {
     var imgSrc = "/img/"+this.props.project.nick+"/icon.png";
 
     return (
-      <Col xs={4} sm={3} md={2} style={{height:"230px"}}>
+      <Col xs={4} sm={3} md={2} style={{height:"210px"}}>
       <div onClick={this.props.chooseProject.bind(this, this.props.project.nick)} style={{"cursor":"pointer"}}>
         <img src={imgSrc} width="150" height="150"></img>
-        <h3 style={{textAlign:"center", "marginTop":"5px", "fontSize":"18px"}}>{projectName}</h3>
+        <h3 style={{textAlign:"center", "marginTop":"5px", "fontSize":"16px"}}>{projectName}</h3>
       </div>
       </Col>
     )
@@ -246,7 +257,6 @@ class ProjectContainer extends Component {
   render() {
 
     var hasVid = this.props.project.hasOwnProperty('vid');
-    console.log("I GOT IT "+hasVid);
 
     let imgNumButtons = this.props.project.pics.map((picName, i) => {
       var style = {display:"inline-block", "verticalAlign":"top", "marginRight":"10px", "cursor":"pointer"}
@@ -276,13 +286,13 @@ class ProjectContainer extends Component {
         <Grid fluid>
            <Row style={{height:"40px", lineHeight:"70px"}}>
               <Col xs={12}>
-                 <h2 style={{textAlign:"left"}}>{this.props.project.name} - {this.props.project.year}</h2>
+                 <h2 style={{textAlign:"left", "fontSize":"20px", "fontWeight":"bold"}}>{this.props.project.name} - {this.props.project.year}</h2>
               </Col>
            </Row>
            {/*hello*/}
            <Row >
               <Col xs={4}>
-                 <div style={{textAlign:"left"}}>
+                 <div style={{textAlign:"left" , "fontSize":"14px"}}>
                    <div dangerouslySetInnerHTML={this.createMarkup()}>
                    </div>
                  </div>
