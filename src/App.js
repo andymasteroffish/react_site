@@ -111,18 +111,19 @@ class App extends Component {
     return (
       <div  className="App">
         <Grid fluid>
-          <Row style={{height:"40px", lineHeight:"70px"}}>
-            <Col xs={4}>
-              <h3>Andy Wallace!</h3>
+          <Row style={{height:"40px", lineHeight:"50px"}}>
+            <Col xs={1}></Col>
+            <Col xs={6} style={{textAlign:"left"}} >
+              <h3 >Andy Wallace is a game designer and digital artist</h3>
             </Col>
-            <Col xs={8} style={{textAlign:"left"}}>
+            <Col xs={4} style={{textAlign:"right"}}>
               <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://www.tumblr.com/blog/andymakesgames"><img src={"/img/icons/tumblr_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://vimeo.com/andymakes"><img src={"/img/icons/vimeo_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://github.com/andymasteroffish"><img src={"/img/icons/GitHub-Mark-64px_white.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://andymakes.itch.io/"><img src={"/img/icons/itch_resize.png"} width={socialIconSize*3.27} height={socialIconSize} style={socialIconStyle}></img></a>
             </Col>
-            
+            <Col xs={1}></Col>
           </Row>
           <Row>
             <Col xs={12}>
@@ -194,7 +195,6 @@ class GridContainer extends Component {
 
     let elems = Projects.map((v, i) => {
       if (_.indexOf(v.tags, this.props.filter) > -1) {
-        console.log(i+" "+v.name);
         return <GridItem key={i} chooseProject={this.props.chooseProject} project={v}/>  
       }
     })
@@ -239,7 +239,14 @@ class ProjectContainer extends Component {
     return {__html: this.props.project.description}
   }
 
+  createVidMarkup(){
+    return {__html: this.props.project.vid}
+  }
+
   render() {
+
+    var hasVid = this.props.project.hasOwnProperty('vid');
+    console.log("I GOT IT "+hasVid);
 
     let imgNumButtons = this.props.project.pics.map((picName, i) => {
       var style = {display:"inline-block", "verticalAlign":"top", "marginRight":"10px", "cursor":"pointer"}
@@ -253,6 +260,15 @@ class ProjectContainer extends Component {
     })
 
     var picSrc = "/img/"+this.props.project.nick+"/"+this.props.project.pics[this.props.curImgNum];
+
+    //set standard pic div
+    var picDiv = <div><img  src={picSrc}/></div>
+
+    //check if we're on a vid
+    if (this.props.project.pics[this.props.curImgNum] == "vid"){
+      picDiv = <div dangerouslySetInnerHTML={this.createVidMarkup()}></div>
+    }
+
     //console.log("should draw "+ picSrc);
     return (
 
@@ -272,7 +288,7 @@ class ProjectContainer extends Component {
                  </div>
               </Col>
               <Col xs={8} style={{textAlign:"left"}}>
-                <img  src={picSrc}/>
+                {picDiv}
                 <div >
                 {imgNumButtons}
                 </div>

@@ -9,7 +9,9 @@
             "All",
             "Game"
         ],
+        "vid": "<iframe src='https://player.vimeo.com/video/170259186' width='340' height='495' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>>",
         "pics": [
+            "vid",
             "pic1.png",
             "pic2.png",
             "chart.png"
@@ -57,7 +59,7 @@
         "description": "This Chrome extension attempts make sense of Steam reviews by changing the text of any “do not recommend” review by a user who has played over 24 hours of the game to “I do not know what I want.”<br><br><a href='https://chrome.google.com/webstore/detail/steam-users-dont-know-wha/abgbfcdlibmeecalpedlcddjcgjecihn?hl=en'>Available for free on the Chrom Web Store.</a>",
         "tags": [
             "All",
-            "Art",
+            "Other",
             "Featured"
         ],
         "pics": [
@@ -73,7 +75,7 @@
         "description": "It’s the geolocative calculator of nobody's dreams! ZipCalc is a Hell Products and a joke about consumerism bought to its breaking point. It's a calculator that uses your phones GPS to find your zip code and adds it to the result.<br><br>The app was also an elaborate ploy to sneak in an easter egg asking my amazing partner Jane to marry me (she said yes!).<br><br>You can download it for free on the <a href='https://itunes.apple.com/us/app/zipcalc/id1130420532?mt=8&ign-mpt=uo%3D4'>iOS app store</a>.",
         "tags": [
             "All",
-            "Art"
+            "Other"
         ],
         "pics": [
             "0.jpeg",
@@ -88,6 +90,7 @@
         "description": "Terminal town is a small, experimental puzzle that exists as a series of mysterious & personified command line tools. Every executable is a person or a tool and every folder is a place.<br><br>Players are tasked with opening the chest (a command line tool) in the center of town, and must learn how use the files that inhabit the town. There is no way to cheat. Everything in the game is just a file on the computer and can be treated as such.<br><br>While some experience with the terminal is helpful, the game does not require anything intense, and acts as a fun way to learn about a powerful part of the computer that many users are unfamiliar with.<br><br>It is <a href='https://andymakes.itch.io/terminal-town'>available for free</a> (Mac only).",
         "tags": [
             "All",
+            "Featured",
             "Game"
         ],
         "pics": [
@@ -120,7 +123,9 @@
             "All",
             "Game"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/149687218' width='750' height='468' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "pic0.png",
             "pic1.png"
         ]
@@ -150,7 +155,9 @@
             "Game",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/102190423' width='750' height='422' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "arcade0.png",
             "multiplay1.png",
             "arcade1.png",
@@ -167,7 +174,9 @@
             "Game",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/107056301' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "pic0.jpg",
             "pic1.jpg",
             "pic2.jpg",
@@ -202,8 +211,9 @@
             "Game",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/70116079' width='780' height='439' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
-            "hermitCrab0.png",
+            "vid",
             "hermitCrab1.jpg",
             "hermitCrab2.jpg",
             "hermitCrab3.jpg",
@@ -221,14 +231,15 @@
             "Game",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/82397975' width='700' height='394' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
-            "FeatureGraphic.png",
+            "vid",
             "wormRun0.png",
+            "wormRun5.JPG",
             "wormRun1.png",
             "wormRun2.png",
             "wormRun3.png",
-            "wormRun4.png",
-            "wormRun5.png"
+            "wormRun4.png"
         ]
     },
     {
@@ -241,7 +252,9 @@
             "Game",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/56350840' width='696' height='391' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "doodleDefense1.png",
             "doodleDefense2.jpg",
             "doodleDefense3.jpg",
@@ -279,7 +292,9 @@
             "Game",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/47744504' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "dac1.PNG",
             "dac2.PNG",
             "dac3.PNG"
@@ -289,13 +304,15 @@
         "name": "Chase No Face",
         "nick": "chase",
         "year": "2012",
-        "description": "Music video available <a href='https://www.youtube.com/watch?v=RfbMVOIJzzo'>here</a>.<br><br>To shoot this video we programmed a series of masks in openFrameworks based on the face tracking code developed by <a href='http://thesystemis.com/'>Zach Lieberman</a> and <a href='http://www.daito.ws/'>Daito Manabe</a> using the FaceTracker library by <a href='http://jsaragih.org/'>Jason Saragih</a>. No post-production effects were used: everything in the video was recorded live, using a hacked Kinect, a laptop, a projector and a DSLR camera. Some of the masks respond to movement and others respond to sound, creating an expressive outcome.<br><br><a href='http://bellinspace.com/'>Bell</a> is a Brooklyn-based independent musician.<br><br>Project team : <a href='http://thesystemis.com/'>Zach Lieberman</a> (General direction, programming, video direction), <a href='http://franciscozamorano.cl/'>Francisco Zamorano</a> (Video direction, editing, programming), Andy Wallace (programming), <a href='http://cargocollective.com/michellecalabro'>Michelle Calabro</a> (camera).<br><br>Photos and blurb by Francisco Zamorano",
+        "description": "To shoot this video we programmed a series of masks in openFrameworks based on the face tracking code developed by <a href='http://thesystemis.com/'>Zach Lieberman</a> and <a href='http://www.daito.ws/'>Daito Manabe</a> using the FaceTracker library by <a href='http://jsaragih.org/'>Jason Saragih</a>. No post-production effects were used: everything in the video was recorded live, using a hacked Kinect, a laptop, a projector and a DSLR camera. Some of the masks respond to movement and others respond to sound, creating an expressive outcome.<br><br><a href='http://bellinspace.com/'>Bell</a> is a Brooklyn-based independent musician.<br><br>Project team : <a href='http://thesystemis.com/'>Zach Lieberman</a> (General direction, programming, video direction), <a href='http://franciscozamorano.cl/'>Francisco Zamorano</a> (Video direction, editing, programming), Andy Wallace (programming), <a href='http://cargocollective.com/michellecalabro'>Michelle Calabro</a> (camera).<br><br>Photos and blurb by Francisco Zamorano",
         "tags": [
             "All",
-            "Art",
+            "Other",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/26689220' width='711' height='400' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "noFace6.jpg",
             "noFace0.jpg",
             "noFace1.jpg",
@@ -311,7 +328,7 @@
         "description": "The Horse_ebooks Talker deals with the id of the internet in the form of Twitter spam-bot extraordinaire, <a href='https://twitter.com/Horse_ebooks'>Horse_ebooks</a>. This Twitter account advertises its products, but avoids the spam filters by grabbing random snippets of text from across the internet to appear ”alive” and in the process creates a compelling Dadaist tapestry of text from across the internet. This project tries to put these words back in the mouths of people by providing an augmented reality for anybody who looks at it, assigning them a random tweet to appear in a word balloon above their head.<br><br>This piece was featured in <a href='http://www.openconceptgallery.org/'>Open Concept Gallery's</a> Smart Multimedia Festival.",
         "tags": [
             "All",
-            "Art",
+            "Other",
             "Toy",
             "Featured"
         ],
@@ -361,10 +378,12 @@
         "tags": [
             "All",
             "Toy",
-            "Art",
+            "Other",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/23824657' width='798' height='448' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "1.jpg",
             "2.jpg",
             "3.jpg"
@@ -379,7 +398,9 @@
             "All",
             "Toy"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/27380117' width='640' height='480' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
+            "vid",
             "1.png"
         ]
     },
@@ -390,7 +411,7 @@
         "description": "I worked with<a href='http://janefriedhoff.com'> Jane Friedhoff</a> and <a href='http://www.breefield.com/''>Dustin Hoffman</a> to create a truck for the Lost Horizons Night Market called the Cuddle Cave. The Cave consisted of over 150 Ikea pillows in the back of a U-Haul dressed up with satin sheets that could only be gotten to via crawling through a small dark tunnel. Those brave enough to enter were treated with calming music and a soft respite from the cold autumn night outside.",
         "tags": [
             "All",
-            "Art",
+            "Other",
             "Featured",
             "Toy"
         ],
@@ -430,12 +451,11 @@
             "All",
             "Game"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/41514080' width='640' height='480' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
-            "bouncebox0.png",
-            "bouncebox1.png",
+            "vid",
             "bouncebox2.png",
-            "bouncebox3.png",
-            "bouncebox4.png"
+            "bouncebox3.png"
         ]
     },
     {
@@ -445,7 +465,7 @@
         "description": "While interning with Eyebeam fellow <a href='http://www.davidjimison.info'>David Jimison</a>, I created animations and worked on the code of his project, Fever Karaoke. The piece was presented in a karaoke bar setting, but after participants selected a song, they were presented with mad-lib style word replacements, which would alter the words of the song as they sang.<br><br>These animations were projected behind the players and danced along with them. The animations are modular and code-driven so that they could be swapped and rearranged easily.",
         "tags": [
             "All",
-            "Art",
+            "Other",
             "Featured"
         ],
         "pics": [
@@ -459,18 +479,36 @@
         "name": "Isabelle Poppy & Bling",
         "nick": "ipb",
         "year": "2009",
-        "description": "As I was finishing up my undergrad degree, I was approached by musician Justin Braun, to create a music video to promote his new album, <i>Relays From Home</i>. After listening to the song a few times, though, I thought the music was better suited for a game.<br><br>The game uses a collage style and is split into three major sections, each of which takes inspiration from and is directly affected by the music.<br><br>This game was a <a href='http://www.indiegames.com/2009/07/browser_game_pick_isabelle_pop.html'>Browser Game Pick at indieClick.com</a> and was featured in Gamasutra's article <a href='http://www.gamasutra.com/view/news/24749/Best_Of_Indie_Games_Falling_Head_Over_Heels_For_Art_Games.php'>Best of Indie Games: Falling Head Over Heels For Art Games.</a><br><br>It can be <a href='http://www.kongregate.com/games/andymasteroffish/isabelle-poppy-and-bling'>played for free</a> on Kongregate.",
+        "description": "As I was finishing up my undergrad degree, I was approached by musician Justin Braun, to create a music video to promote his new album, <i>Relays From Home</i>. After listening to the song a few times, though, I thought the music was better suited for a game.<br><br>The game was made in Flash uses a collage style and is split into three major sections, each of which takes inspiration from and is directly affected by the music.<br><br>This game was a <a href='http://www.indiegames.com/2009/07/browser_game_pick_isabelle_pop.html'>Browser Game Pick at indieClick.com</a> and was featured in Gamasutra's article <a href='http://www.gamasutra.com/view/news/24749/Best_Of_Indie_Games_Falling_Head_Over_Heels_For_Art_Games.php'>Best of Indie Games: Falling Head Over Heels For Art Games.</a><br><br>It can be <a href='http://www.kongregate.com/games/andymasteroffish/isabelle-poppy-and-bling'>played for free</a> on Kongregate.",
         "tags": [
             "All",
             "Game",
             "Featured"
         ],
+        "vid":"<iframe src='https://player.vimeo.com/video/210004094' width='630' height='540' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
-            "IPB01.png",
-            "IPB02.png",
+            "vid",
             "IPB03.png",
             "IPB04.png",
-            "IPB05.png"
+            "IPB05.png",
+            "IPB02.png",
+            "IPB01.png"
+        ]
+    },
+    {
+        "name": "Roving",
+        "nick": "roving",
+        "year": "2008",
+        "description": "This music video was created in Flash for the pirate puppet rock opera, <a href='hepp://www.thewhizbang.org'>Jollyship The Whiz-Bang!</a>, which has run in various forms in many theaters throughout New York. The video uses photographs of the puppets from the shows along with collage style animation to show the drunken heroes braving a storm at sea.",
+        "tags": [
+            "All",
+            "Other"
+        ],
+        "vid":"<iframe src='https://player.vimeo.com/video/209999964' width='700' height='509' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "1.jpg",
+            "2.png"
         ]
     },
     {
