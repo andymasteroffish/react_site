@@ -38,18 +38,29 @@ class App extends Component {
 
   componentDidMount() {
     //window.onpopstate = this.onBackButtonEvent
+    this.fakeReload(window.location.hash, location.search)
+    
+    history.listen((location, action) => {
+      console.log(`The current URL is ${location.pathname}${location.search}${location.hash}`)
+      console.log(`The last navigation action was ${action}`)
+      this.fakeReload(location.hash, location.search)
+    })    
 
-    if (window.location.hash) {
-      const h = window.location.hash.replace("#", "");
+  }
+
+  fakeReload(hash, search) {
+    console.log(hash, search)
+    if (hash) {
+      const h = hash.replace("#", "");
       const index = _.indexOf(allTags, h);
       if (index > -1) {
         this.setState({
-          filter: h
+          filter: h,
+          mode: "grid",
         })
       }
-    } else {
-      let qs = queryString.parse(location.search);
-      //console.log(qs)
+    } else if (search) {
+      let qs = queryString.parse(search);
       if (qs["?p"]) {
         const index = _.indexOf(allProjectNicks, qs["?p"]);
         if (index > -1) {
@@ -58,8 +69,12 @@ class App extends Component {
           })
         }
       }
+    } else {
+      this.setState({
+        filter: 'Featured',
+        mode: "grid"
+      })
     }
-
   }
 
   //this actually fires for forward as well as back
@@ -88,7 +103,7 @@ class App extends Component {
   }
 
   chooseProject(nick) {  
-    history.replace({
+    history.push({
       hash: '',
       search: '?p=' + nick
     })
@@ -96,7 +111,6 @@ class App extends Component {
       mode: "project",
       imgNum: 0,
     })
-    window.location.reload();
   }
 
   chooseImage(imgNum){
@@ -111,10 +125,10 @@ class App extends Component {
       elem = <GridContainer chooseProject={this.chooseProject.bind(this)} filter={this.state.filter}/>
     } 
     else if (this.state.mode == "project") {
-      let qs = queryString.parse(location.search);
+      let qs = queryString.parse(history.location.search);
       let nick = qs["?p"]
-      
       let proj = _.find(Projects, {'nick': nick});
+
 
       elem = <ProjectContainer project={proj} chooseImage={this.chooseImage.bind(this)} curImgNum={this.state.imgNum}/>
     }
