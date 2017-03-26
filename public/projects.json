@@ -3,7 +3,7 @@
         "name": "Noise Snke",
         "nick": "noisesnke",
         "year": "2016",
-        "description": "Noise Snke is an experimental Snake game that plays with data mutability by writing its board state directly to the sound card. The harsh sound that it creates highlights the fact that to a computer, data has no intrinsic meaning and can be used for any purpose.<br><br>Noise Snke was shown in Korea in 2016 at the <a href='http://bicfest.org/'>Busan Indie Connect Festival</a>. Game and write-up available <a href='https://andymakes.itch.io/noise-snke'>here</a>.",
+        "description": "Noise Snke is an experimental Snake game that plays with data mutability by writing its board state directly to the sound card. The harsh sound that it creates highlights the fact that to a computer, data has no intrinsic meaning and can be used for any purpose.<br><br>Noise Snke was shown in Korea in 2016 at the <a href='http://bicfest.org/'>Busan Indie Connect Festival</a>. Game and a write-up is available <a href='https://andymakes.itch.io/noise-snke'>here</a>.",
         "tags": [
             "Featured",
             "All",
@@ -21,7 +21,7 @@
         "name": "Drink Rink",
         "nick": "drinkrink",
         "year": "2016",
-        "description": "Drink Rink is a bar and a game platform created with fellow <a href='http://deathbyaudioarcade.com/'>Death By Audio Arcade</a> members <a href='http://www.kleebtronics.com/'>Mark Kleback</a> and <a href='http://whomakesgames.me/'>Anthony Marefat</a>. Drinks are placed in special coozies that are seen by the cameras in the bar and used as game pieces for the game projected up onto surface. The bar runs several ambient games and cycles between them. The bar debuted at the <a href='http://lwlvl.com/'>Lwlvl</a> chip tune festival in Brooklyn.",
+        "description": "Drink Rink is a bar and a game platform created with fellow <a href='http://deathbyaudioarcade.com/'>Death By Audio Arcade</a> members <a href='http://www.kleebtronics.com/'>Mark Kleback</a> and <a href='http://whomakesgames.me/'>K. Anthony Marefat</a>. Drinks are placed in special coozies that are seen by the cameras in the bar and used as game pieces for the game projected up onto surface. The bar runs several ambient games and cycles between them. The bar debuted at the <a href='http://lwlvl.com/'>Lwlvl</a> chiptune festival in Brooklyn.",
         "tags": [
             "Featured",
             "All",
@@ -72,7 +72,7 @@
         "name": "ZipCalc!",
         "nick": "zipcalc",
         "year": "2016",
-        "description": "It’s the geolocative calculator of nobody's dreams! ZipCalc is a Hell Products and a joke about consumerism bought to its breaking point. It's a calculator that uses your phones GPS to find your zip code and adds it to the result.<br><br>The app was also an elaborate ploy to sneak in an easter egg asking my amazing partner Jane to marry me (she said yes!).<br><br>You can download it for free on the <a href='https://itunes.apple.com/us/app/zipcalc/id1130420532?mt=8&ign-mpt=uo%3D4'>iOS app store</a>.",
+        "description": "It’s the geolocative calculator of nobody's dreams! ZipCalc is a Hell Products and a joke about consumerism bought to its breaking point. It's a calculator that uses your phone's GPS to find your zip code and adds it to the result.<br><br>The app was also an elaborate ploy to sneak in an easter egg asking my amazing partner Jane to marry me (she said yes!).<br><br>You can download it for free on the <a href='https://itunes.apple.com/us/app/zipcalc/id1130420532?mt=8&ign-mpt=uo%3D4'>iOS app store</a>.",
         "tags": [
             "All",
             "Other"
@@ -87,7 +87,7 @@
         "name": "Terminal Town",
         "nick": "terminaltown",
         "year": "2016",
-        "description": "Terminal town is a small, experimental puzzle that exists as a series of mysterious & personified command line tools. Every executable is a person or a tool and every folder is a place.<br><br>Players are tasked with opening the chest (a command line tool) in the center of town, and must learn how use the files that inhabit the town. There is no way to cheat. Everything in the game is just a file on the computer and can be treated as such.<br><br>While some experience with the terminal is helpful, the game does not require anything intense, and acts as a fun way to learn about a powerful part of the computer that many users are unfamiliar with.<br><br>It is <a href='https://andymakes.itch.io/terminal-town'>available for free</a> (Mac only).",
+        "description": "Terminal Town is a small, experimental puzzle that exists as a series of mysterious & anthropomorphized command line tools. Every executable is a person or a tool and every folder is a place.<br><br>Players are tasked with opening the chest (a command line tool) in the center of town, and must learn how use the files that inhabit the town. There is no way to cheat. Everything in the game is just a file on the computer and can be treated as such.<br><br>While some experience with the terminal is helpful, the game does not require anything intense, and acts as a fun way to learn about a powerful part of the computer that many users are unfamiliar with.<br><br>It is <a href='https://andymakes.itch.io/terminal-town'>available for free</a> (Mac only).",
         "tags": [
             "All",
             "Featured",
@@ -117,7 +117,7 @@
         "name": "Intimate Codex",
         "nick": "intimatecodex",
         "year": "2016",
-        "description": "<a href='https://andymakes.itch.io/intimate-codex'>Intimate Codex</a> is an interactive non-linear text explorer that allows the user to traverse static text from a more first-person perspective. Books, poems, any other texts fed into it are broken up into passages, and the user can move between these passages by typing a particular word on screen. After submitting that word, they are brought to a new passage that shares that word.<br><br>By providing connections between different passages (and even entirely different works) based on keywords and randomness new narratives and meanings appear that can be vastly different from the original, linear stories.<br><br>Users are also encouraged to provide their own text, either from stories they like or their own original writing.<br><br>It can be downloaded for pay-what-you-want here: <a href='https://andymakes.itch.io/intimate-codex'>https://andymakes.itch.io/intimate-codex</a><br><br<The overall experience was inspired by <a href='http://www.herstorygame.com/'>Her Story</a>.",
+        "description": "<a href='https://andymakes.itch.io/intimate-codex'>Intimate Codex</a> is an interactive non-linear text explorer that allows the user to traverse static text from a more first-person perspective. Books, poems, and any other texts fed into it are broken up into passages, and the user can move between these passages by typing a particular word on screen. After submitting that word, they are brought to a new passage that shares that word.<br><br>By providing connections between different passages (and even entirely different works) based on keywords and randomness, new narratives and meanings appear that can be vastly different from the original, linear stories.<br><br>Users are also encouraged to provide their own text, either from stories they like or their own original writing.<br><br>It can be downloaded for pay-what-you-want here: <a href='https://andymakes.itch.io/intimate-codex'>https://andymakes.itch.io/intimate-codex</a><br><br<The overall experience was inspired by <a href='http://www.herstorygame.com/'>Her Story</a>.",
         "tags": [
             "Featured",
             "All",
@@ -146,10 +146,28 @@
         ]
     },
     {
-        "name": "Particle Mace",
+        "name": "Bloom Cave",
+        "nick": "bloom",
+        "year": "2016",
+        "description": "Bloom Cave is an endless cave-gardening sim created by Andy Wallace in 48 hours for Global Game Jam 2016 for the theme ”ritual”. Moving past the edge of a room will cause a new one to be created based on the runes in the crurrent garden. The runes are inscrutable, though, forcing the player to simply wander and enjoy.<br><br>It can be played for free <a href='https://andymakes.itch.io/bloom-cave'>here</a>.<br><br>Music by <a href='http://bubblepipemedia.com/'>Nathaniel Chambers.</a>",
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "vid":"<iframe src='https://player.vimeo.com/video/153699269' width='600' height='375' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "rune_cycle.gif",
+            "1.png",
+            "2.png",
+            "title.png"
+        ]
+    },
+    {
+        "name": "PARTICLE MACE",
         "nick": "particlemace",
         "year": "2015",
-        "description": "Particle Mace is a game for Windows, Mac and iOS that pays homage to classic space shooters, but replaces the typical guns with an unruly physics-based weapon. Players control a tiny ship in an extremely hostile universe, and must defend themselves as long as possible from enemy ships and asteroids using a collection of trash particles tethered to the ship. To survive, players must carefully navigate around the many hazards while building up momentum to swing their weapon into foes or other players.<br><br>Inspired by twitchy arcade classics old and new, Particle Mace requires quick reflexes to stay alive, rewarding skilled players with high scores worth bragging about and giving new players a reason to hit restart. Graphically, the game uses abstracted visuals to create a striking play field combined with an entrancing procedural background.<br><br>More info at <a href='http://particlemace.com'>particlemace.com</a>",
+        "description": "PARTICLE MACE is a game for Windows, Mac and iOS that pays homage to classic space shooters, but replaces the typical guns with an unruly physics-based weapon. Players control a tiny ship in an extremely hostile universe, and must defend themselves as long as possible from enemy ships and asteroids using a collection of trash particles tethered to the ship. To survive, players must carefully navigate around the many hazards while building up momentum to swing their weapon into foes or other players.<br><br>Inspired by twitchy arcade classics old and new, PARTICLE MACE requires quick reflexes to stay alive, rewarding skilled players with high scores worth bragging about and giving new players a reason to hit restart. Graphically, the game uses abstracted visuals to create a striking play field combined with an entrancing procedural background.<br><br>More info at <a href='http://particlemace.com'>particlemace.com</a>",
         "tags": [
             "All",
             "Game",
@@ -187,7 +205,7 @@
         "name": "Musclebound Glory",
         "nick": "musclebound",
         "year": "2014",
-        "description": "Musclebound Glory is a card and prop based party game about channeling your inner 80s action hero and crafting the perfect kill line. Players  hear a randomized action movie-style moment (including the villain being killed, the method of annihilation, and a twist), for which they must craft the perfect killer zinger. Players don berets, bandoliers, and Ray Bans to deliver their lines in style. The best line is decided by the group, and a new hero walks away from the explosion victorious, never turning back.<br><br>Musclebound Glory was shown at <a href='http://www.comeoutandplay.org/project/musclebound-glory/'>Come Out And Play 2014</a> in New York. We provided the deck and a carefully curated collection of props<br><br>Photo by <a href='https://www.flickr.com/photos/liabulaong/14707849584/in/set-72157645412278598'>Lia Bulaong</a>",
+        "description": "Musclebound Glory is a card- and prop-based party game about channeling your inner 80s action hero and crafting the perfect kill line. Players hear a randomized action movie-style moment (including the villain being killed, the method of annihilation, and a twist), for which they must craft the perfect killer zinger. Players don berets, bandoliers, and Ray Bans to deliver their lines in style. The best line is decided by the group, and a new hero walks away from the explosion victorious, never turning back.<br><br>Musclebound Glory was shown at <a href='http://www.comeoutandplay.org/project/musclebound-glory/'>Come Out And Play 2014</a> in New York. We provided the deck and a carefully curated collection of props<br><br>Photo by <a href='https://www.flickr.com/photos/liabulaong/14707849584/in/set-72157645412278598'>Lia Bulaong</a>",
         "tags": [
             "All",
             "Game",
@@ -205,7 +223,7 @@
         "name": "Hermit Crab In Space",
         "nick": "hermitcrab",
         "year": "2013",
-        "description": "Originally created as part of the Sony sponsored PlayStation Mobile jam at the first Indiecade East, Hermit Crab In Space is the third game by <a href='http://goldenrubygames.com/'>Golden Ruby Games</a>. One part Star Fox, one part Minecraft with a healthy dose of Captain Forever mixed in, Hermit Crab in Space won the IndieCade East GameJam in February 2013 and became a <a href='http://www.indiecade.com/2013/nominees/'>finalist at IndieCade</a> the following year.<br><br>Players take the role of a hermit crab who has warped herself into the wrong sector and must cobble together a ship from the parts she blasts off her opponents. The game makes use of the touch screen and tactile buttons of the Sony Vita by allowing players to drag free-floating pieces to their ship and then select a button to activate them. This means that players create their ship and control scheme on the fly while playing.<br><br>Level and enemy design by <a href='http://janefriedhoff.com/'>Jane Friedhoff</a>.<br><br>It is available on any PSM enabled device, but is intended to be played on the Vita. You can visit its PSM page <a href='http://us.playstation.com/games/hermit-crab-in-space-psm.html'>here</a>.",
+        "description": "Originally created as part of the Sony-sponsored PlayStation Mobile jam at the first Indiecade East, Hermit Crab In Space is the third game by <a href='http://goldenrubygames.com/'>Golden Ruby Games</a>. One part Star Fox, one part Minecraft, with a healthy dose of Captain Forever mixed in, Hermit Crab in Space won the IndieCade East GameJam in February 2013 and became a <a href='http://www.indiecade.com/2013/nominees/'>finalist at IndieCade</a> the following year.<br><br>Players take the role of a hermit crab who has warped herself into the wrong sector and must cobble together a ship from the parts she blasts off her opponents. The game makes use of the touch screen and tactile buttons of the Sony Vita by allowing players to drag free-floating pieces to their ship and then select a button to activate them. This means that players create their ship and control scheme on the fly while playing.<br><br>Level and enemy design by <a href='http://janefriedhoff.com/'>Jane Friedhoff</a>.<br><br>It is available on any PSM enabled device, but is intended to be played on the Vita. You can visit its PSM page <a href='http://us.playstation.com/games/hermit-crab-in-space-psm.html'>here</a>.",
         "tags": [
             "All",
             "Game",
@@ -225,7 +243,7 @@
         "name": "Worm Run",
         "nick": "wormrun",
         "year": "2013",
-        "description": "You are Zeke Tallahassee, hapless space miner in the wrong place at the wrong time. Swipe on your touchscreen to move Zeke through an ever changing labyrinth all while being chased by a blood-thirsty, gigantic space Worm.<br><br>This was our second title at <a href='http://www.goldenrubygames.com'>Golden Ruby Games</a> and is currently available for <a href='https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CCsQFjAA&amp;url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fworm-run%2Fid569497239%3Fmt%3D8&amp;ei=mpfNUoWEE9OgkAfqqoD4BA&amp;usg=AFQjCNF_SOBq2-gzv8dD5fbkY3GEFkvNNw&amp;bvm=bv.58187178,d.eW0'>iOS</a>, <a href='https://play.google.com/store/apps/details?id=com.GoldenRubyGames.WormRun&amp;hl=en'>Android</a>, and <a href='http://apps.microsoft.com/windows/en-us/app/wormrun/f3a97f77-a3f2-4c7b-a9c3-a520462b86d1'>Windows 8</a>.<br><br>Our goal with this game was to create a control scheme for platformers that made sense for touch screens. We did this by adopting a gestural control scheme, rather than using clunky on-screen buttons, creating a tense, platforming experience actually designed for the device the game was being played on.<br><br>We also explored potential for a shared multiplayer experience that used iPhones as controllers when we ran a special four-person version of the game at the <a href='http://gowanusloft.com/''>Gowanus Loft</a> in Brooklyn.<br><br>A detailed description of how the procedural caves of Worm Run are created can be found <a href='http://www.gamasutra.com/blogs/AndyWallace/20140108/208248/Procedural_Level_Generation_In_Worm_Run.php'>here</a>.",
+        "description": "You are Zeke Tallahassee, hapless space miner in the wrong place at the wrong time. Swipe on your touchscreen to move Zeke through an ever-changing labyrinth all while being chased by a blood-thirsty, gigantic space Worm.<br><br>This was our second title at <a href='http://www.goldenrubygames.com'>Golden Ruby Games</a> and is currently available for <a href='https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CCsQFjAA&amp;url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fworm-run%2Fid569497239%3Fmt%3D8&amp;ei=mpfNUoWEE9OgkAfqqoD4BA&amp;usg=AFQjCNF_SOBq2-gzv8dD5fbkY3GEFkvNNw&amp;bvm=bv.58187178,d.eW0'>iOS</a>, <a href='https://play.google.com/store/apps/details?id=com.GoldenRubyGames.WormRun&amp;hl=en'>Android</a>, and <a href='http://apps.microsoft.com/windows/en-us/app/wormrun/f3a97f77-a3f2-4c7b-a9c3-a520462b86d1'>Windows 8</a>.<br><br>Our goal with this game was to create a control scheme for platformers that made sense for touch screens. We did this by adopting a gestural control scheme, rather than using clunky on-screen buttons, creating a tense, platforming experience actually designed for the device the game was being played on.<br><br>We also explored potential for a shared multiplayer experience that used iPhones as controllers when we ran a special four-person version of the game at the <a href='http://gowanusloft.com/'>Gowanus Loft</a> in Brooklyn.<br><br>A detailed description of how the procedural caves of Worm Run are created can be found <a href='http://www.gamasutra.com/blogs/AndyWallace/20140108/208248/Procedural_Level_Generation_In_Worm_Run.php'>here</a>.",
         "tags": [
             "All",
             "Game",
@@ -246,7 +264,7 @@
         "name": "Doodle Defense",
         "nick": "doodledefense",
         "year": "2012",
-        "description": "Doodle Defense is a tower defense game that explores drawing as a means for game interaction and play. Players draw mazes and towers on a whiteboard with regular dry erase markers to stop projected foes. The game received 150% backing on Kickstarter and has been featured on <a href='http://indiegames.com/2012/02/kinect_and_ipad_kickstarter_do.html'>IndieGames.com</a>, <a href='http://www.engadget.com/2012/02/16/doodle-defense-game-uses-kinect-to-turn-white-boards-into-displa/'>Engadget</a>, <a href='http://www.pcworld.com/article/250250/indie_kinect_game_turns_your_doodles_into_weapons_of_war.html'>PC World</a>, <a href='http://www.ubergizmo.com/2012/02/doodle-defense/'>Ubergizmo</a>, <a href='http://www.fastcodesign.com/1669089/doodle-defense-turns-a-whiteboard-into-a-battlefield'>FastCo Design</a>, <a href='http://www.ugo.com/games/best-video-game-kickstarter-projects'>UGO's list of the top video game Kickstarter projects</a> and many other publications. It went on to be shown at <a href='http://comeoutandplaysf.org/2012/doodle-defense/'>Come Out And Play San Francisco</a>, <a href='https://www.sfmoma.org/'>SF MOMA</a> and the <a href='https://dublin.sciencegallery.com/''>Dublin Science Gallery</a>.<br><br>The game uses a camera and a projector in conjunction with the whiteboard to create a unique platform for play. The code and system is all my own, written in openFrameworks. The code is open source and can be viewed <a href='https://github.com/andymasteroffish/DoodleDefense'>here</a>.<br><br>All art in the game was done by <a href='http://moderngirlblitz.tumblr.com/'>Michelle Belickis</a><br><br>The game is available for free for whiteboard at <a href='http://www.doodledefense.com'>doodledefense.com</a> and for <a href='https://itunes.apple.com/us/app/doodle-defense-mobile/id562738461?ls=1&amp;mt=8'>$2 on iPad</a>",
+        "description": "Doodle Defense is a tower defense game that explores drawing as a means for game interaction and play. Players draw mazes and towers on a whiteboard with regular dry erase markers to stop projected foes. The game received 150% backing on Kickstarter and has been featured on <a href='http://indiegames.com/2012/02/kinect_and_ipad_kickstarter_do.html'>IndieGames.com</a>, <a href='http://www.engadget.com/2012/02/16/doodle-defense-game-uses-kinect-to-turn-white-boards-into-displa/'>Engadget</a>, <a href='http://www.pcworld.com/article/250250/indie_kinect_game_turns_your_doodles_into_weapons_of_war.html'>PC World</a>, <a href='http://www.ubergizmo.com/2012/02/doodle-defense/'>Ubergizmo</a>, <a href='http://www.fastcodesign.com/1669089/doodle-defense-turns-a-whiteboard-into-a-battlefield'>FastCo Design</a>, <a href='http://www.ugo.com/games/best-video-game-kickstarter-projects'>UGO's list of the top video game Kickstarter projects</a> and many other publications. It went on to be shown at <a href='http://comeoutandplaysf.org/2012/doodle-defense/'>Come Out And Play San Francisco</a>, <a href='https://www.sfmoma.org/'>SF MOMA</a> and the <a href='https://dublin.sciencegallery.com/''>Dublin Science Gallery</a>.<br><br>The game uses a camera and a projector in conjunction with the whiteboard to create a unique platform for play. The code and system is all my own, written in openFrameworks. The code is open source and can be viewed <a href='https://github.com/andymasteroffish/DoodleDefense'>here</a>.<br><br>All art in the game was done by <a href='http://moderngirlblitz.tumblr.com/'>Michelle Belickis</a>.<br><br>The game is available for free for whiteboard at <a href='http://www.doodledefense.com'>doodledefense.com</a> and for <a href='https://itunes.apple.com/us/app/doodle-defense-mobile/id562738461?ls=1&amp;mt=8'>$2 on iPad</a>",
         "tags": [
             "All",
             "Game",
@@ -268,7 +286,7 @@
         "name": "Find Me A Good One",
         "nick": "findme",
         "year": "2012",
-        "description": "Find Me A Good One was created with <a href='http://llcl.lc/'>Haitham Ennasr</a> as our MFA thesis at Parsons The New School For Design, and was nominated as an <a href='http://www.indiecade.com/2012/games/'>Indiecade 2012 Finalist</a>. It is available for free for PC or MAC <a href='http://andymakes.itch.io/find-me-a-good-one'>here.</a><br><br>Find Me A Good One is a puzzle platformer that explores the sense of responsibility felt by players towards non-playing fictional characters. Although the brother in Find Me A Good One is clearly dependent on the player, it is up to the player to decide how much they want to help their sibling. While most games force the player to complete the task at hand in order to move on, Find Me A Good One allows the player to be diligent in their responsibility, or shirk it in order to further explore the dreamscape of the game. Because the system does not assign value to her actions, the player is left to judge their own actions and the effect they have on their virtual brother.",
+        "description": "Find Me A Good One was created with <a href='http://llcl.lc/'>Haitham Ennasr</a> as our MFA thesis at Parsons The New School For Design, and was nominated as an <a href='http://www.indiecade.com/2012/games/'>Indiecade 2012 Finalist</a>. It is available for free for PC or Mac <a href='http://andymakes.itch.io/find-me-a-good-one'>here.</a><br><br>Find Me A Good One is a puzzle platformer that explores the sense of responsibility felt by players towards non-playing fictional characters. Although the brother in Find Me A Good One is clearly dependent on the player, it is up to the player to decide how much they want to help their sibling. While most games force the player to complete the task at hand in order to move on, Find Me A Good One allows the player to be diligent in their responsibility, or shirk it in order to further explore the dreamscape of the game. Because the system does not assign value to her actions, the player is left to judge their own actions and the effect they have on their virtual brother.",
         "tags": [
             "All",
             "Game",
@@ -405,10 +423,28 @@
         ]
     },
     {
+        "name": "Sisyphus.nes",
+        "nick": "sisyphus",
+        "year": "2011",
+        "description": "This collection of hacked Super Mario ROMs converts the game into retellings of three Greek myths. While Icarus is fairly straightforward, Prometheus and Sisyphus exploit systems within Mario to create games where the player can neither win nor die.<br><br>Prometheus is forced to collect an unavoidable mushroom before being struck by unavoidable bullets until he eventually reaches an inescapable chamber to wait while time runs out.<br><br>Sisyphus hacks a one-off looping level of the original game to create a mountain that the player continuously scales without ever progressing.<br><br>These ROM hacks were created in collaboration with <a href='http://breechapin.com/'>Bree Chapin</a> and <a href='http://www.justinblinder.com/''>Justin Blinder</a> while we were at Parsons.<br><br>The ROMs can be downloaded <a href='files/sisyphus_dot_nes.zip'>here</a>",
+        "tags": [
+            "All",
+            "Other",
+            "Game"
+        ],
+        "vid":"<iframe src='https://player.vimeo.com/video/49642915' width='500' height='472' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "prom1.png",
+            "prom2.png",
+            "sis.png"
+        ]
+    },
+    {
         "name": "The Cuddle Cave",
         "nick": "cuddle",
         "year": "2011",
-        "description": "I worked with<a href='http://janefriedhoff.com'> Jane Friedhoff</a> and <a href='http://www.breefield.com/''>Dustin Hoffman</a> to create a truck for the Lost Horizons Night Market called the Cuddle Cave. The Cave consisted of over 150 Ikea pillows in the back of a U-Haul dressed up with satin sheets that could only be gotten to via crawling through a small dark tunnel. Those brave enough to enter were treated with calming music and a soft respite from the cold autumn night outside.",
+        "description": "I worked with<a href='http://janefriedhoff.com'> Jane Friedhoff</a> and <a href='http://www.breefield.com/'>Dustin Hoffman</a> to create a truck for the Lost Horizons Night Market called the Cuddle Cave. The Cave consisted of over 150 Ikea pillows in the back of a U-Haul dressed up with satin sheets that could only be gotten to via crawling through a small dark tunnel. Those brave enough to enter were treated with calming music and a soft respite from the cold autumn night outside.",
         "tags": [
             "All",
             "Other",
@@ -476,7 +512,7 @@
         ]
     },
     {
-        "name": "Isabelle Poppy & Bling",
+        "name": "Isabelle, Poppy & Bling",
         "nick": "ipb",
         "year": "2009",
         "description": "As I was finishing up my undergrad degree, I was approached by musician Justin Braun, to create a music video to promote his new album, <i>Relays From Home</i>. After listening to the song a few times, though, I thought the music was better suited for a game.<br><br>The game was made in Flash uses a collage style and is split into three major sections, each of which takes inspiration from and is directly affected by the music.<br><br>This game was a <a href='http://www.indiegames.com/2009/07/browser_game_pick_isabelle_pop.html'>Browser Game Pick at indieClick.com</a> and was featured in Gamasutra's article <a href='http://www.gamasutra.com/view/news/24749/Best_Of_Indie_Games_Falling_Head_Over_Heels_For_Art_Games.php'>Best of Indie Games: Falling Head Over Heels For Art Games.</a><br><br>It can be <a href='http://www.kongregate.com/games/andymasteroffish/isabelle-poppy-and-bling'>played for free</a> on Kongregate.",
@@ -499,7 +535,7 @@
         "name": "Roving",
         "nick": "roving",
         "year": "2008",
-        "description": "This music video was created in Flash for the pirate puppet rock opera, <a href='hepp://www.thewhizbang.org'>Jollyship The Whiz-Bang!</a>, which has run in various forms in many theaters throughout New York. The video uses photographs of the puppets from the shows along with collage style animation to show the drunken heroes braving a storm at sea.",
+        "description": "This music video was created in Flash for the pirate puppet rock opera, <a href='hepp://www.thewhizbang.org'>Jollyship The Whiz-Bang!</a>, which has run in various forms in many theaters throughout New York. The video uses photographs of the puppets from the shows along with collage-style animation to show the drunken heroes braving a storm at sea.",
         "tags": [
             "All",
             "Other"
@@ -515,7 +551,7 @@
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is the Assistant Professor of Game Design at Long Island University Post Campus and an indpipendent digital artist and game designer. He received his MFA from Parsons The New School For Design in 2012 and worked for a few years at the tiny NYC game company Golden Ruby Games. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a> and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world including <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a><br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves the possibilities posed by the intersection of art and code. He can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>Andy lives in NYC and can't wait to move into an apartment that allows dogs.",
+        "description": "Andy Wallace is the Assistant Professor of Game Design at Long Island University Post Campus and an independent digital artist and game designer. He received his MFA from Parsons The New School For Design in 2012 and worked for a few years at the tiny NYC game company Golden Ruby Games. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a> and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world including <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a><br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves the possibilities posed by the intersection of art and code. He can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>Andy lives in NYC and can't wait to move into an apartment that allows dogs.",
         "tags": [
             "About"
         ],
