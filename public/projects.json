@@ -18,6 +18,21 @@
         ]
     },
     {
+        "name": "TCG Proxy Gen",
+        "nick": "tcgproxy",
+        "year": "2016",
+        "description": "<a href='https://andymakes.itch.io/tcg-proxy-generator'>TCG Proxy Gen</a> & <a href='https://andymakes.itch.io/booster-pack-generator'>TCG Booster Gen</a> are a set of tools which allow players and designers to print cards for trading card games such as Magic The Gathering. TCG Proxy Generator is a more user friendly, GUI based application that allows users to drag and drop card images to create ready-to-print proxy sheets. TCG Booster Gen is a more powerful tool which can be used to create full booster packs, either to test fan sets or to run proxy booster drafts. I made these tools to help facilitate <a href='http://www.kotaku.com/fan-organized-magic-the-gathering-tournament-only-allo-1791821047'>Weird MTG</a>, a series of tournaments and games I organize aimed at exploring unusual or overlooked aspects of Magic: The Gathering.<br><br>Both tools were made in openFrameworks and are available for free on <a href='https://andymakes.itch.io'>itch.io</a>.",
+        "tags": [
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "booster-gen_itch.png",
+            "shot0.PNG",
+            "shot4.png"
+        ]
+    },
+    {
         "name": "Drink Rink",
         "nick": "drinkrink",
         "year": "2016",
@@ -117,7 +132,7 @@
         "name": "Intimate Codex",
         "nick": "intimatecodex",
         "year": "2016",
-        "description": "<a href='https://andymakes.itch.io/intimate-codex'>Intimate Codex</a> is an interactive non-linear text explorer that allows the user to traverse static text from a more first-person perspective. Books, poems, and any other texts fed into it are broken up into passages, and the user can move between these passages by typing a particular word on screen. After submitting that word, they are brought to a new passage that shares that word.<br><br>By providing connections between different passages (and even entirely different works) based on keywords and randomness, new narratives and meanings appear that can be vastly different from the original, linear stories.<br><br>Users are also encouraged to provide their own text, either from stories they like or their own original writing.<br><br>It can be downloaded for pay-what-you-want here: <a href='https://andymakes.itch.io/intimate-codex'>https://andymakes.itch.io/intimate-codex</a><br><br<The overall experience was inspired by <a href='http://www.herstorygame.com/'>Her Story</a>.",
+        "description": "<a href='https://andymakes.itch.io/intimate-codex'>Intimate Codex</a> is an interactive non-linear text explorer that allows the user to traverse static text from a more first-person perspective. Books, poems, and any other texts fed into it are broken up into passages, and the user can move between these passages by typing a particular word on screen. After submitting that word, they are brought to a new passage that shares that word.<br><br>By providing connections between different passages (and even entirely different works) based on keywords and randomness, new narratives and meanings appear that can be vastly different from the original, linear stories.<br><br>Users are also encouraged to provide their own text, either from stories they like or their own original writing.<br><br>It can be downloaded for pay-what-you-want <a href='https://andymakes.itch.io/intimate-codex'>here</a><br><br>The overall experience was inspired by <a href='http://www.herstorygame.com/'>Her Story</a>.",
         "tags": [
             "Featured",
             "All",
@@ -149,7 +164,7 @@
         "name": "Bloom Cave",
         "nick": "bloom",
         "year": "2016",
-        "description": "Bloom Cave is an endless cave-gardening sim created by Andy Wallace in 48 hours for Global Game Jam 2016 for the theme ”ritual”. Moving past the edge of a room will cause a new one to be created based on the runes in the crurrent garden. The runes are inscrutable, though, forcing the player to simply wander and enjoy.<br><br>It can be played for free <a href='https://andymakes.itch.io/bloom-cave'>here</a>.<br><br>Music by <a href='http://bubblepipemedia.com/'>Nathaniel Chambers.</a>",
+        "description": "Bloom Cave is an endless cave-gardening sim created in 48 hours for Global Game Jam 2016 for the theme ”ritual”. Moving past the edge of a room will cause a new one to be created based on the runes in the crurrent garden. The runes are inscrutable, though, forcing the player to simply wander and enjoy.<br><br>It can be played for free <a href='https://andymakes.itch.io/bloom-cave'>here</a>.<br><br>Music by <a href='http://bubblepipemedia.com/'>Nathaniel Chambers.</a>",
         "tags": [
             "All",
             "Game"
@@ -167,7 +182,7 @@
         "name": "PARTICLE MACE",
         "nick": "particlemace",
         "year": "2015",
-        "description": "PARTICLE MACE is a game for Windows, Mac and iOS that pays homage to classic space shooters, but replaces the typical guns with an unruly physics-based weapon. Players control a tiny ship in an extremely hostile universe, and must defend themselves as long as possible from enemy ships and asteroids using a collection of trash particles tethered to the ship. To survive, players must carefully navigate around the many hazards while building up momentum to swing their weapon into foes or other players.<br><br>Inspired by twitchy arcade classics old and new, PARTICLE MACE requires quick reflexes to stay alive, rewarding skilled players with high scores worth bragging about and giving new players a reason to hit restart. Graphically, the game uses abstracted visuals to create a striking play field combined with an entrancing procedural background.<br><br>More info at <a href='http://particlemace.com'>particlemace.com</a>",
+        "description": "PARTICLE MACE is a game for Windows, Mac and iOS that pays homage to classic space shooters, but replaces the typical guns with an unruly physics-based weapon. Players control a tiny ship in an extremely hostile universe, and must defend themselves as long as possible from enemy ships and asteroids using a collection of trash particles tethered to the ship. To survive, players must carefully navigate around the many hazards while building up momentum to swing their weapon into foes or other players.<br><br>Inspired by twitchy arcade classics old and new, PARTICLE MACE requires quick reflexes to stay alive, rewarding skilled players with high scores worth bragging about and giving new players a reason to hit restart. Graphically, the game uses abstracted visuals to create a striking play field combined with an entrancing procedural background.<br><br>More info at <a href='http://particlemace.com'>particlemace.com</a>.",
         "tags": [
             "All",
             "Game",
@@ -186,7 +201,7 @@
         "name": "Extreme Exorcism",
         "nick": "exorcism",
         "year": "2015",
-        "description": "Extreme Exorcism is best described as a mixture of Braid and Super Crate Box. With each ghost you kill, another takes its place. You’ve been given access to a multitude of devastating weapons to rid the spirits--the only problem is, they copy your every attack.<br><br>Extreme Exorcism was born out of a small window of time we had between projects at <a href='http://goldenrubygames.com'>Golden Ruby Games</a> and became our first multi-console release.<br><br>The game is available on <a href='http://store.steampowered.com/app/334100/'>Steam for PC and Mac</a> as well as PS3, PS4, Xbox One and Wii U",
+        "description": "Extreme Exorcism is best described as a mixture of Braid and Super Crate Box. With each ghost you kill, another takes its place. You’ve been given access to a multitude of devastating weapons to rid the spirits--the only problem is, they copy your every attack.<br><br>Extreme Exorcism was born out of a small window of time we had between projects at Golden Ruby Games and became our first multi-console release.<br><br>The game is available on <a href='http://store.steampowered.com/app/334100/'>Steam for PC and Mac</a> as well as PS3, PS4, Xbox One and Wii U",
         "tags": [
             "All",
             "Game",
@@ -223,7 +238,7 @@
         "name": "Hermit Crab In Space",
         "nick": "hermitcrab",
         "year": "2013",
-        "description": "Originally created as part of the Sony-sponsored PlayStation Mobile jam at the first Indiecade East, Hermit Crab In Space is the third game by <a href='http://goldenrubygames.com/'>Golden Ruby Games</a>. One part Star Fox, one part Minecraft, with a healthy dose of Captain Forever mixed in, Hermit Crab in Space won the IndieCade East GameJam in February 2013 and became a <a href='http://www.indiecade.com/2013/nominees/'>finalist at IndieCade</a> the following year.<br><br>Players take the role of a hermit crab who has warped herself into the wrong sector and must cobble together a ship from the parts she blasts off her opponents. The game makes use of the touch screen and tactile buttons of the Sony Vita by allowing players to drag free-floating pieces to their ship and then select a button to activate them. This means that players create their ship and control scheme on the fly while playing.<br><br>Level and enemy design by <a href='http://janefriedhoff.com/'>Jane Friedhoff</a>.<br><br>It is available on any PSM enabled device, but is intended to be played on the Vita. You can visit its PSM page <a href='http://us.playstation.com/games/hermit-crab-in-space-psm.html'>here</a>.",
+        "description": "Originally created as part of the Sony-sponsored PlayStation Mobile jam at the first Indiecade East, Hermit Crab In Space is the third game by Golden Ruby Games. One part Star Fox, one part Minecraft, with a healthy dose of Captain Forever mixed in, Hermit Crab in Space won the IndieCade East GameJam in February 2013 and became a <a href='http://www.indiecade.com/2013/nominees/'>finalist at IndieCade</a> the following year.<br><br>Players take the role of a hermit crab who has warped herself into the wrong sector and must cobble together a ship from the parts she blasts off her opponents. The game makes use of the touch screen and tactile buttons of the Sony Vita by allowing players to drag free-floating pieces to their ship and then select a button to activate them. This means that players create their ship and control scheme on the fly while playing.<br><br>Level and enemy design by <a href='http://janefriedhoff.com/'>Jane Friedhoff</a>.<br><br>It is available on any PSM enabled device, but is intended to be played on the Vita. You can visit its PSM page <a href='http://us.playstation.com/games/hermit-crab-in-space-psm.html'>here</a>.",
         "tags": [
             "All",
             "Game",
@@ -243,7 +258,7 @@
         "name": "Worm Run",
         "nick": "wormrun",
         "year": "2013",
-        "description": "You are Zeke Tallahassee, hapless space miner in the wrong place at the wrong time. Swipe on your touchscreen to move Zeke through an ever-changing labyrinth all while being chased by a blood-thirsty, gigantic space Worm.<br><br>This was our second title at <a href='http://www.goldenrubygames.com'>Golden Ruby Games</a> and is currently available for <a href='https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;ved=0CCsQFjAA&amp;url=https%3A%2F%2Fitunes.apple.com%2Fus%2Fapp%2Fworm-run%2Fid569497239%3Fmt%3D8&amp;ei=mpfNUoWEE9OgkAfqqoD4BA&amp;usg=AFQjCNF_SOBq2-gzv8dD5fbkY3GEFkvNNw&amp;bvm=bv.58187178,d.eW0'>iOS</a>, <a href='https://play.google.com/store/apps/details?id=com.GoldenRubyGames.WormRun&amp;hl=en'>Android</a>, and <a href='http://apps.microsoft.com/windows/en-us/app/wormrun/f3a97f77-a3f2-4c7b-a9c3-a520462b86d1'>Windows 8</a>.<br><br>Our goal with this game was to create a control scheme for platformers that made sense for touch screens. We did this by adopting a gestural control scheme, rather than using clunky on-screen buttons, creating a tense, platforming experience actually designed for the device the game was being played on.<br><br>We also explored potential for a shared multiplayer experience that used iPhones as controllers when we ran a special four-person version of the game at the <a href='http://gowanusloft.com/'>Gowanus Loft</a> in Brooklyn.<br><br>A detailed description of how the procedural caves of Worm Run are created can be found <a href='http://www.gamasutra.com/blogs/AndyWallace/20140108/208248/Procedural_Level_Generation_In_Worm_Run.php'>here</a>.",
+        "description": "You are Zeke Tallahassee, hapless space miner in the wrong place at the wrong time. Swipe on your touchscreen to move Zeke through an ever-changing labyrinth all while being chased by a blood-thirsty, gigantic space Worm.<br><br>This was our second title at Golden Ruby Games and was made available for iOS, Android, & Windows 8.<br><br>Our goal with this game was to create a control scheme for platformers that made sense for touch screens. We did this by adopting a gestural control scheme, rather than using clunky on-screen buttons, creating a tense, platforming experience actually designed for the device the game was being played on.<br><br>We also explored potential for a shared multiplayer experience that used iPhones as controllers when we ran a special four-person version of the game at the <a href='http://gowanusloft.com/'>Gowanus Loft</a> in Brooklyn.<br><br>A detailed description of how the procedural caves of Worm Run are created can be found <a href='http://www.gamasutra.com/blogs/AndyWallace/20140108/208248/Procedural_Level_Generation_In_Worm_Run.php'>here</a>.",
         "tags": [
             "All",
             "Game",
@@ -264,7 +279,7 @@
         "name": "Doodle Defense",
         "nick": "doodledefense",
         "year": "2012",
-        "description": "Doodle Defense is a tower defense game that explores drawing as a means for game interaction and play. Players draw mazes and towers on a whiteboard with regular dry erase markers to stop projected foes. The game received 150% backing on Kickstarter and has been featured on <a href='http://indiegames.com/2012/02/kinect_and_ipad_kickstarter_do.html'>IndieGames.com</a>, <a href='http://www.engadget.com/2012/02/16/doodle-defense-game-uses-kinect-to-turn-white-boards-into-displa/'>Engadget</a>, <a href='http://www.pcworld.com/article/250250/indie_kinect_game_turns_your_doodles_into_weapons_of_war.html'>PC World</a>, <a href='http://www.ubergizmo.com/2012/02/doodle-defense/'>Ubergizmo</a>, <a href='http://www.fastcodesign.com/1669089/doodle-defense-turns-a-whiteboard-into-a-battlefield'>FastCo Design</a>, <a href='http://www.ugo.com/games/best-video-game-kickstarter-projects'>UGO's list of the top video game Kickstarter projects</a> and many other publications. It went on to be shown at <a href='http://comeoutandplaysf.org/2012/doodle-defense/'>Come Out And Play San Francisco</a>, <a href='https://www.sfmoma.org/'>SF MOMA</a> and the <a href='https://dublin.sciencegallery.com/''>Dublin Science Gallery</a>.<br><br>The game uses a camera and a projector in conjunction with the whiteboard to create a unique platform for play. The code and system is all my own, written in openFrameworks. The code is open source and can be viewed <a href='https://github.com/andymasteroffish/DoodleDefense'>here</a>.<br><br>All art in the game was done by <a href='http://moderngirlblitz.tumblr.com/'>Michelle Belickis</a>.<br><br>The game is available for free for whiteboard at <a href='http://www.doodledefense.com'>doodledefense.com</a> and for <a href='https://itunes.apple.com/us/app/doodle-defense-mobile/id562738461?ls=1&amp;mt=8'>$2 on iPad</a>",
+        "description": "Doodle Defense is a tower defense game that explores drawing as a means for game interaction and play. Players draw mazes and towers on a whiteboard with regular dry erase markers to stop projected foes. The game received 150% backing on Kickstarter and has been featured on <a href='http://indiegames.com/2012/02/kinect_and_ipad_kickstarter_do.html'>IndieGames.com</a>, <a href='http://www.engadget.com/2012/02/16/doodle-defense-game-uses-kinect-to-turn-white-boards-into-displa/'>Engadget</a>, <a href='http://www.pcworld.com/article/250250/indie_kinect_game_turns_your_doodles_into_weapons_of_war.html'>PC World</a>, <a href='http://www.ubergizmo.com/2012/02/doodle-defense/'>Ubergizmo</a>, <a href='http://www.fastcodesign.com/1669089/doodle-defense-turns-a-whiteboard-into-a-battlefield'>FastCo Design</a>, and many other publications. It went on to be shown at <a href='http://comeoutandplaysf.org/2012/doodle-defense/'>Come Out And Play San Francisco</a>, <a href='https://www.sfmoma.org/'>SF MOMA</a> and the <a href='https://dublin.sciencegallery.com/''>Dublin Science Gallery</a>.<br><br>The game uses a camera and a projector in conjunction with the whiteboard to create a unique platform for play. The code and system is all my own, written in openFrameworks. The code is open source and can be viewed <a href='https://github.com/andymasteroffish/DoodleDefense'>here</a>.<br><br>All art in the game was done by <a href='http://moderngirlblitz.tumblr.com/'>Michelle Belickis</a>.<br><br>The game is available for free for whiteboard at <a href='http://www.doodledefense.com'>doodledefense.com</a> and for <a href='https://itunes.apple.com/us/app/doodle-defense-mobile/id562738461?ls=1&amp;mt=8'>$2 on iPad</a>.",
         "tags": [
             "All",
             "Game",
@@ -297,14 +312,14 @@
             "thesisSitePic1.png",
             "thesisSitePic2.png",
             "thesisSitePic3.png",
-            "thesisSitePic4.png"
+            "thesisSitePic4.jpg"
         ]
     },
     {
         "name": "Destroy All Color",
         "nick": "destroycolor",
         "year": "2012",
-        "description": "The first game we released at <a href='http://goldenrubygames.com/'>Golden Ruby Games</a>, Destroy All Color! is a fast-paced puzzle game played by using the iPhone's camera to find and use colors in the player's environment to destroy blocks on screen. The color choosen is then used in the subsequent levels, getting progressively more difficult. This makes for a unique and interesting game mechanic that combines the real world around the player with the digital puzzle of the game.<br><br>The game is available for <a href='https://itunes.apple.com/us/app/destroy-all-color!-hd/id549937765?mt=8'>iPhone and iPad</a>.",
+        "description": "The first game we released at Golden Ruby Games, Destroy All Color! is a fast-paced puzzle game played by using the iPhone's camera to find and use colors in the player's environment to destroy blocks on screen. The color choosen is then used in the subsequent levels, getting progressively more difficult. This makes for a unique and interesting game mechanic that combines the real world around the player with the digital puzzle of the game.",
         "tags": [
             "All",
             "Game",
@@ -360,7 +375,7 @@
         "name": "All Cyrax Wants To Do Is Dance",
         "nick": "cyrax",
         "year": "2012",
-        "description": "This simple HTML5 game was created as an exercise to learn jQuery, which I felt like I really ought to know. It tells the touching story of a cybernetic ninja who just wants to get down.<br><br>It can be played <a href='http://andymakesgames.com/portfoliofiles/cyrax/'>here</a>.",
+        "description": "This simple HTML5 game was created as an exercise to learn jQuery, which I felt like I really ought to know. It tells the touching story of a cybernetic ninja who just wants to get down.<br><br>It can be played <a href='portfoliofiles/cyrax/'>here</a>.",
         "tags": [
             "All",
             "Game"
@@ -392,7 +407,7 @@
         "name": "Sound Balls",
         "nick": "soundballs",
         "year": "2011",
-        "description": "Created as my first year final project at Parsons, Sound Balls is a non-traditional method of sound generation that blends digital and analog elements in the form of a new audio toy. By manipulating a set of smart balls, users convert real world action into a fluid sound-scape that affords play and exploration. The system as a whole has two unique modes of interaction: Free Form and Singing Bowl, and users learn the rules of these systems while interacting with the balls. The balls themselves have unique attributes in both their hardware and the way the information from them is converted into sound. The information is gathered from each ball by an implanted micro-controller and sent wirelessly to a computer where it is interpreted in order to create the sound.<br><br>Design Document: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/SoundBallsWallace.pdf'>Here</a><br><br>Base Station Arduino Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/BaseStationFinal.pde'>Here</a><br><br>Ball Transmitter Arduino Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/BallTransmitterFinal.pde'>Here</a><br><br>Transmitter Wiring Diagram: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/ballWiringDiagram.png'>Here</a><br><br>Receiver openFrameworks Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/soundBallsReciever.zip'>Here</a><br><br>SuperCollider Code: <a href='http://www.andymakesgames.com/portfoliofiles/soundballsmaterials/soundBalls.rtf'>Here</a>",
+        "description": "Created as my first year final project at Parsons, Sound Balls is a non-traditional method of sound generation that blends digital and analog elements in the form of a new audio toy. By manipulating a set of smart balls, users convert real world action into a fluid sound-scape that affords play and exploration. The system as a whole has two unique modes of interaction: Free Form and Singing Bowl, and users learn the rules of these systems while interacting with the balls. The balls themselves have unique attributes in both their hardware and the way the information from them is converted into sound. The information is gathered from each ball by an implanted micro-controller and sent wirelessly to a computer where it is interpreted in order to create the sound.<br><br>Design Document: <a href='portfoliofiles/soundballsmaterials/SoundBallsWallace.pdf'>Here</a><br><br>Base Station Arduino Code: <a href='portfoliofiles/soundballsmaterials/BaseStationFinal.pde'>Here</a><br><br>Ball Transmitter Arduino Code: <a href='portfoliofiles/soundballsmaterials/BallTransmitterFinal.pde'>Here</a><br><br>Transmitter Wiring Diagram: <a href='portfoliofiles/soundballsmaterials/ballWiringDiagram.png'>Here</a><br><br>Receiver openFrameworks Code: <a href='portfoliofiles/soundballsmaterials/soundBallsReciever.zip'>Here</a><br><br>SuperCollider Code: <a href='portfoliofiles/soundballsmaterials/soundBalls.rtf'>Here</a>",
         "tags": [
             "All",
             "Toy",
@@ -411,7 +426,7 @@
         "name": "ASCII Filter",
         "nick": "ascii",
         "year": "2011",
-        "description": "Demo video <a href='https://vimeo.com/27380117'>here</a><br><br>Based on an example project by <a href='http://benfry.com/''>Ben Fry</a> packaged with the Processing language, this program takes incoming video and converts it to a text output. Pixels from the original image are considered as a group, and each letter is chosen based on both its overall weight as well as how well the shape fits the pixel group.<br><br>Ben Fry's original required the use of color to show the image, but to have a filter that felt authentic to ASCII art, I wanted to create one that worked in simple black and white.<br><br>Processing Source Code: <a href='http://www.andymakesgames.com/portfoliofiles/ASCIIfilterWallace.zip'>Here</a>",
+        "description": "Based on an example project by <a href='http://benfry.com/''>Ben Fry</a> packaged with the Processing language, this program takes incoming video and converts it to a text output. Pixels from the original image are considered as a group, and each letter is chosen based on both its overall weight as well as how well the shape fits the pixel group.<br><br>Ben Fry's original required the use of color to show the image, but to have a filter that felt authentic to ASCII art, I wanted to create one that worked in simple black and white.<br><br>Processing Source Code: <a href='portfoliofiles/ASCIIfilterWallace.zip'>Here</a>",
         "tags": [
             "All",
             "Toy"
@@ -426,7 +441,7 @@
         "name": "Sisyphus.nes",
         "nick": "sisyphus",
         "year": "2011",
-        "description": "This collection of hacked Super Mario ROMs converts the game into retellings of three Greek myths. While Icarus is fairly straightforward, Prometheus and Sisyphus exploit systems within Mario to create games where the player can neither win nor die.<br><br>Prometheus is forced to collect an unavoidable mushroom before being struck by unavoidable bullets until he eventually reaches an inescapable chamber to wait while time runs out.<br><br>Sisyphus hacks a one-off looping level of the original game to create a mountain that the player continuously scales without ever progressing.<br><br>These ROM hacks were created in collaboration with <a href='http://breechapin.com/'>Bree Chapin</a> and <a href='http://www.justinblinder.com/''>Justin Blinder</a> while we were at Parsons.<br><br>The ROMs can be downloaded <a href='files/sisyphus_dot_nes.zip'>here</a>",
+        "description": "This collection of hacked Super Mario ROMs converts the game into retellings of three Greek myths. While Icarus is fairly straightforward, Prometheus and Sisyphus exploit systems within Mario to create games where the player can neither win nor die.<br><br>Prometheus is forced to collect an unavoidable mushroom before being struck by unavoidable bullets until he eventually reaches an inescapable chamber to wait while time runs out.<br><br>Sisyphus hacks a one-off looping level of the original game to create a mountain that the player continuously scales without ever progressing.<br><br>These ROM hacks were created in collaboration with <a href='http://breechapin.com/'>Bree Chapin</a> and <a href='http://www.justinblinder.com/''>Justin Blinder</a> while we were at Parsons.<br><br>The ROMs can be downloaded <a href='portfoliofiles/sisyphus_dot_nes.zip'>here</a>",
         "tags": [
             "All",
             "Other",
@@ -444,7 +459,7 @@
         "name": "The Cuddle Cave",
         "nick": "cuddle",
         "year": "2011",
-        "description": "I worked with<a href='http://janefriedhoff.com'> Jane Friedhoff</a> and <a href='http://www.breefield.com/'>Dustin Hoffman</a> to create a truck for the Lost Horizons Night Market called the Cuddle Cave. The Cave consisted of over 150 Ikea pillows in the back of a U-Haul dressed up with satin sheets that could only be gotten to via crawling through a small dark tunnel. Those brave enough to enter were treated with calming music and a soft respite from the cold autumn night outside.",
+        "description": "I worked with<a href='http://janefriedhoff.com'> Jane Friedhoff</a> and <a href='http://www.breefield.com/'>Dustin Hoffman</a> to create a truck for the <a href='http://www.nytimes.com/2011/04/24/arts/design/lost-horizon-night-market-brooklyns-theater-of-the-bizarre.html'>Lost Horizons Night Market</a> called the Cuddle Cave. The Cave consisted of over 150 Ikea pillows in the back of a U-Haul dressed up with satin sheets that could only be gotten to via crawling through a small dark tunnel. Those brave enough to enter were treated with calming music and a soft respite from the cold autumn night outside.",
         "tags": [
             "All",
             "Other",
@@ -464,7 +479,7 @@
         "name": "Star Gaze",
         "nick": "stargaze",
         "year": "2011",
-        "description": "This unique side-scroller was created by me and <a href='http://llcl.lc/'>Haitham Ennasr</a> as a proof of concept for our thesis at Parsons, exploring how game mechanics can make players feel responsible for NPCs. The player must pick their brother up at a train station late at night. On their way, they are given the chance to gaze up at the heavens to populate the sparse environment with constellations. However, this consumes an unknown amount of time and causes the player to run the risk of being late. There is no definite good or bad ending, but we observed that players tended to attach emotional weight to this relatively mundane situation.<br><br>It can be played online <a href='http://andymakesgames.com/portfoliofiles/stargaze/index.html'>here</a>.",
+        "description": "This unique side-scroller was created by me and <a href='http://llcl.lc/'>Haitham Ennasr</a> as a proof of concept for our thesis at Parsons, exploring how game mechanics can make players feel responsible for NPCs. The player must pick their brother up at a train station late at night. On their way, they are given the chance to gaze up at the heavens to populate the sparse environment with constellations. However, this consumes an unknown amount of time and causes the player to run the risk of being late. There is no definite good or bad ending, but we observed that players tended to attach emotional weight to this relatively mundane situation.<br><br>It can be played online <a href='portfoliofiles/stargaze/index.html'>here</a>.",
         "tags": [
             "All",
             "Game"
@@ -535,7 +550,7 @@
         "name": "Roving",
         "nick": "roving",
         "year": "2008",
-        "description": "This music video was created in Flash for the pirate puppet rock opera, <a href='hepp://www.thewhizbang.org'>Jollyship The Whiz-Bang!</a>, which has run in various forms in many theaters throughout New York. The video uses photographs of the puppets from the shows along with collage-style animation to show the drunken heroes braving a storm at sea.",
+        "description": "This music video was created in Flash for the pirate puppet rock opera, <a href='http://www.thewhizbang.org'>Jollyship The Whiz-Bang!</a>, which has run in various forms in many theaters throughout New York. The video uses photographs of the puppets from the shows along with collage-style animation to show the drunken heroes braving a storm at sea.",
         "tags": [
             "All",
             "Other"

@@ -1,0 +1,119 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html lang="en" dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>ALL CYRAX WANTS TO DO IS DANCE</title>
+
+
+<!-- load jQuery from goggle hosted version. To work offline, we'd need to download our own -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js" type="text/javascript" charset="utf-8">
+	</script>
+
+<script src="dancefight.js" type="text/javascript" charset="utf-8"></script>
+
+
+<!-- STYLE -->
+	<style type="text/css" media="screen">
+	body, html{ margin: 0; padding: 0; background-color: #000;}	
+	
+	#title {margin: 0 auto; height:100px; width:800px; background-image:url("pic/borderTop.jpg");}
+	#footer {margin: 0 auto; height:100px; width:800px; background-image:url("pic/borderBottom.jpg")}
+	#gameBoard{margin: 0 auto; background-color: #000; width: 600px; height: 600px; background-image:url("pic/gameBackgrdound.jpg");}
+	
+	/*borders*/
+	#sideBorderL{position:absolute; background-image:url("pic/borderLeft.jpg"); width: 100px; height: 600px; z-index:5000;}
+	#sideBorderR{position:absolute; background-image:url("pic/borderRight.jpg"); width: 100px; height: 600px; z-index:5000;}
+		
+	/*Walls for going between screens. They start with no width*/
+	.wall {position: relative; width: 0px; height:600px; background-image:url("pic/stone.jpg"); z-index: 2000;}
+	.wallL {float:left; background-position:right;}
+	.wallR {float:right;}
+	
+	#instructions {position:absolute; width:600px; height: 600px; z-index: 1; background-image: url("pic/titleScreen.jpg");}
+	
+	#score {position:absolute; color:#fff;  z-index: 1; text-align:center; width:600px; font-size:1000%; margin-top: 20px; }
+	#endGamePic{position:absolute; z-index: 1;}
+     
+	
+	/*game stuff*/
+	#player {
+		position:absolute;  
+		background-image:url("cyrax/walkingR.gif"); 
+		width:88px; 
+		height:139px; 
+		z-index: 2;
+	}
+	
+	.enemy {
+		position:absolute;  
+		background-image:url("liukang/dizzy.gif"); 
+		width:65px; 
+		height:132px; 
+		z-index: 2;
+	}
+	
+	#danceBarHolder{
+		position:absolute;
+		width:510px; 
+		height:20px; 
+		z-index: 1000;
+		margin-top:30px;
+		margin-left: 40px;
+		border-style: solid;
+		border-width: 5px;
+
+	}
+	#danceBar{
+		position:absolute;  
+		background-color: #CC0099; 
+		width:0px; 
+		height:20px; 
+		z-index: 1000;
+	}
+
+	#gameTopText{
+		margin-top:10px;
+		margin-left: 40px;;
+		position:absolute;
+		font-weight: bold;
+		z-index: 1000;
+	}
+	#gameScore{
+		margin-top:10px;
+		margin-left: 480px;;
+		position:absolute;
+		font-weight: bold;
+		z-index: 1000;
+	}
+	
+	
+	
+	
+	
+	</style>
+
+
+
+</head>
+
+
+<body>
+<div id="title"> </div>
+
+<div id="sideBorderL"></div>
+	
+<div id="gameBoard">
+	<div id="instructions"></div>
+	<div class="wall wallL"></div>
+	<div class="wall wallR"> </div>
+</div>
+
+<div id="sideBorderR"></div>
+
+<div id="footer"> </div>
+	
+
+
+</body>
+
+
+</html>

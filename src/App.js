@@ -133,7 +133,7 @@ class App extends Component {
       elem = <ProjectContainer project={proj} chooseImage={this.chooseImage.bind(this)} curImgNum={this.state.imgNum}/>
     }
 
-    var socialIconSize = 30;
+    var socialIconSize = 30
     var socialIconStyle = {"marginRight":"10px"}
 
     return (
@@ -141,10 +141,10 @@ class App extends Component {
         <Grid fluid>
           <Row style={{height:"40px", lineHeight:"50px"}}>
             
-            <Col xs={6} style={{textAlign:"left", "paddingLeft":"50px"}} >
+            <Col xs={6} style={{textAlign:"left"}} >
               <h3 style={{ "fontSize":"22px" }} >Andy Wallace makes games & digital art</h3>
             </Col>
-            <Col xs={6} style={{textAlign:"right", "paddingRight":"50px"}}>
+            <Col xs={6} style={{textAlign:"right"}}>
               <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://www.tumblr.com/blog/andymakesgames"><img src={"/img/icons/tumblr_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://vimeo.com/andymakes"><img src={"/img/icons/vimeo_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
@@ -182,7 +182,8 @@ class FilterBar extends Component {
         clickFunc = this.props.chooseProject.bind(this, "about")
       } 
       var isSelected = item == this.props.curFilter;
-      var thisStyle = isSelected ? {"fontWeight":"bold"} : {"fontWeight":"normal"}; 
+      var thisStyle = isSelected ? {"fontWeight":"bold"} : {"fontWeight":"lighter"}; 
+      //var thisStyle = isSelected ? {"background":"rgba(255,255,255,0.5)"} : {"color":"red"}; 
       return <NavItem key={i} style={thisStyle} onClick={clickFunc}>{item}</NavItem>
       
     })
@@ -245,7 +246,7 @@ class GridItem extends Component {
     var imgSrc = "/img/"+this.props.project.nick+"/icon.png";
 
     return (
-      <Col xs={4} sm={3} md={2} style={{height:"210px"}}>
+      <Col xs={6} sm={3} md={2} style={{height:"210px"}}>
       <div onClick={this.props.chooseProject.bind(this, this.props.project.nick)} style={{"cursor":"pointer"}}>
         <img src={imgSrc} width="150" height="150"></img>
         <h3 style={{textAlign:"center", "marginTop":"5px", "fontSize":"16px"}}>{projectName}</h3>
@@ -305,7 +306,7 @@ class ProjectContainer extends Component {
            </Row>
            {/*hello*/}
            <Row >
-              <Col xs={4}>
+              <Col xs={12} sm={4}>
                  <div style={{textAlign:"left" , "fontSize":"14px"}}>
                    <div dangerouslySetInnerHTML={this.createMarkup()}>
                    </div>
