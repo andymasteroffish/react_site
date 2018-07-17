@@ -224,8 +224,7 @@
         "description": "This Chrome extension attempts make sense of Steam reviews by changing the text of any “do not recommend” review by a user who has played over 24 hours of the game to “I do not know what I want.”<br><br><a href='https://chrome.google.com/webstore/detail/steam-users-dont-know-wha/abgbfcdlibmeecalpedlcddjcgjecihn?hl=en'>Available for free on the Chrom Web Store.</a>",
         "tags": [
             "All",
-            "Other",
-            "Featured"
+            "Other"
         ],
         "pics": [
             "pic1.png",
@@ -548,8 +547,7 @@
         "description": "Broken Mirror is a camera application made in <a href='http://openframeworks.cc/'>openFrameworks</a> for the iPhone and iPad that takes the incoming camera feed and breaks it apart into a pixelated and constantly moving mosaic. Users can control the degree of abstraction in the image.<br><br><a href='https://itunes.apple.com/us/app/broken-mirror/id511029924'>The app is 99 cents on the iOS store.</a>",
         "tags": [
             "All",
-            "Toy",
-            "Featured"
+            "Toy"
         ],
         "max_height" : 600,
         "pics": [
