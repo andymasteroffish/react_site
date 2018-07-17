@@ -1,5 +1,136 @@
 [
     {
+        "name": "A Place To Bury Strangers Pinball",
+        "nick": "pinball",
+        "year": "2018",
+        "description": "<a href='https://www.deathbyaudioarcade.com/a-place-to-bury-strangers-pinball/'>A Place To Bury Strangers Pinball</a> is a custom pinball machine created by Death By Audio Arcade and themed around the NYC psychedelic rock band <a href='https://aplacetoburystrangers.bandcamp.com/'>A Place To Bury Strangers</a>.<br><br>The machine itself is a repurposed 1959 Gottlieb Mademoiselle that was gutted and rebuilt using modern technology, including a fog machine, strobe lights, lasers, and LED lighting.<br><br>Credits:<br>Hardware and Electronics: <a href='http://kleebtronics.com/'>Mark Kleeb</a> & <a href='http://crudlabs.org/'>Steve Litt</a><br>Software and Programming: Andy Wallace & <a href='http://dustmop.io/'>Dustin Long</a><br>Playfield Artwork: <a href='https://www.behance.net/joejurewicz'>Joe Jurewicz</a><br>Marquee Artwork: <a href='https://vimeo.com/prestonspurlock'>Preston Spurlock</a><br>Sound Design: <a href='https://grooms.bandcamp.com/'>Travis Johnson</a><br>Graphic Design: <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a><br>Original Music and Video: A Place To Bury Strangers<br><br>A more detailed writeup can by found on the <a href='https://www.deathbyaudioarcade.com/a-place-to-bury-strangers-pinball-blog'>Death By Audio Arcade blog</a><br><br>First photo by <a href='https://withfriends.co/team'>Joe Ahearn</a>",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "max_height" : 600,
+        "vid": "<iframe width='500' height='600' src='https://www.youtube.com/embed/9elRF3ZUgU0'></iframe>",
+        "pics": [
+            "Joe_Ahearn_MVIMG_20180715_151226.jpg",
+            "vid",
+            "board.jpg",
+            "IMG_1722.JPG"
+        ]
+    },
+    {
+        "name": "The DreamBoxXx",
+        "nick": "dreamboxxx",
+        "year": "2018",
+        "description": "I worked with <a href='http://www.deathbyaudioarcade.com/'>Death By Audio Arcade</a> to create <a href='https://www.deathbyaudioarcade.com/dreamboxxx/'>The DreamboxXx</a>, a queer arcade machine that now lives at <a href='https://www.facebook.com/TheSpectrumBK/'>Dream House/Spectrum</a>, a queer events space in Brooklyn. This arcade machine that contains 9 games by local queer and trans developers created specifically for this hardware. I managed this project, working with <a href='https://brid.gs/'>Ayla Myers</a> to curate and invite the participating devs. I also wrote the software that ran in the arcade machine to allow users to select their game and to make sure it would remain stable in a public space.<br><br>The games were later released by the devs as <a href='https://itch.io/b/239/the-dreamboxxx-bundle-custom-made-lgbtq-arcade-games'>a bundle</a> to raise money for the Sylvia Sylvia Rivera Law Project and Make The Road New York.<br><br>Photos by <a href='http://gothamist.com/2018/05/31/dbaa_dreamhouse_arcade_games.php#photo-1'>Walter Wlodarczyk</a>.<br><br>A post about designing and building the launcher can be found on <a href='http://andymakesgames.tumblr.com/post/174438083814/creating-the-dreamboxxx-a-queer-winnitron'>my blog</a>.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "0.jpg",
+            "1.jpg",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    {
+        "name": "Lost Wage Rampage",
+        "nick": "lost_wage",
+        "year": "2018",
+        "description": "Lost Wage Rampage by Jane Friedhoff is a fast, raucous, arcade driving game about what happens when two shopgirls find out their male coworkers have been paid more than them, and decide to steal back the difference. Lost Wage Rampage was made possible by a commission from the Peabody Essex Museum.<br><br><a href='http://janefriedhoff.com/'>Jane Friedhoff</a> did level design, game design, and general coding, <a href='http://marlowe.dobbe.com/'>Marlowe Dobbe</a> did art and animation, and I created the procedual level generation framework.<br><br>The game can be played for free on the <a href='http://playtime.pem.org/lost-wage-rampage-a-game/'>PEM website</a>.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "title.gif",
+            "1.jpg",
+            "2.png"
+        ]
+    },
+    {
+        "name": "Triple Tone Curious Creature",
+        "nick": "tone",
+        "year": "2018",
+        "description": "A mysterious lifeform is contacting us from deep in space.<br>It sings to us and desperately wants us to answer with the same song.<br><br>This game was created for Global Game Jam 2018 at LIU Post using a custom capacitive touch controller built on site. The game was written in openFrameworks and the controller uses an Arduino and an <a href='https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/overview'>MPR121 capacitive touch sensor</a> (and some tin foil).<br><br>Players attempt to combine wave forms to match the tone generated by the alien.<br><br>The game is available (in a keyboard controlled form) for <a href='https://andymakes.itch.io/triple-tone-curious-creature'>free on Itch</a>.",
+       
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "vid": "<iframe src='https://player.vimeo.com/video/253294316' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "1.png",
+            "2.JPG",
+            "3.png",
+            "4.JPG"
+        ]
+    },
+    {
+        "name": "Urza's Dream Engine",
+        "nick": "urza",
+        "year": "2017",
+        "description": "Urza's Dream Engine is a neural network art bot that generates original images in the style of card art from the <i>Magic: The Gathering</i> collectible card game. It was inspired by <a href='https://twitter.com/RoboRosewater'>@RoboRosewater</a>, another neural network that generates card text for the game. After gathering and cropping all existing art from the game (roughly 30,000 cards over the two decades that <i>Magic</i> has been in print), I broke the art down into sections based on the type of card it came from and allowed the bot to train for a week before asking it to generate images in the same style. These images were eventually used in combination with the RoboRosewater text to hold a tournament with entirely machine-generated cards.<br><br>The images created by the bot, as well as several downloads, including print-and-play cards are available under a Creative Commons license at the bottom of the <a href='http://andymakes.com/urzasdreamengine/'>project's page</a>.<br><br>Urza's Dream Engine was created using <a href='https://github.com/carpedm20/DCGAN-tensorflow'>this Tensorflow implementation</a> of Deep Convolutional Generative Adversarial Networks by <a href='https://carpedm20.github.io/'>Taehoon Kim</a>.<br><br>Photo by <a href='http://lippemfg.org/'>Lippe</a>.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "collection2.png",
+            "output2.png",
+            "R_171118-magic-0055.jpg"
+        ]
+    },
+    {
+        "name": "Bleep Space",
+        "nick": "bleep",
+        "year": "2017",
+        "description": "Bleep Space was inspired by playing with a friend’s Korg sequencer and the joy I found in creating music while exploring a device that I didn’t fully understand. Created in collaboration with local musician <a href='http://danfriel.com/'>Dan Friel</a>, Bleep Space is a sequencer toy for iOS, PC & Mac. Users tap the screen to add noisy samples to their sequence and watch as lively geometric animations accompany the sounds.<br><br>Bleep Space was a finalist at the 2017 <a href='http://www.indiecade.com/index.php/2017/games'>IndieCade Festival</a>.<br><br>In addition to the free digital release, I worked with <a href='http://www.kleebtronics.com/'>Mark Kleback</a> to create a tabletop installation to house the game, featuring light-up tactile buttons and a round screen. This device is currently touring different locations in New York and was debuted at the IndieCade festival in L.A..<br><br>More info at <a href='http://bleepspace.com/'>BleepSpace.com</a>.<br>Development info <a href='http://andymakesgames.tumblr.com/tagged/bleep-space'>here</a>.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "vid": "<iframe src='https://player.vimeo.com/video/236515448' width='600' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "indiecade.jpg",
+            "norm.png",
+            "step.png",
+            "cab.jpg"
+        ]
+    },
+    {
+        "name": "Salmon Roll: The Upstream Team",
+        "nick": "salmon",
+        "year": "2017",
+        "description": "In the summer of 2017, Jane Friedhoff and I were commissioned to make an installation game for <a href='http://play-nyc.com/'>Play NYC</a>, a games conference in NYC held in Terminal 5. We created Salmon Roll: The Upstream Team, a two player collaborative game with a five foot long custom controller based on the 1983 arcade game Ice Cold Beer (also the inspiration for TumbleSeed).<br><br>We also served as co-chairs of Installation Games for the conference and curated a collection of other installation games made for the event by local digital artists and game designers.<br><br>Game by Andy Wallace and <a href='http://janefriedhoff.com/'>Jane Friedhoff</a>.<br>Art by <a href='http://radstronomical.com/'>Diego Garcia</a><br>Photos by <a href='http://www.jochiang.com/'>Jo Chiang</a><br><br>Brief write-up of our development process <a href='http://andymakesgames.tumblr.com/post/164215709449/salmon-roll-the-upstream-team-design-notebook'>here</a>.",
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "IMG-9415.jpg",
+            "IMG-9822.jpg",
+            "logo_trim.png",
+            "IMG-9969.jpg",
+            "IMG-9513.jpg",
+            "IMG-9845.jpg"
+        ]
+    },
+    {
         "name": "Noise Snke",
         "nick": "noisesnke",
         "year": "2016",
@@ -9,7 +140,8 @@
             "All",
             "Game"
         ],
-        "vid": "<iframe src='https://player.vimeo.com/video/170259186' width='340' height='495' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>>",
+        "max_height" : 500,
+        "vid": "<iframe src='https://player.vimeo.com/video/170259186' width='340' height='497' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>>",
         "pics": [
             "vid",
             "pic1.png",
@@ -26,6 +158,7 @@
             "All",
             "Other"
         ],
+        "max_height" : 600,
         "pics": [
             "booster-gen_itch.png",
             "shot0.PNG",
@@ -33,10 +166,26 @@
         ]
     },
     {
+        "name": "Hungry Hungry Astronauts",
+        "nick": "hungryhungry",
+        "year": "2016",
+        "description": "<a href='http://www.deathbyaudioarcade.com/'>Death By Audio Arcade</a> was commissioned by the meal replacement company Soylent to develop an arcade machine that featured their astronaut mascot. I designed an implemented an original 4-player Pac-Man-style game for the project.<br><br>The arcade cabinet was fabricated by <a href='http://www.kleebtronics.com/'>Mark Kleback</a> and <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a> created the art for the game and the arcade cabinet.<br><br>The arcade was playable for a few weeks in Solylent’s pop-up in L.A. and now occasionally pops up in unexpected places.",
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "1.jpg",
+            "2016-09-01_crown_shift.gif",
+            "2.jpg",
+            "3.jpg"
+        ]
+    },
+    {
         "name": "Drink Rink",
         "nick": "drinkrink",
         "year": "2016",
-        "description": "Drink Rink is a bar and a game platform created with fellow <a href='http://deathbyaudioarcade.com/'>Death By Audio Arcade</a> members <a href='http://www.kleebtronics.com/'>Mark Kleback</a> and <a href='http://whomakesgames.me/'>K. Anthony Marefat</a>. Drinks are placed in special coozies that are seen by the cameras in the bar and used as game pieces for the game projected up onto surface. The bar runs several ambient games and cycles between them. The bar debuted at the <a href='http://lwlvl.com/'>Lwlvl</a> chiptune festival in Brooklyn.",
+        "description": "Drink Rink is a bar and a game platform created with fellow <a href='http://deathbyaudioarcade.com/'>Death By Audio Arcade</a> members <a href='http://www.kleebtronics.com/'>Mark Kleback</a> and <a href='http://whomakesgames.me/'>K. Anthony Marefat</a>. Drinks are placed in special coozies that are seen by the cameras in the bar and used as game pieces for the game projected up onto surface. The bar runs a collection ambient games and cycles between them. In 2018, several additional scenes that would react to hands or anything placed on the bar were added. The bar debuted at the <a href='http://lwlvl.com/'>Lwlvl</a> chiptune festival in Brooklyn.<br><br>Some photos by <a href='http://gothamist.com/2018/05/31/dbaa_dreamhouse_arcade_games.php#photo-1'>Walter Wlodarczyk</a>.",
         "tags": [
             "Featured",
             "All",
@@ -44,11 +193,12 @@
             "Toy"
         ],
         "pics": [
+            "w1.jpg",
             "1.jpg",
+            "w2.jpg",
             "2.GIF",
-            "3.GIF",
-            "4.gif",
-            "5.JPG"
+            "w3.gif",
+            "4.gif"
         ]
     },
     {
@@ -92,6 +242,7 @@
             "All",
             "Other"
         ],
+        "max_height" : 600,
         "pics": [
             "0.jpeg",
             "1.jpeg",
@@ -119,11 +270,12 @@
         "name": "Satan.Dance",
         "nick": "satandance",
         "year": "2016",
-        "description": "<a href='http://www.satan.dance'>Satan.Dance</a> is a cut-up web toy that stitches one word clips from the 90s police propaganda film <a href='https://www.youtube.com/watch?v=Rt_T5EF-uzU'>Law Enforcement Guide To Satanic Cults</a><br><br>It was written in <a href='https://p5js.org/'>P5.js</a> as part of a class I took at <a href='http://sfpc.io/'>The School For Poetic Computation</a><br><br>It can be viewed at <a href='http://www.satan.dance'>satan.dance</a>",
+        "description": "<a href='http://www.satan.dance'>Satan.Dance</a> is a cut-up web toy that stitches one word clips from the 90s police propaganda film <a href='https://www.youtube.com/watch?v=Rt_T5EF-uzU'>Law Enforcement Guide To Satanic Cults</a>.<br><br>It was written in <a href='https://p5js.org/'>P5.js</a> as part of a class I took at <a href='http://sfpc.io/'>The School For Poetic Computation</a>.<br><br>It can be viewed at <a href='http://www.satan.dance'>satan.dance</a>.",
         "tags": [
             "All",
             "Toy"
         ],
+        "max_height" : 600,
         "pics": [
             "satan2.gif"
         ]
@@ -138,7 +290,7 @@
             "All",
             "Game"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/149687218' width='750' height='468' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<iframe src='https://player.vimeo.com/video/149687218' width='721' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
             "pic0.png",
@@ -169,7 +321,7 @@
             "All",
             "Game"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/153699269' width='600' height='375' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<iframe src='https://player.vimeo.com/video/153699269' width='720' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
             "rune_cycle.gif",
@@ -188,7 +340,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/102190423' width='750' height='422' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<iframe src='https://player.vimeo.com/video/102190423' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
             "arcade0.png",
@@ -264,7 +416,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/82397975' width='700' height='394' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<iframe src='https://player.vimeo.com/video/82397975' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
             "wormRun0.png",
@@ -285,7 +437,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/56350840' width='696' height='391' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<iframe src='https://player.vimeo.com/video/56350840' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
             "doodleDefense1.png",
@@ -301,12 +453,13 @@
         "name": "Find Me A Good One",
         "nick": "findme",
         "year": "2012",
-        "description": "Find Me A Good One was created with <a href='http://llcl.lc/'>Haitham Ennasr</a> as our MFA thesis at Parsons The New School For Design, and was nominated as an <a href='http://www.indiecade.com/2012/games/'>Indiecade 2012 Finalist</a>. It is available for free for PC or Mac <a href='http://andymakes.itch.io/find-me-a-good-one'>here.</a><br><br>Find Me A Good One is a puzzle platformer that explores the sense of responsibility felt by players towards non-playing fictional characters. Although the brother in Find Me A Good One is clearly dependent on the player, it is up to the player to decide how much they want to help their sibling. While most games force the player to complete the task at hand in order to move on, Find Me A Good One allows the player to be diligent in their responsibility, or shirk it in order to further explore the dreamscape of the game. Because the system does not assign value to her actions, the player is left to judge their own actions and the effect they have on their virtual brother.",
+        "description": "Find Me A Good One was created with <a href='http://llcl.lc/'>Haitham Ennasr</a> as our MFA thesis at Parsons The New School For Design, and was nominated as an <a href='http://www.indiecade.com/2012/games/'>IndieCade 2012 Finalist</a>. It is available for free for PC or Mac <a href='http://andymakes.itch.io/find-me-a-good-one'>here.</a><br><br>Find Me A Good One is a puzzle platformer that explores the sense of responsibility felt by players towards non-playing fictional characters. Although the brother in Find Me A Good One is clearly dependent on the player, it is up to the player to decide how much they want to help their sibling. While most games force the player to complete the task at hand in order to move on, Find Me A Good One allows the player to be diligent in their responsibility, or shirk it in order to further explore the dreamscape of the game. Because the system does not assign value to her actions, the player is left to judge their own actions and the effect they have on their virtual brother.",
         "tags": [
             "All",
             "Game",
             "Featured"
         ],
+        "max_height" : 400,
         "pics": [
             "thesisSitePic0.png",
             "thesisSitePic1.png",
@@ -343,7 +496,7 @@
             "Other",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/26689220' width='711' height='400' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<iframe src='https://player.vimeo.com/video/26689220' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
             "noFace6.jpg",
@@ -380,6 +533,7 @@
             "All",
             "Game"
         ],
+        "max_height" : 550,
         "pics": [
             "cyrax1.png",
             "cyrax2.png",
@@ -397,6 +551,7 @@
             "Toy",
             "Featured"
         ],
+        "max_height" : 600,
         "pics": [
             "brokenMirror1.jpeg",
             "brokenMirror2.jpeg",
@@ -431,6 +586,7 @@
             "All",
             "Toy"
         ],
+        "max_height" : 480,
         "vid":"<iframe src='https://player.vimeo.com/video/27380117' width='640' height='480' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
@@ -447,6 +603,7 @@
             "Other",
             "Game"
         ],
+        "max_height" : 472,
         "vid":"<iframe src='https://player.vimeo.com/video/49642915' width='500' height='472' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
@@ -502,6 +659,7 @@
             "All",
             "Game"
         ],
+        "max_height" : 480,
         "vid":"<iframe src='https://player.vimeo.com/video/41514080' width='640' height='480' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
@@ -516,8 +674,7 @@
         "description": "While interning with Eyebeam fellow <a href='http://www.davidjimison.info'>David Jimison</a>, I created animations and worked on the code of his project, Fever Karaoke. The piece was presented in a karaoke bar setting, but after participants selected a song, they were presented with mad-lib style word replacements, which would alter the words of the song as they sang.<br><br>These animations were projected behind the players and danced along with them. The animations are modular and code-driven so that they could be swapped and rearranged easily.",
         "tags": [
             "All",
-            "Other",
-            "Featured"
+            "Other"
         ],
         "pics": [
             "fever1.jpg",
@@ -536,6 +693,7 @@
             "Game",
             "Featured"
         ],
+        "max_height" : 540,
         "vid":"<iframe src='https://player.vimeo.com/video/210004094' width='630' height='540' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
@@ -555,7 +713,7 @@
             "All",
             "Other"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/209999964' width='700' height='509' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<iframe src='https://player.vimeo.com/video/209999964' width='700' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
             "vid",
             "1.jpg",

@@ -1,10 +1,10 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+//import logo from './logo.svg';
 import './App.css';
 import _ from 'lodash'
-import $ from 'jquery'
+//import $ from 'jquery'
 import queryString from 'querystring'
-import {Grid, Col, Row, Navbar, Nav, NavItem} from 'react-bootstrap'
+import {Grid, Col, Row, Nav, NavItem} from 'react-bootstrap'
 import createHistory from 'history/createBrowserHistory'
 import Projects from '../public/projects.json';
 
@@ -121,10 +121,10 @@ class App extends Component {
 
   render() {
     let elem;
-    if (this.state.mode == "grid") {
+    if (this.state.mode === "grid") {
       elem = <GridContainer chooseProject={this.chooseProject.bind(this)} filter={this.state.filter}/>
     } 
-    else if (this.state.mode == "project") {
+    else if (this.state.mode === "project") {
       let qs = queryString.parse(history.location.search);
       let nick = qs["?p"]
       let proj = _.find(Projects, {'nick': nick});
@@ -178,10 +178,10 @@ class FilterBar extends Component {
       //most clicks just chaneg the filter
       var clickFunc = this.props.changeFilter.bind(this, item)
       //but clicking "about" should call up that page
-      if (item == "About"){
+      if (item === "About"){
         clickFunc = this.props.chooseProject.bind(this, "about")
       } 
-      var isSelected = item == this.props.curFilter;
+      var isSelected = item === this.props.curFilter;
       var thisStyle = isSelected ? {"fontWeight":"bold"} : {"fontWeight":"lighter"}; 
       //var thisStyle = isSelected ? {"background":"rgba(255,255,255,0.5)"} : {"color":"red"}; 
       return <NavItem key={i} style={thisStyle} onClick={clickFunc}>{item}</NavItem>
@@ -271,7 +271,7 @@ class ProjectContainer extends Component {
 
   render() {
 
-    var hasVid = this.props.project.hasOwnProperty('vid');
+    //var hasVid = this.props.project.hasOwnProperty('vid');
 
     let imgNumButtons = this.props.project.pics.map((picName, i) => {
       var style = {display:"inline-block", "verticalAlign":"top", "marginRight":"10px", "cursor":"pointer"}
@@ -287,7 +287,13 @@ class ProjectContainer extends Component {
     var picSrc = "/img/"+this.props.project.nick+"/"+this.props.project.pics[this.props.curImgNum];
 
     //set standard pic div
-    var picDiv = <div><img  src={picSrc}/></div>
+    var imgHeight = 450;
+    if (this.props.project.hasOwnProperty('max_height')){
+      console.log("got that max height");
+      imgHeight = this.props.project.max_height;
+      console.log(imgHeight)
+    }
+    var picDiv = <div><img  src={picSrc} height={imgHeight}/></div>
 
     //check if we're on a vid
     if (this.props.project.pics[this.props.curImgNum] == "vid"){
