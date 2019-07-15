@@ -146,7 +146,7 @@ class App extends Component {
             </Col>
             <Col xs={6} style={{textAlign:"right"}}>
               <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
-              <a href="https://www.tumblr.com/blog/andymakesgames"><img src={"/img/icons/tumblr_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
+              <a href="https://andymakesgames.tumblr.com/"><img src={"/img/icons/tumblr_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://vimeo.com/andymakes"><img src={"/img/icons/vimeo_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://github.com/andymasteroffish"><img src={"/img/icons/GitHub-Mark-64px_white.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://andymakes.itch.io/"><img src={"/img/icons/itch_resize.png"} width={socialIconSize*3.27} height={socialIconSize} style={socialIconStyle}></img></a>
@@ -285,9 +285,8 @@ class ProjectContainer extends Component {
     })
 
     var picSrc = "/img/"+this.props.project.nick+"/"+this.props.project.pics[this.props.curImgNum];
-
-    //set standard pic div
     var imgHeight = 450;
+    //set standard pic div
     if (this.props.project.hasOwnProperty('max_height')){
       console.log("got that max height");
       imgHeight = this.props.project.max_height;

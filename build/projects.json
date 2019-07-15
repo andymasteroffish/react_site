@@ -1,5 +1,75 @@
 [
     {
+        "name": "Circumnavigators",
+        "nick": "circum",
+        "year": "2018",
+        "description": "Created in collaboration with <a href='http://junomorrow.com'>Juno Morrow</a>, Circumnavigators is a physical arcade game where players must run around a circular strip of LEDs attempting to keep their glowing dot safe. Tapping the arcade buttons along the top moves the obstacles (represented by different color bars). Players must physically keep up with their dot and are encouraged to sabotage other players.<br><br>The game was initially created at <a href='https://deathbyaudioarcade.com'>Death By Audio Arcade’s</a> Alt.Ctrl Jam where it was built into a garbage can. Andy and Juno have since built a proper housing for it and it has been shown at Caveat, Secret Project Robot & MAGFest 2019.<br><br>First photo by <a href='http://www.robysoft.net/'>Nick Santaniello</a>.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "mag19-31_small.jpg",
+            "IMG_3552.JPG",
+            "gif_small_256_color.gif"
+        ]
+    },
+    {
+        "name": "Arcade Truck",
+        "nick": "night_market",
+        "year": "2018",
+        "description": "The Night Market is <a href='https://withfriends.co/event/595315/lost_horizon_night_market'>“a transient bazaar where one can encounter a variety of mysterious lounges, theaters, galleries, cafes, installations and other establishments, all situated within seemingly ordinary box trucks.”</a> Years after I helped with my <a href='http://andymakes.com/?p=cuddle'>first truck</a>, I returned with <a href='https://www.deathbyaudioarcade.com/'>Death By Audio Arcade</a> to build an arcade installation in a truck.<br><br>The truck featured three arcade games, hanging light art, and a piece of video art projected across the entire truck to create a sensory-overload imagined alternate future arcade.<br><br>You can read more about the installation <a href='http://andymakesgames.tumblr.com/post/179396583389/dbaa-at-the-lost-horizons-night-market'>on my blog.<br><br><a href='https://twitter.com/Iscariot83'>Chris Hernandez</a>, <a href='http://www.allen-riley.com/'>Allen Riley</a> & <a href='https://twitter.com/dustmop'>Dustin Long</a> of DBAA also helped design and execute the truck.<br><br>Photos by <a href='http://uglymachine.net/'>Emi Spicer</a>.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "1.jpg",
+            "2.JPG",
+            "3.JPG",
+            "4.JPG"
+        ]
+    },
+    {
+        "name": "Chalice of Brevium",
+        "nick": "chalice",
+        "year": "2018",
+        "description": "<a href='http://andymakes.com/chalice/'>Chalice of Brevium</a> is an experimental roguelike created while following along with a game-a-week class being taught by my my colleague at LIU, <a href='https://twitter.com/ramirocorbetta'>Ramiro Corbetta</a>. Players must work together to push the Chalice to the portal.<br><br>The board state is shared by all players and it is interacted with one user at a time.  Although they can practice as long as they’d like, each user gets only a single, 10-second chance to advance the game. After this they are locked out until the current board is beaten. Furthermore, players must use one of three classes, all of which are required to advance and protect the chalice, forcing them to work together (or fail).<br><br>It can be played for free at <a href='http://andymakes.com/chalice'>andymakes.com/chalice</a>.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "death.gif",
+            "1.png",
+            "2.png"
+        ]
+    },
+    {
+        "name": "Pivop",
+        "nick": "pivop",
+        "year": "2018",
+        "max_height" : 600,
+        "description": "Pivop is a small, one-button arcade game about a swinging head. It was created in one week while following along with a game-a-week class being taught by my colleague at LIU, <a href='https://twitter.com/ramirocorbetta'>Ramiro Corbetta</a>.<br><br>Pivop is free and can be played in the browser on <a href='https://andymakes.itch.io/pivop'>Itch.io</a>.<br><br>The art in the game was created using <a href='https://fernandoramallo.itch.io/doodle-studio-95'>Doodle Studio 95</a> and the music was composed by me on a <a href='https://www.teenageengineering.com/products/po-32'>Pocket Operator Tonic</a>.",
+       
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "gameplay.gif",
+            "title.gif",
+            "still_shot.png",
+            "title_itch.gif"
+        ]
+    },
+    {
         "name": "A Place To Bury Strangers Pinball",
         "nick": "pinball",
         "year": "2018",
@@ -10,11 +80,10 @@
             "All",
             "Game"
         ],
-        "max_height" : 600,
-        "vid": "<iframe width='500' height='600' src='https://www.youtube.com/embed/9elRF3ZUgU0'></iframe>",
+        "vid": "<iframe width='700' height='450' src='https://www.youtube.com/embed/u5J5mHw6u3s'></iframe>",
         "pics": [
-            "Joe_Ahearn_MVIMG_20180715_151226.jpg",
             "vid",
+            "Joe_Ahearn_MVIMG_20180715_151226.jpg",
             "board.jpg",
             "IMG_1722.JPG"
         ]
@@ -23,7 +92,7 @@
         "name": "The DreamBoxXx",
         "nick": "dreamboxxx",
         "year": "2018",
-        "description": "I worked with <a href='http://www.deathbyaudioarcade.com/'>Death By Audio Arcade</a> to create <a href='https://www.deathbyaudioarcade.com/dreamboxxx/'>The DreamboxXx</a>, a queer arcade machine that now lives at <a href='https://www.facebook.com/TheSpectrumBK/'>Dream House/Spectrum</a>, a queer events space in Brooklyn. This arcade machine that contains 9 games by local queer and trans developers created specifically for this hardware. I managed this project, working with <a href='https://brid.gs/'>Ayla Myers</a> to curate and invite the participating devs. I also wrote the software that ran in the arcade machine to allow users to select their game and to make sure it would remain stable in a public space.<br><br>The games were later released by the devs as <a href='https://itch.io/b/239/the-dreamboxxx-bundle-custom-made-lgbtq-arcade-games'>a bundle</a> to raise money for the Sylvia Sylvia Rivera Law Project and Make The Road New York.<br><br>Photos by <a href='http://gothamist.com/2018/05/31/dbaa_dreamhouse_arcade_games.php#photo-1'>Walter Wlodarczyk</a>.<br><br>A post about designing and building the launcher can be found on <a href='http://andymakesgames.tumblr.com/post/174438083814/creating-the-dreamboxxx-a-queer-winnitron'>my blog</a>.",
+        "description": "I worked with <a href='http://www.deathbyaudioarcade.com/'>Death By Audio Arcade</a> to create <a href='https://www.deathbyaudioarcade.com/dreamboxxx/'>The DreamboxXx</a>, a queer arcade machine that now lives at <a href='https://www.facebook.com/TheSpectrumBK/'>Dream House/Spectrum</a>, a queer events space in Brooklyn. This arcade machine contains 9 games by local queer and trans developers created specifically for this hardware. I managed this project, working with <a href='https://brid.gs/'>Ayla Myers</a> to curate and invite the participating devs. I also wrote the software that ran in the arcade machine to allow users to select their game and to make sure it would remain stable in a public space.<br><br>The games were later released by the devs as <a href='https://itch.io/b/239/the-dreamboxxx-bundle-custom-made-lgbtq-arcade-games'>a bundle</a> to raise money for the Sylvia Sylvia Rivera Law Project and Make The Road New York.<br><br>Photos by <a href='http://gothamist.com/2018/05/31/dbaa_dreamhouse_arcade_games.php#photo-1'>Walter Wlodarczyk</a>.<br><br>A post about designing and building the launcher can be found on <a href='http://andymakesgames.tumblr.com/post/174438083814/creating-the-dreamboxxx-a-queer-winnitron'>my blog</a>.",
        
         "tags": [
             "Featured",
@@ -474,8 +543,7 @@
         "description": "The first game we released at Golden Ruby Games, Destroy All Color! is a fast-paced puzzle game played by using the iPhone's camera to find and use colors in the player's environment to destroy blocks on screen. The color choosen is then used in the subsequent levels, getting progressively more difficult. This makes for a unique and interesting game mechanic that combines the real world around the player with the digital puzzle of the game.",
         "tags": [
             "All",
-            "Game",
-            "Featured"
+            "Game"
         ],
         "vid":"<iframe src='https://player.vimeo.com/video/47744504' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
         "pics": [
@@ -618,7 +686,6 @@
         "tags": [
             "All",
             "Other",
-            "Featured",
             "Toy"
         ],
         "pics": [
