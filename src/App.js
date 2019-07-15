@@ -6,7 +6,7 @@ import _ from 'lodash'
 import queryString from 'querystring'
 import {Grid, Col, Row, Nav, NavItem} from 'react-bootstrap'
 import createHistory from 'history/createBrowserHistory'
-import Projects from '../public/projects.json';
+import Projects from './projects.json';
 
 let history = createHistory()
 let location = history.location;
@@ -190,7 +190,7 @@ class FilterBar extends Component {
 
 return (
       <div>
-        <Nav bsStyle="tabs" justified onSelect={this.handleSelect} style={{"fontSize":"16px"}}>
+        <Nav bsStyle="tabs" onSelect={this.handleSelect} style={{"fontSize":"16px"}}>
           {elems}
         </Nav>
       </div>
@@ -292,7 +292,7 @@ class ProjectContainer extends Component {
       imgHeight = this.props.project.max_height;
       console.log(imgHeight)
     }
-    var picDiv = <div><img  src={picSrc} height={imgHeight}/></div>
+    var picDiv = <div><img style={{maxWidth: "100%", maxHeight: "100%", height:"auto", width:"auto"}} src={picSrc} height={imgHeight}/></div>
 
     //check if we're on a vid
     if (this.props.project.pics[this.props.curImgNum] == "vid"){

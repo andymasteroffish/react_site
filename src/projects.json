@@ -171,7 +171,7 @@
             "All",
             "Game"
         ],
-        "vid": "<iframe src='https://player.vimeo.com/video/236515448' width='600' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid": "<div style='padding:50% 0 0 0; margin-left:-33%; position:relative;'><iframe src='https://player.vimeo.com/video/236515448' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/236515448'>Bleep Space Trailer</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "indiecade.jpg",
@@ -180,6 +180,7 @@
             "cab.jpg"
         ]
     },
+
     {
         "name": "Salmon Roll: The Upstream Team",
         "nick": "salmon",
@@ -210,7 +211,7 @@
             "Game"
         ],
         "max_height" : 500,
-        "vid": "<iframe src='https://player.vimeo.com/video/170259186' width='340' height='497' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>>",
+        "vid": "<div style='padding:70% 0 0 0;margin-left:-52%;position:relative;'><iframe src='https://player.vimeo.com/video/170259186' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/170259186'>Noise Snke (turn down your volume)</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "pic1.png",
@@ -358,7 +359,7 @@
             "All",
             "Game"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/149687218' width='721' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:62.5% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/149687218' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/149687218'>Intimate Codex</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "pic0.png",
@@ -389,7 +390,7 @@
             "All",
             "Game"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/153699269' width='720' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:62.5% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/153699269' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/153699269'>Bloom Cave, Global Game Jam 2016</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "rune_cycle.gif",
@@ -408,7 +409,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/102190423' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/102190423' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/102190423'>PARTICLE MACE Trailer</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "arcade0.png",
@@ -427,7 +428,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/107056301' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/107056301' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/107056301'>Extreme Exorcism Trailer</a> from <a href='https://vimeo.com/user11855679'>Golden Ruby Games</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "pic0.jpg",
@@ -464,7 +465,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/70116079' width='780' height='439' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/70116079' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/70116079'>Hermit Crab in Space - Official Trailer</a> from <a href='https://vimeo.com/user11855679'>Golden Ruby Games</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "hermitCrab1.jpg",
@@ -484,7 +485,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/82397975' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/82397975' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/82397975'>Worm Run Updated Trailer</a> from <a href='https://vimeo.com/user11855679'>Golden Ruby Games</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "wormRun0.png",
@@ -505,7 +506,7 @@
             "Game",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/56350840' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/56350840' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/56350840'>DoodleDefenseTrailer</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "doodleDefense1.png",
@@ -545,7 +546,7 @@
             "All",
             "Game"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/47744504' width='640' height='360' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/47744504' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/47744504'>Destroy All Color! Trailer</a> from <a href='https://vimeo.com/user11855679'>Golden Ruby Games</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "dac1.PNG",
@@ -563,7 +564,7 @@
             "Other",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/26689220' width='800' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/26689220' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/26689220'>Chase No Face / BELL</a> from <a href='https://vimeo.com/fzamorano'>Francisco Zamorano</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "noFace6.jpg",
@@ -635,7 +636,7 @@
             "Other",
             "Featured"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/23824657' width='798' height='448' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/23824657' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/23824657'>Sound Balls</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "1.jpg",
@@ -653,7 +654,7 @@
             "Toy"
         ],
         "max_height" : 480,
-        "vid":"<iframe src='https://player.vimeo.com/video/27380117' width='640' height='480' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:75% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/27380117' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/27380117'>ASCII Video Filter</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "1.png"
@@ -670,7 +671,7 @@
             "Game"
         ],
         "max_height" : 472,
-        "vid":"<iframe src='https://player.vimeo.com/video/49642915' width='500' height='472' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:94.24% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/49642915' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/49642915'>SuperSisyphusBros</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "prom1.png",
@@ -725,7 +726,7 @@
             "Game"
         ],
         "max_height" : 480,
-        "vid":"<iframe src='https://player.vimeo.com/video/41514080' width='640' height='480' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:75% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/41514080' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/41514080'>Bounce Box Trailer</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "bouncebox2.png",
@@ -759,7 +760,7 @@
             "Featured"
         ],
         "max_height" : 540,
-        "vid":"<iframe src='https://player.vimeo.com/video/210004094' width='630' height='540' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:85.71% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/210004094' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/210004094'>Isabelle Poppy &amp; Bling Gameplay (2009)</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "IPB03.png",
@@ -778,7 +779,7 @@
             "All",
             "Other"
         ],
-        "vid":"<iframe src='https://player.vimeo.com/video/209999964' width='700' height='450' frameborder='0' webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>",
+        "vid":"<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/209999964' style='position:absolute;top:0;left:0;width:100%;height:100%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/209999964'>Roving - Jollyship The Whiz-Bang</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "1.jpg",
