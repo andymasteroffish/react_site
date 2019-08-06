@@ -3,7 +3,7 @@
         "name": "Circumnavigators",
         "nick": "circum",
         "year": "2018",
-        "description": "Created in collaboration with <a href='http://junomorrow.com'>Juno Morrow</a>, Circumnavigators is a physical arcade game where players must run around a circular strip of LEDs attempting to keep their glowing dot safe. Tapping the arcade buttons along the top moves the obstacles (represented by different color bars). Players must physically keep up with their dot and are encouraged to sabotage other players.<br><br>The game was initially created at <a href='https://deathbyaudioarcade.com'>Death By Audio Arcade’s</a> Alt.Ctrl Jam where it was built into a garbage can. Andy and Juno have since built a proper housing for it and it has been shown at Caveat, Secret Project Robot & MAGFest 2019.<br><br>First photo by <a href='http://www.robysoft.net/'>Nick Santaniello</a>.",
+        "description": "Created in collaboration with <a href='http://junomorrow.com'>Juno Morrow</a>, Circumnavigators is a physical arcade game where players must run around a circular strip of LEDs attempting to keep their glowing dot safe. Tapping the arcade buttons along the top moves the obstacles (represented by different color bars). Players must physically keep up with their dot and are encouraged to sabotage other players.<br><br>The game was initially created at <a href='https://deathbyaudioarcade.com'>Death By Audio Arcade’s</a> Alt.Ctrl Jam where it was built into a garbage can. Andy and Juno have since built a proper housing for it and it has been shown at Caveat, Secret Project Robot, MAGFest 2019 & the <a href='https://americanart.si.edu/events/saam-arcade'>Smithsonian American Art Museum Arcade</a> in 2019.<br><br>First photo by <a href='http://www.robysoft.net/'>Nick Santaniello</a>.",
        
         "tags": [
             "Featured",
@@ -12,7 +12,7 @@
         ],
         "pics": [
             "mag19-31_small.jpg",
-            "IMG_3552.JPG",
+            "IMG_5283_small.jpg",
             "gif_small_256_color.gif"
         ]
     },
@@ -185,7 +185,7 @@
         "name": "Salmon Roll: The Upstream Team",
         "nick": "salmon",
         "year": "2017",
-        "description": "In the summer of 2017, Jane Friedhoff and I were commissioned to make an installation game for <a href='http://play-nyc.com/'>Play NYC</a>, a games conference in NYC held in Terminal 5. We created Salmon Roll: The Upstream Team, a two player collaborative game with a five foot long custom controller based on the 1983 arcade game Ice Cold Beer (also the inspiration for TumbleSeed).<br><br>We also served as co-chairs of Installation Games for the conference and curated a collection of other installation games made for the event by local digital artists and game designers.<br><br>Game by Andy Wallace and <a href='http://janefriedhoff.com/'>Jane Friedhoff</a>.<br>Art by <a href='http://radstronomical.com/'>Diego Garcia</a><br>Photos by <a href='http://www.jochiang.com/'>Jo Chiang</a><br><br>Brief write-up of our development process <a href='http://andymakesgames.tumblr.com/post/164215709449/salmon-roll-the-upstream-team-design-notebook'>here</a>.",
+        "description": "In the summer of 2017, Jane Friedhoff and I were commissioned to make an installation game for <a href='http://play-nyc.com/'>Play NYC</a>, a games conference in NYC held in Terminal 5. We created Salmon Roll: The Upstream Team, a two player collaborative game with a five foot long custom controller based on the 1983 arcade game Ice Cold Beer (also the inspiration for TumbleSeed).<br><br>We also served as co-chairs of Installation Games for the conference and curated a collection of other installation games made for the event by local digital artists and game designers.<br><br>Salmon Roll was also shown at the <a href='https://americanart.si.edu/events/saam-arcade'>Smithsonian American Art Museum Arcade</a> in 2019.<br><br>Game by Andy Wallace and <a href='http://janefriedhoff.com/'>Jane Friedhoff</a>.<br>Art by <a href='http://radstronomical.com/'>Diego Garcia</a><br>Photos by <a href='http://www.jochiang.com/'>Jo Chiang</a><br><br>Brief write-up of our development process <a href='http://andymakesgames.tumblr.com/post/164215709449/salmon-roll-the-upstream-team-design-notebook'>here</a>.",
         "tags": [
             "Featured",
             "All",
