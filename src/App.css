@@ -45,3 +45,15 @@ a{
   color: #ccc;
 
 }
+
+.vid_holder {
+  /*z-index: -100;*/
+  padding:50% 0 0 0; 
+  position:relative;
+  overflow:hidden;
+  pointer-events:none;
+}
+
+iframe {
+  pointer-events:all;
+}
