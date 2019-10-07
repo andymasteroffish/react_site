@@ -1,16 +1,67 @@
 [
     {
+        "name": "Killipede Music Video",
+        "nick": "killipede",
+        "year": "2019",
+        "description": "I directed and animated this music video for the song Killipede by <a href='http://danfriel.com'>Dan Friel</a> off his new album <a href='https://thrilljockey.com/products/fanfare'>Fanfare</a>. The video was written entirely in C++ using openFrameworks and makes heavy use of JPEG corruption.<br><br>I wrote a lengthy post about the creation of this video on <a href='https://andymakesgames.tumblr.com/post/187892688614/killipede-programming-a-music-video'>my blog</a>.<br><br>I also created the <a href='/?p=fanfare'>album cover</a> for Fanfare using methods developped for the video.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "vid": "<iframe width='560' height='315' src='https://www.youtube.com/embed/TqJs0wnVZq4' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "arrow_1714.png",
+            "protozoa_1109.png",
+            "protozoa_4719.png",
+            "triangle_4127.png"
+        ]
+    },
+    {
+        "name": "Fanfare Album Cover",
+        "nick": "fanfare",
+        "year": "2019",
+        "description": "After creating the music video for <a href='/?p=killipede'>Killipede</a> for <a href='http://danfriel.com'>Dan Friel</a> I used the same techniques to generate this image, which was used as the cover of his album <a href='https://thrilljockey.com/products/fanfare'>Fanfare</a>.",       
+        "tags": [
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "fanfare_smaller.png"
+        ]
+    },
+    {
+        "name": "Ziggurat of the Titan Beetle",
+        "nick": "ziggurat",
+        "year": "2019",
+        "description": "Ziggurat of the Titan Beetle is a four-player party rougelike where players must communicate and work together to beat dungeons. Despite striving towards a common goal, time pressure and shared resources make it easy to accidentaly step on each other's toes.<br><br>This game was created as an exclusive reward for backers of the <a href='https://www.kickstarter.com/projects/markkleeb/wonderville-arcade'>Wonderville Kickstarter campaign</a>.<br><br>Sprites and logo by <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a>.<br><br>The <a href='https://en.wikipedia.org/wiki/Titan_beetle'>Titan Beetle</a> is a real creature and the largest known species of beetle.",       
+        "tags": [
+            "All",
+            "Games",
+            "Featured"
+        ],
+        "pics": [
+            "gameplay.jpg",
+            "store.jpg",
+            "damage.jpg",
+            "title.jpg"
+        ]
+    },
+    {
         "name": "Circumnavigators",
         "nick": "circum",
         "year": "2018",
-        "description": "Created in collaboration with <a href='http://junomorrow.com'>Juno Morrow</a>, Circumnavigators is a physical arcade game where players must run around a circular strip of LEDs attempting to keep their glowing dot safe. Tapping the arcade buttons along the top moves the obstacles (represented by different color bars). Players must physically keep up with their dot and are encouraged to sabotage other players.<br><br>The game was initially created at <a href='https://deathbyaudioarcade.com'>Death By Audio Arcade’s</a> Alt.Ctrl Jam where it was built into a garbage can. Andy and Juno have since built a proper housing for it and it has been shown at Caveat, Secret Project Robot, MAGFest 2019 & the <a href='https://americanart.si.edu/events/saam-arcade'>Smithsonian American Art Museum Arcade</a> in 2019.<br><br>First photo by <a href='http://www.robysoft.net/'>Nick Santaniello</a>.",
+        "description": "Created in collaboration with <a href='http://junomorrow.com'>Juno Morrow</a>, Circumnavigators is a physical arcade game where players must run around a circular strip of LEDs attempting to keep their glowing dot safe. Tapping the arcade buttons along the top moves the obstacles (represented by different color bars). Players must physically keep up with their dot and are encouraged to sabotage other players.<br><br>The game was initially created at <a href='https://deathbyaudioarcade.com'>Death By Audio Arcade’s</a> Alt.Ctrl Jam where it was built into a garbage can. Andy and Juno have since built a proper housing for it and it has been shown at Caveat, Secret Project Robot, MAGFest 2019 & the <a href='https://americanart.si.edu/events/saam-arcade'>Smithsonian American Art Museum Arcade</a> in 2019.<br><br>First photo by <a href='http://www.robysoft.net/'>Nick Santaniello</a>.<br><br>Video by Juno Morrow.",
        
         "tags": [
             "Featured",
             "All",
             "Game"
         ],
+        "vid": "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/327637631' style='position:absolute;top:0;left:0;width:100%;height:100%;'' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/327637631'>Circumnavigators v1</a> from <a href='https://vimeo.com/junom'>Juno Morrow</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
+            "vid",
             "mag19-31_small.jpg",
             "IMG_5283_small.jpg",
             "gif_small_256_color.gif"
@@ -277,7 +328,6 @@
         "year": "2016",
         "description": "This browser simulation attempts to create effective spaceship shooter AI using a genetic algorithm. The game itself is roughly based on <a href='https://www.youtube.com/watch?v=3m86ftny1uY'>Combat for the Atari 2600</a>. When it starts, all ships are created with a completely randomized set of rules that govern their behavior. Once all of the ships in a given generation get a chance to compete, the ones that got the most kills (with a bonus for not dying themselves) are allowed to continue to the next generation and to have children. The children inherit the same set of behaviors that the parents had, but mutate them slightly: a value gets changed here and there, maybe a rule gets removed or a new one gets added. Even though these changes are random, over many generations the natural selection process selects for mutations that make them more effective pilots.<br><br><a href='http://www.andymakesgames.com/extras/combatgenetics/'>Full site here</a><br>Also avalaible on <a href='https://andymakes.itch.io/combat-genetics'>itch.io</a>",
         "tags": [
-            "Featured",
             "All",
             "Toy"
         ],
@@ -632,8 +682,7 @@
         "tags": [
             "All",
             "Toy",
-            "Other",
-            "Featured"
+            "Other"
         ],
         "vid":"<div class='vid_holder'><iframe src='https://player.vimeo.com/video/23824657' style='position:absolute;top:0;left:0;width:100%;height:100%;margin-left:-6%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/23824657'>Sound Balls</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
