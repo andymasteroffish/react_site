@@ -1,5 +1,25 @@
 [
     {
+        "name": "MTG Plotter Prints",
+        "nick": "plotter_cards",
+        "year": "2019",
+        "description": "While quarantining, I used my <a href='https://axidraw.com/'>AxiDraw Pen Plotter</a> to print a proxy <i>Magic The Gathering</i> deck to play with friends over webcam.<br><br>To translate the complex art in the game into instructions my plotter could read, I created a suite of tools in <a href='http://openframeworks.cc/'>openFrameworks</a> that allowed me to break the image up into layers and apply different filters (also designed by me). The layout and borders were programmed from scratch, but drew inspiration from the source cards.<br><br>The library I made to convert openFrameworks drawings into gcode is freely available <a href='https://github.com/andymasteroffish/axidraw_gcode_reader'>here</a>.<br><br>The cards were primarily printed using Uni-ball metallic inks.<br><br>The <a href='https://andymakesgames.tumblr.com/tagged/magic-the-gathering'>complete collection</a> can be seen on my Tumblr.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "vid":"<iframe src='https://player.vimeo.com/video/405855697' width='640' height='400' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe><p><a href='https://vimeo.com/405855697'>Force of Will Plotter print Time-lapse</a> from <a href='https://vimeo.com/andymakes'>Andy Wallace</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
+        "pics": [
+            "vid",
+            "IMG_7738_color.JPG",
+            "IMG_7808_small.jpg",
+            "IMG_7940_trim.jpg",
+            "IMG_7914_trim_small.jpg",
+            "2020-03-12_mystic_tutor.png"
+        ]
+    },
+    {
         "name": "Killipede Music Video",
         "nick": "killipede",
         "year": "2019",
@@ -38,7 +58,7 @@
         "description": "Ziggurat of the Titan Beetle is a four-player party rougelike where players must communicate and work together to beat dungeons. Despite striving towards a common goal, time pressure and shared resources make it easy to accidentaly step on each other's toes.<br><br>This game was created as an exclusive reward for backers of the <a href='https://www.kickstarter.com/projects/markkleeb/wonderville-arcade'>Wonderville Kickstarter campaign</a>.<br><br>Sprites and logo by <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a>.<br><br>The <a href='https://en.wikipedia.org/wiki/Titan_beetle'>Titan Beetle</a> is a real creature and the largest known species of beetle.",       
         "tags": [
             "All",
-            "Games",
+            "Game",
             "Featured"
         ],
         "pics": [
@@ -59,7 +79,7 @@
             "All",
             "Game"
         ],
-        "vid": "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/327637631' style='position:absolute;top:0;left:0;width:100%;height:100%;'' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/327637631'>Circumnavigators v1</a> from <a href='https://vimeo.com/junom'>Juno Morrow</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
+        "vid": "<div style='padding:56.25% 0 0 0;position:relative;'><iframe src='https://player.vimeo.com/video/371966195' style='position:absolute;top:0;left:0;width:100%;height:100%;'' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/371966195'>Circumnavigators</a> from <a href='https://vimeo.com/junom'>Juno Morrow</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
             "vid",
             "mag19-31_small.jpg",
@@ -838,7 +858,7 @@
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is the Assistant Professor of Game Design at Long Island University Post Campus and an independent digital artist and game designer. He received his MFA from Parsons The New School For Design in 2012 and worked for a few years at the tiny NYC game company Golden Ruby Games. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a> and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world including <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a><br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves the possibilities posed by the intersection of art and code. He can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>Andy lives in NYC and can't wait to move into an apartment that allows dogs.",
+        "description": "Andy Wallace is the Assistant Professor of Game Design at Long Island University Post Campus and an independent digital artist and game designer. He received his MFA from Parsons The New School For Design in 2012 and worked for a few years at the tiny NYC game company Golden Ruby Games. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective.<br><br>He does creative code and game design work as Andy Makes Inc.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a> and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world including <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a><br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves the possibilities posed by the intersection of art and code. He can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>Andy lives in NYC and can't wait to move into an apartment that allows dogs.",
         "tags": [
             "About"
         ],
