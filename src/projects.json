@@ -2,7 +2,7 @@
     {
         "name": "MTG Plotter Prints",
         "nick": "plotter_cards",
-        "year": "2019",
+        "year": "2020",
         "description": "While quarantining, I used my <a href='https://axidraw.com/'>AxiDraw Pen Plotter</a> to print a proxy <i>Magic The Gathering</i> deck to play with friends over webcam.<br><br>To translate the complex art in the game into instructions my plotter could read, I created a suite of tools in <a href='http://openframeworks.cc/'>openFrameworks</a> that allowed me to break the image up into layers and apply different filters (also designed by me). The layout and borders were programmed from scratch, but drew inspiration from the source cards.<br><br>The library I made to convert openFrameworks drawings into gcode is freely available <a href='https://github.com/andymasteroffish/axidraw_gcode_reader'>here</a>.<br><br>The cards were primarily printed using Uni-ball metallic inks.<br><br>The <a href='https://andymakesgames.tumblr.com/tagged/magic-the-gathering'>complete collection</a> can be seen on my Tumblr.",       
         "tags": [
             "Featured",
@@ -20,6 +20,24 @@
         ]
     },
     {
+        "name": "Turf Wars",
+        "nick": "touchdown",
+        "year": "2020",
+        "description": "My partner <a href='https://janefriedhoff.com/'>Jane Friedhoff</a> and I were hired by <a href='https://www.teamwass.com/'>Wasserman Media Group</a> to license, “reskin,” and install our game <a href='/?p=salmon'>Salmon Roll: The Upstream Team</a> at the AT&T booth at the College Football Playoff Fan Central expo in New Orleans. This involved changing the visuals and some gameplay to have a football theme, and designing and creating new custom controllers for the game.<br><br><a href='https://twitter.com/Iscariot83'>Chris Hernandez</a> created the new sprites & <a href='https://rottentuna.games/'>Kyle Magocs</a> fabricated the controllers.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game",
+            "Freelance"
+        ],
+        "pics": [
+            "IMG_4834.JPEG",
+            "touchdown_gameplay_small.png",
+            "IMG_7225.JPG",
+            "IMG_7242.JPG"
+        ]
+    },
+    {
         "name": "Killipede Music Video",
         "nick": "killipede",
         "year": "2019",
@@ -27,7 +45,8 @@
         "tags": [
             "Featured",
             "All",
-            "Other"
+            "Other",
+            "Freelance"
         ],
         "vid": "<iframe width='560' height='315' src='https://www.youtube.com/embed/TqJs0wnVZq4' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
         "pics": [
@@ -45,7 +64,8 @@
         "description": "After creating the music video for <a href='/?p=killipede'>Killipede</a> for <a href='http://danfriel.com'>Dan Friel</a> I used the same techniques to generate this image, which was used as the cover of his album <a href='https://thrilljockey.com/products/fanfare'>Fanfare</a>.",       
         "tags": [
             "All",
-            "Other"
+            "Other",
+            "Freelance"
         ],
         "pics": [
             "fanfare_smaller.png"
@@ -196,6 +216,21 @@
         ]
     },
     {
+        "name": "Nike NY vs NY Kiosk",
+        "nick": "nike",
+        "year": "2018",
+        "description": "I developed the interface for an LED news-ticker that was mounted along the four walls of a kiosk for Nike’s NY VS NY exhibition basketball games over the summer of 2018.<br><br>My openFrameworks app pulled information about the games from a database and converted it into a format that could be used by the LED display. Nike later contracted me again to update the project for the 2018 World Series.",
+       
+        "tags": [
+            "Featured",
+            "All",
+            "Freelance"
+        ],
+        "pics": [
+            "nike.png"
+        ]
+    },
+    {
         "name": "Triple Tone Curious Creature",
         "nick": "tone",
         "year": "2018",
@@ -313,7 +348,8 @@
         "description": "<a href='http://www.deathbyaudioarcade.com/'>Death By Audio Arcade</a> was commissioned by the meal replacement company Soylent to develop an arcade machine that featured their astronaut mascot. I designed an implemented an original 4-player Pac-Man-style game for the project.<br><br>The arcade cabinet was fabricated by <a href='http://www.kleebtronics.com/'>Mark Kleback</a> and <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a> created the art for the game and the arcade cabinet.<br><br>The arcade was playable for a few weeks in Solylent’s pop-up in L.A. and now occasionally pops up in unexpected places.",
         "tags": [
             "All",
-            "Game"
+            "Game",
+            "Freelance"
         ],
         "pics": [
             "1.jpg",
@@ -632,7 +668,8 @@
         "tags": [
             "All",
             "Other",
-            "Featured"
+            "Featured",
+            "Freelance"
         ],
         "vid":"<div class='vid_holder'><iframe src='https://player.vimeo.com/video/26689220' style='position:absolute;top:0;left:0;width:100%;height:100%;margin-left:-6%;' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe></div><script src='https://player.vimeo.com/api/player.js'></script><p><a href='https://vimeo.com/26689220'>Chase No Face / BELL</a> from <a href='https://vimeo.com/fzamorano'>Francisco Zamorano</a> on <a href='https://vimeo.com'>Vimeo</a>.</p>",
         "pics": [
@@ -808,7 +845,8 @@
         "description": "While interning with Eyebeam fellow <a href='http://www.davidjimison.info'>David Jimison</a>, I created animations and worked on the code of his project, Fever Karaoke. The piece was presented in a karaoke bar setting, but after participants selected a song, they were presented with mad-lib style word replacements, which would alter the words of the song as they sang.<br><br>These animations were projected behind the players and danced along with them. The animations are modular and code-driven so that they could be swapped and rearranged easily.",
         "tags": [
             "All",
-            "Other"
+            "Other",
+            "Freelance"
         ],
         "pics": [
             "fever1.jpg",
@@ -858,7 +896,7 @@
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is the Assistant Professor of Game Design at Long Island University Post Campus and an independent digital artist and game designer. He received his MFA from Parsons The New School For Design in 2012 and worked for a few years at the tiny NYC game company Golden Ruby Games. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective.<br><br>He does creative code and game design work as Andy Makes Inc.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a> and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world including <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a><br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves the possibilities posed by the intersection of art and code. He can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>Andy lives in NYC and can't wait to move into an apartment that allows dogs.",
+        "description": "Andy Wallace is a independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. And now he is available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.",
         "tags": [
             "About"
         ],
