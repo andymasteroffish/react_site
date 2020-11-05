@@ -1,5 +1,25 @@
 [
     {
+        "name": "Pen Plotter Art",
+        "nick": "plotter",
+        "year": "2020",
+        "description": "I create and sell pen-plotter drawings made using an <a href='https://shop.evilmadscientist.com/productsmenu/846'>AxiDraw V3 plotter</a>.<br><br>The code to generate these drawings is written by me, and in most cases allows for variations such that no two drawings will be the same. All of the drawings are written in C++ using <a href='http://openframeworks.cc/'>openFrameworks</a> and my own open-source <a href='https://github.com/andymasteroffish/ofxGCode'>G-Code library</a>.<br><br>These drawings are done using archival quality ink on ph-neutral paper.<br><br>Available drawings can be purchased from <a href='https://andymakes.bigcartel.com/'>my store</a>.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "max_height" : 540,
+        "pics": [
+            "day_22_trim_small.jpg",
+            "day_27_trim_small.jpg",
+            "day_09_small.jpg",
+            "day_19_full_small.jpg",
+            "day_18_trim_small.jpg",
+            "day_24_trim_small.jpg"
+        ]
+    },
+    {
         "name": "MTG Plotter Prints",
         "nick": "plotter_cards",
         "year": "2020",
@@ -896,7 +916,7 @@
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is a independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. And now he is available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.",
+        "description": "Andy Wallace is an independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. And now he is available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.",
         "tags": [
             "About"
         ],
