@@ -11,6 +11,8 @@ import Projects from './projects.json';
 let history = createHistory()
 let location = history.location;
 
+const plotter_extra_text = "<br><br>All of my plotter drawings were created with an AxiDraw V3 pen plotter using archival quality ink on ph-neutral paper.<br><br>You can purchase my original plotter drawings in my <a href='http://shop.andymakes.com'>shop</a>."
+
 // possible site modes:
 // grid, project
 
@@ -145,6 +147,7 @@ class App extends Component {
               <h3 style={{ "fontSize":"22px" }} >Andy Wallace makes games & digital art</h3>
             </Col>
             <Col xs={6} style={{textAlign:"right"}}>
+              <a href="https://shop.andymakes.com"><img src={"/img/icons/shop.png"} width={50} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://andymakesgames.tumblr.com/"><img src={"/img/icons/tumblr_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://vimeo.com/andymakes"><img src={"/img/icons/vimeo_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
@@ -175,7 +178,7 @@ class FilterBar extends Component {
 
     //i is just to give each one a unique key. it doesn't do anything
     let elems = allTags.map((item,i) => {
-      //most clicks just chaneg the filter
+      //most clicks just change the filter
       var clickFunc = this.props.changeFilter.bind(this, item)
       //but clicking "about" should call up that page
       if (item === "About"){
@@ -188,7 +191,7 @@ class FilterBar extends Component {
       
     })
 
-return (
+    return (
       <div>
         <Nav bsStyle="tabs" onSelect={this.handleSelect} style={{"fontSize":"16px"}}>
           {elems}
@@ -196,6 +199,11 @@ return (
       </div>
     );
   }
+
+  // gotocv = function(){
+  //   console.log("do it")
+  //   history.push("https://stackoverflow.com/questions/31079081/programmatically-navigate-using-react-router");
+  // }
 }
 
 
@@ -248,7 +256,13 @@ class ProjectContainer extends Component {
   }
 
   createMarkup() {
-    return {__html: this.props.project.description}
+    let val = {__html: this.props.project.description}
+
+    //if this is a plotter drawing, add a note about where to buy
+    if (this.props.project.tags[0] === "Plotter"){
+      val.__html += plotter_extra_text;
+    }
+    return val
   }
 
   createVidMarkup(){
@@ -271,14 +285,20 @@ class ProjectContainer extends Component {
     })
 
     var picSrc = "/img/"+this.props.project.nick+"/"+this.props.project.pics[this.props.curImgNum];
-    var imgHeight = 450;
+    var imgHeight = 500;  //default max height. a different one can be specified in the project
     //set standard pic div
     if (this.props.project.hasOwnProperty('max_height')){
-      console.log("got that max height");
+      //console.log("got that max height");
       imgHeight = this.props.project.max_height;
-      console.log(imgHeight)
+      //console.log(imgHeight)
     }
-    var picDiv = <div><img style={{maxWidth: "100%", maxHeight: "100%", height:"auto", width:"auto"}} src={picSrc} height={imgHeight}/></div>
+    //plotter drawings can be a bit bigger
+    if (this.props.project.tags[0] == "Plotter"){
+      imgHeight = 600;
+      console.log("now pls")
+    }
+    //var picDiv = <div><img style={{maxWidth: "100%", maxHeight: "100%", height:"auto", width:"auto"}} src={picSrc} height={imgHeight}/></div>
+    var picDiv = <div><img style={{maxWidth: "100%", maxHeight: "100%", width:"auto"}} src={picSrc} height={imgHeight}/></div>
 
     //check if we're on a vid
     if (this.props.project.pics[this.props.curImgNum] == "vid"){

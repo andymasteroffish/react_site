@@ -1,15 +1,49 @@
 [
     {
+        "name": "Pac-Tracer",
+        "nick": "pac_tracer",
+        "year": "2021",
+        "description": "This piece was commissioned by the <a href='https://arts.mit.edu/cast/'>MIT Center for Art, Science & Technology (CAST)</a> for the <a href='https://generative-unfoldings.mit.edu/'>Generative Unfoldings</a> exhibiton. Pac-Tracer is a programatic animation that examines the elegance and liveliness of the original Pac-Man AI, developed in 1980, by following the paths of Pac-Man and the four ghosts through an extruded 3D maze. Pac-Man’s AI represents some of the earliest and still most compelling work in games AI, with simple rules evoking the sense that each ghost has its own personality and own predispositions for mischief.<br><br>The rules that define the ghost movement are not truly adversarial: rather, they are about spatial desires. Each ghost has a place they want to be relative to Pac-Man and their fellow ghosts. This project allows those desires to play out unfettered by concerns about gamestate, or for that matter, any human interloper. By tracing those paths through the maze, the idiosyncrasies and personalities emerging from those rules become clear. What was a hunt now looks more like a waltz of attraction.<br><br>To compliment the web-app, I created a series of <a href='http://andymakes.com/?p=plotter_prints/pac_path'>plotter drawings</a> from frames of the animation.<br><br>You can view Pac-Tracer on the <a href='https://generative-unfoldings.mit.edu/works/pac-tracer/view.html'>Generative Unfoldings website.</a>",       
+        "tags": [
+            "Featured",
+            "All"
+        ],
+        "pics": [
+            "1.jpg",
+            "pac_00_full.JPG",
+            "2.jpg",
+            "3.jpg",
+            "4.jpg"
+        ]
+    },
+    {
+        "name": "Twisty Tunnels",
+        "nick": "twisty_tunnels",
+        "year": "2021",
+        "description": "This quick-reflex pixel-art game was created as a demo game for the <a href='https://indiemakersyndicate.com/'>Indie Maker Syndicate</a> <a href='https://itch.io/jam/imsjjr'>Jam Jam Revolution</a>, which I helped to run. It was originally designed to be played using the custom hardware that all participants built for the jam, but I later released it as a keyboard-controlled game.<br><br>You can play this game for free in-browser <a href='https://andymakes.itch.io/twisty-tunnels-keyboard'>here</a>.<br><br>Although it takes strong visual influence from the <a href='https://www.lexaloffle.com/pico-8.php'>Pico-8 Fantasy Console</a>, it was built using <a href='https://p5js.org/'>P5.js</a>. This was an opportunity to use many of the visual techniques I had developed writing tweet-length visual programs in the <a href='https://twitter.com/search?q=%40andy_makes%20%23tweetcart&src=typed_query'>#tweetcart</a> and <a href='https://twitter.com/search?q=%40andy_makes%20%23p5t&src=typed_query'>#p5t</a> hashtags.<br><br>The audio was created by <a href='http://jayackley.com/'>Jay Ackley</a>.",       
+        "tags": [
+            "Game",
+            "All"
+        ],
+        "pics": [
+            "title.png",
+            "spin.png",
+            "level_complete2.png",
+            "2021-03-04.gif",
+            "gem_get.png"
+        ]
+    },
+    {
         "name": "Pen Plotter Art",
         "nick": "plotter",
         "year": "2020",
-        "description": "I create and sell pen-plotter drawings made using an <a href='https://shop.evilmadscientist.com/productsmenu/846'>AxiDraw V3 plotter</a>.<br><br>The code to generate these drawings is written by me, and in most cases allows for variations such that no two drawings will be the same. All of the drawings are written in C++ using <a href='http://openframeworks.cc/'>openFrameworks</a> and my own open-source <a href='https://github.com/andymasteroffish/ofxGCode'>G-Code library</a>.<br><br>These drawings are done using archival quality ink on ph-neutral paper.<br><br>Available drawings can be purchased from <a href='https://andymakes.bigcartel.com/'>my store</a>.",       
+        "description": "I create and sell pen-plotter drawings made using an <a href='https://shop.evilmadscientist.com/productsmenu/846'>AxiDraw V3 plotter</a>.<br><br>A complete list of my plotter art can be found in the <a href='/#Plotter'>Plotter</a> heading of this portfolio.<br><br>The code to generate these drawings is written by me, and in most cases allows for variations such that no two drawings will be the same. All of the drawings are written in C++ using <a href='http://openframeworks.cc/'>openFrameworks</a> and my own open-source <a href='https://github.com/andymasteroffish/ofxGCode'>G-Code library</a>.<br><br>These drawings are done using archival quality ink on ph-neutral paper.<br><br>Available drawings can be purchased from <a href='https://andymakes.bigcartel.com/'>my store</a>.",       
         "tags": [
             "Featured",
             "All",
             "Other"
         ],
-        "max_height" : 540,
+        "max_height" : 600,
         "pics": [
             "day_22_trim_small.jpg",
             "day_27_trim_small.jpg",
@@ -89,6 +123,21 @@
         ],
         "pics": [
             "fanfare_smaller.png"
+        ]
+    },
+    {
+        "name": "Maciavelli & Cheese Truck",
+        "nick": "maciavelli",
+        "year": "2019",
+        "description": "The Night Market is <a href='https://withfriends.co/event/595315/lost_horizon_night_market'>“a transient bazaar where one can encounter a variety of mysterious lounges, theaters, galleries, cafes, installations and other establishments, all situated within seemingly ordinary box trucks.”</a><br><br>In 2019 I helped create the Maciavelli & Cheese Truck, a brutal food truck that preyed on the worst impulses of man. The design was lead by <a href='https://www.larissahayden.com/'>Larissa Hayden</a>.<br><br>In addition to creating the truck, I acted as the carnival barker, luring participants in and selecting a suitable \"prince\" in each group. That's me in the first pictrue. I wrote about the creation of the truck <a href='https://andymakesgames.tumblr.com/post/185529281439/lost-horizon-night-market-2019-machiavelli'>here</a>.<br><br>The first image was taken by <a href='https://gothamist.com/arts-entertainment/photos/photos-inside-the-box-trucks-that-briefly-transformed-this-queens-street-into-an-immersive-art-experience?image=5'>Tod Seelie for Gothamist.</a>",       
+        "tags": [
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "main.jpg",
+            "tumblr_inline_psyj1cfdCf1txnfdi_1280.jpg",
+            "tumblr_inline_psyj1i3d0h1txnfdi_1280.jpg"
         ]
     },
     {
@@ -912,11 +961,780 @@
             "2.png"
         ]
     },
+
+
+    {
+        "name": "Island",
+        "nick": "plotter_prints/mtg_island",
+        "year": "2021",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>A trading card based on one of the basic land types in <i>Magic: The Gathering</i>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "individual.JPG",
+            "group.JPG"
+        ]
+    },
+    {
+        "name": "Forest",
+        "nick": "plotter_prints/mtg_forest",
+        "year": "2021",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>A trading card based on one of the basic land types in <i>Magic: The Gathering</i>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "single.JPG",
+            "original.JPG",
+            "group.JPG"
+        ]
+    },
+    {
+        "name": "Radiant Monolith",
+        "nick": "plotter_prints/radiant_monolith",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol paper.<br><br>This piece uses two pens with many tight, nearly overlapping lines.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "monolith_full_1.JPG",
+            "monolith_2_full.JPG",
+            "monolith_detail2.JPG",
+            "monolith_2_detail1.JPG"
+        ]
+    },
+    {
+        "name": "Plains",
+        "nick": "plotter_prints/mtg_plains",
+        "year": "2021",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>A trading card based on one of the basic land types in <i>Magic: The Gathering</i>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "plains_single.JPG",
+            "plains_group.JPG"
+        ]
+    },
+    {
+        "name": "Fast & Bulbous",
+        "nick": "plotter_prints/fast_and_bulbous",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol paper.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "fast_and_bulbous_trim.JPG",
+            "fast_and_bulbous_detal1.JPG",
+            "fast_and_bulbous_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Swamp",
+        "nick": "plotter_prints/mtg_swamp",
+        "year": "2020",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>A trading card based on one of the basic land types in <i>Magic: The Gathering</i>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "swamp.JPG"
+        ]
+    },
+    {
+        "name": "Radiant Labyrinth 1",
+        "nick": "plotter_prints/radiant_labyrinth1",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol paper. These drawings were inspired by the paintings of <a href='http://www.richardanuszkiewicz.com/'>Richard Anuszkiewicz</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "labyrinth_1_trim.jpg",
+            "labyrinth_1_detail1.JPG",
+            "labyrinth_1_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Radiant Labyrinth 2",
+        "nick": "plotter_prints/radiant_labyrinth2",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol paper. These drawings were inspired by the paintings of <a href='http://www.richardanuszkiewicz.com/'>Richard Anuszkiewicz</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "labyrinth_2_trim.jpg",
+            "labyrinth_2_detail1.JPG",
+            "labyrinth_2_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Withering Wall",
+        "nick": "plotter_prints/withering_wall",
+        "year": "2021",
+        "description": "12\"x9\"<br>Micron on Bristol paper. The last image is a study for this drawing.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "withering_wall_trim.JPG",
+            "withering_wall_detail1.JPG",
+            "withering_wall_detail2.JPG",
+            "withering_wall_study.JPG"
+        ]
+    },
+    {
+        "name": "Halo Tower",
+        "nick": "plotter_prints/halo_tower",
+        "year": "2021",
+        "description": "9\"x12\"<br>Metallic ink on Bristol paper.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "halo_tower1_trim.JPG",
+            "halo_tower1_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Polar Spacetime Coordinates",
+        "nick": "plotter_prints/polar_spacetime",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens & Prismacolor art markers on vintage scientific graph paper.<br><br>The last image is the plot prior to using the art markers.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "polar_full1.JPG",
+            "polar_detail1.JPG",
+            "polar_pass1.JPG"
+        ]
+    },
+    {
+        "name": "Cubes",
+        "nick": "plotter_prints/cubes",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens & Prismacolor art markers on vintage scientific graph paper.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "cubes_01.JPG",
+            "cubes_01_detail1.JPG",
+            "cubes_01_progress.JPG"
+        ]
+    },
+    {
+        "name": "Wreath",
+        "nick": "plotter_prints/wreath",
+        "year": "2020",
+        "description": "9\"x12\"<br>Two plots, both drawn with Micron pens & Prismacolor art markers on Bristol paper.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "wreath2_trim.JPG",
+            "wreath1_full.JPG",
+            "wreath2_detail.JPG",
+            "wreath1_detail.JPG",
+            "wreath1_progress.JPG"
+        ]
+    },
+    {
+        "name": "Geometric Bowie",
+        "nick": "plotter_prints/bowie",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>This drawing is based on photograph of David Bowie by Tony McGee. It is made up of many, many small lines and took abut 5 hours to plot.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "bowie_trim.JPG",
+            "bowie_detail1.JPG",
+            "bowie_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Mitosis",
+        "nick": "plotter_prints/mitosis",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "mitosis2_trim.JPG",
+            "mitosis1_trim.JPG",
+            "mitosis2_detail.JPG"
+        ]
+    },
+    {
+        "name": "Eddies",
+        "nick": "plotter_prints/eddies",
+        "year": "2020",
+        "description": "12\"x9\"<br>Micron pens on Bristol paper.<br><br>For this plot, I made a vector field particle simulation and traced the paths of the particles as they moved through it. Every plot generates a unique vector field.<br><br>Some of the Vector Field code was actually borrowed from my earliest prototype of <a href='?p=particlemace'>PARTICLE MACE</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "eddies_02_trim.JPG",
+            "eddies_01_full.jpg",
+            "eddies_02_detail.JPG",
+            "eddies_02_progress.JPG"
+        ]
+    },
+    {
+        "name": "Ophiomancy",
+        "nick": "plotter_prints/ophiomancy",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>This design is loosely based on the <i>Magic: The Gathering</i> card <a href='https://gatherer.wizards.com/pages/card/Details.aspx?printed=true&multiverseid=376439'>Ophiomancer</a>. I made two different versions: one with hatching and one without.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "ophio_02_full.jpg",
+            "ophio_01_full.jpg",
+            "ophio_01_detail2.JPG",
+            "ophio_02_detail2.JPG",
+            "ophio_02_progress.JPG"
+        ]
+    },
+    {
+        "name": "Snake Ball",
+        "nick": "plotter_prints/snake_ball",
+        "year": "2020",
+        "description": "9\"x12\"<br>Gel pens on Bristol paper.<br><br>A test for Ophiomancy that did not worry about overlapping areas.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "snake_ball_trim.JPG",
+            "snake_ball_detail1.JPG",
+            "snake_ball_progress.JPG"
+        ]
+    },
+    {
+        "name": "Mountain",
+        "nick": "plotter_prints/mtg_mountain",
+        "year": "2020",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>A trading card based on one of the basic land types in <i>Magic: The Gathering</i>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "take2.JPG"
+        ]
+    },
+    {
+        "name": "Gemstone Fracture",
+        "nick": "plotter_prints/gemstone",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>I plotted two versions of this design. One fractured, one whole.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "gemstone_trim.JPG",
+            "fracture_trim.JPG",
+            "gamestone_detail1.JPG",
+            "fracture_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Lava Lamp",
+        "nick": "plotter_prints/lava_lamp",
+        "year": "2020",
+        "description": "12\"x9\"<br>Micron pens on Bristol paper.<br><br>This series of drawing uses two or three colored pens. The shading is created programmatically by aligning bars of color.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "lava_02_trim.jpg",
+            "lava_04_trim.JPG",
+            "lava_05_detail2.JPG",
+            "lava_05_trim.JPG",
+            "lava_07_full.JPG",
+            "lava_02_progress.JPG"
+        ]
+    },
+    {
+        "name": "Lava Lamp Trading Card",
+        "nick": "plotter_prints/lava_lamp_card",
+        "year": "2020",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>Trading card sized version of my Lava Lamp drawing. The shading is created programmatically by aligning bars of color.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "lava_card_3.JPG",
+            "lava_card_group.JPG",
+            "lava_cardback.JPG",
+            "lava_card_4.JPG"
+        ]
+    },
+    {
+        "name": "Nautilus",
+        "nick": "plotter_prints/nautilus",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Inpired by the color blending work of <a href='https://twitter.com/paulrickards'>Paul Rickards</a> the code for this drawing programmatically generates and sorts patterns using 4 colored markers.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "naut_full.JPG",
+            "naut_detail2.JPG",
+            "naut_detail3.JPG",
+            "naut_printing1.JPG"
+        ]
+    },
+    {
+        "name": "Venn Diagram Post Card",
+        "nick": "plotter_prints/venn_diagram",
+        "year": "2020",
+        "description": "5.5\"x4.\"<br>Micron pens on Bristol paper.<br><br>Postcard series plotted on heavy cardstock.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "venn_diagram.JPG",
+            "stack.JPG",
+            "sheet.JPG",
+            "printing.JPG"
+        ]
+    },
+    {
+        "name": "Hashers Postcard",
+        "nick": "plotter_prints/hashers",
+        "year": "2020",
+        "description": "5.5\"x4.25\"<br>Micron pens on Bristol paper.<br><br>Postcard plotted directly onto heavy cardstock.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "hashers_single.JPG",
+            "hashers_amazon_cardstock.JPG",
+            "hashers_progress.JPG"
+        ]
+    },
+    {
+        "name": "Pac-Path",
+        "nick": "plotter_prints/pac_path",
+        "year": "2020",
+        "description": "9\"x12\"<br>Microns & gel pens on Bristol paper.<br><br>I've always loved the simple but deep AI in Pac-man. In this plot I extruded the maze & modified the ghost logic to work in 3D then plotted their paths through the maze. Each version captures the game at a different point. No two are alike.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "pac_00_full.JPG",
+            "pac_05_close.JPG",
+            "pac_01_trim.JPG",
+            "pac_01_process.JPG"
+        ]
+    },
+    {
+        "name": "Disco Ball",
+        "nick": "plotter_prints/disco_ball",
+        "year": "2020",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>Limited edition trading card. Set of 10.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "disco_ball_single.JPG",
+            "disco_ball_double.JPG"
+        ]
+    },
+    {
+        "name": "Triangles",
+        "nick": "plotter_prints/triangles",
+        "year": "2020",
+        "description": "2.5\"x3.5\"<br>Gel pens on Bristol paper.<br><br>Limited edition trading card. Set of 10.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "triangles_single.JPG",
+            "triangles_double.JPG"
+        ]
+    },
+    {
+        "name": "Square Twist",
+        "nick": "plotter_prints/square_twist",
+        "year": "2020",
+        "description": "2.5\"x3.5\"<br>Micron pens on Bristol paper.<br><br>Limited edition trading card. Set of 10.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "square_twist_single.JPG",
+            "square_twist_double.JPG"
+        ]
+    },
+    {
+        "name": "Field Lines",
+        "nick": "plotter_prints/field_lines",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Loosely based on magnetic field lines. The code to create these drawings ensures significant differences between each one, two of which are shown here.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "field_lines_01_full.JPG",
+            "field_lines_02_full.JPG",
+            "field_lines_01_close.JPG",
+            "field_lines_02_progress.JPG"
+        ]
+    },
+    {
+        "name": "Obelisks",
+        "nick": "plotter_prints/obelisks",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens & gel pens on Bristol paper.<br><br>Originally created for Day 9 of Inktober 2020, I have revised and done a few different versions of this drawing.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_09.jpg",
+            "obelisks_03.JPG",
+            "obelisks_03_detail.JPG",
+            "obelisks_02_detail.JPG"
+        ]
+    },
+    {
+        "name": "Fault Lines",
+        "nick": "plotter_prints/fault_lines",
+        "year": "2020",
+        "description": "12\"x9\"<br>Micron pens on Bristol paper.<br><br>Created for Day 31 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_31_trim.JPG",
+            "day_31_close.JPG",
+            "day_31_progress.JPG"
+        ]
+    },
+    {
+        "name": "Cell",
+        "nick": "plotter_prints/cell",
+        "year": "2020",
+        "description": "9\"x12\"<br>Gel pens on Bristol paper.<br><br>Created for Day 29 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "cell2_trim.JPG",
+            "cell3_detail.JPG",
+            "day_29_trim_small.jpg",
+            "day_29_close.JPG",
+            "day_29_progress.JPG"
+        ]
+    },
+    {
+        "name": "Thorn Box",
+        "nick": "plotter_prints/thorn_box",
+        "year": "2020",
+        "description": "9\"x12\"<br>Metallic pens on Bristol paper.<br><br>Created for Day 28 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_28_trim.JPG",
+            "day_28_close.JPG"
+        ]
+    },
+    {
+        "name": "Hard Candies",
+        "nick": "plotter_prints/hard_candies",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Created for Day 27 of Inktober 2020 and later refined. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_27_full.JPG",
+            "hard_candies_02_full.JPG",
+            "day_27_close.JPG",
+            "hard_candies_02_detail.JPG"
+            
+        ]
+    },
+    {
+        "name": "Seaweed Knot",
+        "nick": "plotter_prints/seaweed_knot",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Created for Day 26 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_26_full.JPG",
+            "day_25_close.JPG"
+        ]
+    },
+    {
+        "name": "Gates",
+        "nick": "plotter_prints/gates",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Originally created for Day 24 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_24_full.JPG",
+            "day_24_close.JPG"
+        ]
+    },
+    {
+        "name": "Foggy Moon",
+        "nick": "plotter_prints/foggy_moon",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Created for Day 23 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_23_trim.jpg",
+            "day_23_close.jpg"
+        ]
+    },
+    {
+        "name": "Faberge Egg",
+        "nick": "plotter_prints/faberge_egg",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pen & Metallic pens on Bristol paper.<br><br>Created for Day 21 of Inktober 2020. I made two verisons of this drawing: a monochrome black and a two-tone metallic.<br><br>You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_21_black.jpg",
+            "day_21_color.jpg",
+            "day_21_close.jpg"
+        ]
+    },
+    {
+        "name": "Mesas",
+        "nick": "plotter_prints/mesas",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Created for Day 20 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_20_full.jpg",
+            "day_20_close.jpg"
+        ]
+    },
+    {
+        "name": "Ribbons",
+        "nick": "plotter_prints/ribbons",
+        "year": "2020",
+        "description": "9\"x12\"<br>Varied pens on Bristol paper.<br><br>Created for Day 19 of Inktober 2020. I've made several verisons of this drawing using different inks. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_19_full.JPG",
+            "ribbons_03.jpg",
+            "day_19_close.JPG",
+            "day_19_progress.JPG"
+        ]
+    },
+    {
+        "name": "Facts & Figures",
+        "nick": "plotter_prints/facts_and_figures",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens & gel pens on Bristol paper.<br><br>Originally created for Day 18 of Inktober 2020, I updated this design in November. Every time the code is run, the values of the graphs are randomized. I've drawn it with a variety of inks.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "facts_03_full.JPG",
+            "facts_03_close.JPG",
+            "day_18_mono_trim.JPG",
+            "facts_04.JPG",
+            "day_18_progress.JPG"
+        ]
+    },
+    {
+        "name": "Maze",
+        "nick": "plotter_prints/maze",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens on Bristol paper.<br><br>Created for Day 16 of Inktober 2020 and later updated. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "maze_03_full.JPG",
+            "maze_03_detail2.JPG",
+            "day_16_full.JPG",
+            "day_16_close.JPG"
+        ]
+    },
+    {
+        "name": "Cosmic Horror",
+        "nick": "plotter_prints/cosmic_horror",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pens & Metallic pens on Bristol paper.<br><br>Created for Day 15 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_15_full.JPG",
+            "day_15_close.JPG"
+        ]
+    },
+    {
+        "name": "Thin Mountains",
+        "nick": "plotter_prints/thin_mountains",
+        "year": "2020",
+        "description": "18\"x12\"<br>Metallic ink on Bristol paper.<br><br>Created for Day 13 & 4 of Inktober 2020. I created two variations of this drawing. Both are gold ink on large black paper.<br><br>You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_13_trim.jpg",
+            "day_14_full.jpg",
+            "day_13_close.jpg",
+            "day_14_close.jpg"
+        ]
+    },
+    {
+        "name": "Fill Circles",
+        "nick": "plotter_prints/fill_circles",
+        "year": "2020",
+        "description": "9\"x12\"<br>Gel pen on Bristol paper.<br><br>Created for Day 11 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_11_a_full.jpg",
+            "day_11_b_full.jpg",
+            "day_11_close.jpg"
+        ]
+    },
+    {
+        "name": "Frayed Knot Pattern",
+        "nick": "plotter_prints/frayed_knot",
+        "year": "2020",
+        "description": "9\"x12\"<br>Gel pens on Bristol paper.<br><br>Created for Day 10 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_10_full.jpg",
+            "day_10_close.jpg",
+            "day_10_close2.jpg"
+        ]
+    },
+    {
+        "name": "Noise Ripples",
+        "nick": "plotter_prints/noise_ripples",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pen on Bristol paper.<br><br>Created for Day 8 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_08_trim.jpg",
+            "day_08_close.jpg"
+        ]
+    },
+    {
+        "name": "This (Might Be) a Place of Honor",
+        "nick": "plotter_prints/place_of_honor",
+        "year": "2020",
+        "description": "9\"x12\"<br>Micron pen + metallic pens on Bristol paper.<br><br>Created for Day 6 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_06_full.jpg",
+            "day_06_close.jpg",
+            "day_06_with_pens.jpg"
+        ]
+    },
+    {
+        "name": "Wave Form",
+        "nick": "plotter_prints/wave_form",
+        "year": "2020",
+        "description": "18\"x12\"<br>Metallic pens on Bristol paper.<br><br>Created for Day 5 of Inktober 2020. This large plot traces slightly offset lines that are modulated using sine waves.<br><br>You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_05_full.jpg",
+            "day_05_close3.jpg",
+            "day_05_close2.jpg",
+            "day_05_progress.jpg",
+            "day_05_close.jpg"
+        ]
+    },
+    {
+        "name": "Circular Offset Maze",
+        "nick": "plotter_prints/circular_offset_maze",
+        "year": "2020",
+        "description": "9\"x12\"<br>Gel pens on Bristol paper.<br><br>Created for Day 4 of Inktober 2020. This triple exposure print was done by plotting the same design, slightly moving the arm each time.<br><br>You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_04_close.jpg",
+            "day_04_full.jpg",
+            "day_04_mid_print.jpg"
+        ]
+    },
+    {
+        "name": "Fulcrum",
+        "nick": "plotter_prints/fulcrum",
+        "year": "2020",
+        "description": "9\"x12\"<br>Gel pens & metallic pens on Bristol paper.<br><br>Created for Day 3 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_03.jpg",
+            "day_03_close.jpg"
+        ]
+    },
+    {
+        "name": "Floating City",
+        "nick": "plotter_prints/floating_city",
+        "year": "2020",
+        "description": "18\"x12\"<br>Gel pens on Bristol paper.<br><br>Created for Day 2 of Inktober 2020. You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "day_02_big.jpg"
+        ]
+    },
+    {
+        "name": "Orrery",
+        "nick": "plotter_prints/orrery",
+        "year": "2020",
+        "description": "12\"x9\"<br>Micron pen on Bristol paper.<br><br>Created for the first day of Inktober 2020, this drawing was based on a <a href='https://twitter.com/Andy_Makes/status/1309248572932739072'>tweet-length Processing sketch</a> I had made.<br><br>You can find the source code for my Inktober drawings <a href='https://github.com/andymasteroffish/inktober_2020'>here</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "orrery_full.jpg",
+            "orrery_progress.JPG"
+        ]
+    },
+
+
+
+
     {
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is an independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. And now he is available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.",
+        "description": "Andy Wallace is an independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. And now he is available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.<br><br>You can view my CV <a href='https://andymakes.com/cv'>here</a>.",
         "tags": [
             "About"
         ],
@@ -924,5 +1742,6 @@
             "scarf_small.jpg"
         ]
     }
+
     
 ]
