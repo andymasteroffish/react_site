@@ -1,11 +1,26 @@
 [
     {
+        "name": "ofxGCode",
+        "nick": "ofxgcode",
+        "year": "2021",
+        "description": "ofxGCode is an open-source C++ library for <a href='https://openframeworks.cc/'>openFrameworks</a> that makes it easy to create g-code files for pen-plotting or laser printing.<br><br>I built it up over two years of creating plotter art with my AxiDraw plotter. Although ofxGCode was created with my plotter in mind, the output can be used in any machine that utilizes 2D movement.<br><br>You can view the library <a href='https://github.com/andymasteroffish/ofxGCode'>here</a>.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "anim.gif"
+        ]
+    },
+    {
         "name": "Pac-Tracer",
         "nick": "pac_tracer",
         "year": "2021",
         "description": "This piece was commissioned by the <a href='https://arts.mit.edu/cast/'>MIT Center for Art, Science & Technology (CAST)</a> for the <a href='https://generative-unfoldings.mit.edu/'>Generative Unfoldings</a> exhibiton. Pac-Tracer is a programatic animation that examines the elegance and liveliness of the original Pac-Man AI, developed in 1980, by following the paths of Pac-Man and the four ghosts through an extruded 3D maze. Pac-Man’s AI represents some of the earliest and still most compelling work in games AI, with simple rules evoking the sense that each ghost has its own personality and own predispositions for mischief.<br><br>The rules that define the ghost movement are not truly adversarial: rather, they are about spatial desires. Each ghost has a place they want to be relative to Pac-Man and their fellow ghosts. This project allows those desires to play out unfettered by concerns about gamestate, or for that matter, any human interloper. By tracing those paths through the maze, the idiosyncrasies and personalities emerging from those rules become clear. What was a hunt now looks more like a waltz of attraction.<br><br>To compliment the web-app, I created a series of <a href='http://andymakes.com/?p=plotter_prints/pac_path'>plotter drawings</a> from frames of the animation.<br><br>You can view Pac-Tracer on the <a href='https://generative-unfoldings.mit.edu/works/pac-tracer/view.html'>Generative Unfoldings website.</a>",       
         "tags": [
             "Featured",
+            "Toy",
             "All"
         ],
         "pics": [
@@ -14,6 +29,21 @@
             "2.jpg",
             "3.jpg",
             "4.jpg"
+        ]
+    },
+    {
+        "name": "Non-Non Fungible Token Collection",
+        "nick": "non-nft",
+        "year": "2021",
+        "description": "This somewhat tongue-in-cheek collection was a reaction to the wave of NFT and crypto-currency support in the digital art world in 2021. This collection of 20 unique animated gifs are for sale on Itch.io for $30 each. What ownership means in this case is up to the person purchasing the image.<br><br>You can see the store page <a href='https://andymakes.itch.io/non-non-fungible-token-collection-archipelagos'>here</a>.",       
+        "tags": [
+            "Featured",
+            "Other",
+            "All"
+        ],
+        "pics": [
+            "twitter.jpg",
+            "archipelago_01.gif"
         ]
     },
     {
@@ -138,6 +168,21 @@
             "main.jpg",
             "tumblr_inline_psyj1cfdCf1txnfdi_1280.jpg",
             "tumblr_inline_psyj1i3d0h1txnfdi_1280.jpg"
+        ]
+    },
+    {
+        "name": "Vector Mace",
+        "nick": "vector_mace",
+        "year": "2019",
+        "description": "This port of my game <a href='/?p=particlemace'>PARTICLE MACE</a> is displayed on a hacked Vectrex display, allowing it to be played on the whiter-than-white vector screen that inspired the look of the game.<br><br>It is a controlled via a hacked IBM joystick from the same era and topped off with a <a href='https://www.etsy.com/listing/564082324/vectrex-overlay-reproductions-and'>psychadelic gel overlay</a>.",
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "IMG_4713.JPG",
+            "IMG_4722.JPG",
+            "2019-05-03.jpg"
         ]
     },
     {
@@ -962,6 +1007,155 @@
         ]
     },
 
+    {
+        "name": "Pillow Fort",
+        "nick": "plotter_prints/pillow_fort",
+        "year": "2021",
+        "description": "9\"x12\"<br>Microns & rollerball on Bristol<br><br>These two drawings use radial noise & Voronoi tessellation to create interlocking radial patterns. The second drawing overlays two separate designs.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "1full.JPG",
+            "2full.JPG",
+            "1angle.JPG",
+            "1detail.JPG",
+            "2detail.JPG"
+        ]
+    },
+    {
+        "name": "Distant Planets",
+        "nick": "plotter_prints/distant_planets",
+        "year": "2021",
+        "description": "9\"x12\"<br>Microns on Bristol<br>",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "planets_full.JPG",
+            "planets_detail_1.JPG",
+            "planets_detail_2.JPG",
+            "planets_detail_3.JPG"
+        ]
+    },
+    {
+        "name": "Spiral Maze",
+        "nick": "plotter_prints/spiral_maze",
+        "year": "2021",
+        "description": "9\"x12\"<br>Microns on Bristol<br>",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "trim.JPG",
+            "detail1.JPG",
+            "detail2.JPG",
+            "detail3.JPG"
+        ]
+    },
+    {
+        "name": "Pennies",
+        "nick": "plotter_prints/pennies",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol<br>",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "IMG_2524_trim.JPG",
+            "IMG_2530_square.JPG",
+            "IMG_2538.JPG"
+        ]
+    },
+    {
+        "name": "Text Cascade",
+        "nick": "plotter_prints/text_cascade",
+        "year": "2021",
+        "description": "12\"x9\"<br>Micron on Bristol<br><br>This design was made entirely with ASCII characters.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "trim.jpg",
+            "detail1.JPG",
+            "detail2.JPG"
+        ]
+    },
+    {
+        "name": "Hard Candy Variations",
+        "nick": "plotter_prints/hard_candy_variations",
+        "year": "2021",
+        "description": "34\"x22\"<br>Microns on Bristol<br><br>This large quadriptic is made of four 17\"x11\" sheets. I was commissioned commissioned to make this large-scale version of my <a href='?p=plotter_prints/hard_candies'>Hard Candies</a> plot.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "full.JPG",
+            "detail1.JPG",
+            "detail2.JPG",
+            "detail3.JPG"
+        ]
+    },
+    {
+        "name": "Loping Lines",
+        "nick": "plotter_prints/loping_lines",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron pens on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "loping_1_markers.JPG",
+            "loping_2_trim.JPG",
+            "loping_3_trim.JPG",
+            "loping_3_detail.JPG"
+        ]
+    },
+    {
+        "name": "Pomegranates",
+        "nick": "plotter_prints/pomegranates",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron pens on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "02-trim.JPG",
+            "02-close1.JPG",
+            "01-pomegranate_trim.JPG",
+            "01-pomegranate_angled.JPG"
+        ]
+    },
+    {
+        "name": "Archipelago",
+        "nick": "plotter_prints/archipelago",
+        "year": "2021",
+        "description": "12\"x9\"<br>Micron or gel pens on Bristol paper.<br><br>This plot was the basis of my <a href='?p=non-nft'>Non-Non Fungible Token Collection</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "archipelago2_full.JPG",
+            "arch3_trim.JPG",
+            "archipelago1_trim.JPG",
+            "arch3_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Red Bloom",
+        "nick": "plotter_prints/red_bloom",
+        "year": "2021",
+        "description": "9\"x12\"<br>Gel pen & roller ball on Bristol<br><br>I made two versions of this one. The code has very little randomness, but I ran the black pen at a speed that caused it to unpredictably remove parts of the path.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "bloom2_trim.JPG",
+            "bloom2_detail2.JPG",
+            "bloom3_trim.JPG",
+            "bloom3_detail3.JPG"
+        ]
+    },
 
     {
         "name": "Island",
