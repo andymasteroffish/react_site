@@ -1007,6 +1007,63 @@
         ]
     },
 
+
+    {
+        "name": "Eggs",
+        "nick": "plotter_prints/eggs",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "full.JPG",
+            "detail.JPG"
+        ]
+    },
+    {
+        "name": "Hex Horizon",
+        "nick": "plotter_prints/hex_horizon",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol<br><br>The drawings in this series use a modified flood fill algorithm which is distorted along the drawing's axes.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "hex_horizon_trim.JPG",
+            "hex_horizon_angle.JPG"
+        ]
+    },
+    {
+        "name": "Hex Hills",
+        "nick": "plotter_prints/hex_hills",
+        "year": "2021",
+        "description": "9\"x12\"<br>Micron on Bristol<br><br>The drawings in this series use a modified flood fill algorithm which is distorted by noise.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "hex_hill_trim.JPG",
+            "hex_hill_detail.JPG",
+            "hex_hill_angle.JPG"
+        ]
+    },
+    {
+        "name": "Labyrinth Hills",
+        "nick": "plotter_prints/labyrinth_hills",
+        "year": "2021",
+        "description": "9\"x12\"<br>Microns on Bristol<br><br>The drawings in this series use a modified flood fill algorithm which is distorted by noise.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "lab_hill_1_trim.JPG",
+            "lab_hill_2_trim.JPG",
+            "lab_hill_3_trim.JPG",
+            "lab_hill_1_detail3.JPG",
+            "lab_hill_2_detail2.JPG"
+        ]
+    },
     {
         "name": "Pillow Fort",
         "nick": "plotter_prints/pillow_fort",
