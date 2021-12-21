@@ -1,5 +1,40 @@
 [
     {
+        "name": "Skirmish Society",
+        "nick": "skirmish",
+        "year": "2021",
+        "description": "Played online and in Discord, Skirmish Society is a game of diplomacy and espionage that turns your DMs into marching orders. Invite our gamemaster bot to your server and they’ll generate a dynamic world for you and your friends to conquer -- cooperatively or otherwise.<br><br>This is a work-in-progress wargame inspired by Diplomacy that uses Discord as an interface.<br><br>It is available in early-access <a href='https://skirmishsociety.com/'>here</a>.<br><br>Design & Programming by Andy Wallace<br>Backend Programming by <a href='http://dustmop.io/'>Dustin Long</a><br>Frontend Programming by <a href='https://walt.codes/'>Walt Mitchell</a> and <a href='http://robysoft.net/'>Nick Santaniello</a><br>Icons by <a href='https://twitter.com/iscariot83'>Chris Hernandez</a>",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "file-11.jpg",
+            "Screenshot_20210608-165524.png",
+            "file-14.jpg",
+            "screenshot.jpg"
+        ]
+    },
+    {
+        "name": "Night Voyagers",
+        "nick": "night_voyagers",
+        "year": "2021",
+        "description": "Night Voyagers is a code poem created for <a href='https://taper.badquar.to/7/index.html'>Taper #7: Wonders</a>.<br><br>It uses ASCII art and generative prose to create a procedural animation in under 2K bytes (the size requirement for all entries in Taper)<br><br>It is best <a href='https://taper.badquar.to/7/night_voyagers.html'>viewed live on the Taper site</a>.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "voyagers5.jpg",
+            "voyagers4.jpg",
+            "voyagers3.jpg",
+            "voyagers2.jpg",
+            "voyagers1.jpg"
+        ]
+    },
+    {
         "name": "ofxGCode",
         "nick": "ofxgcode",
         "year": "2021",
@@ -17,7 +52,7 @@
         "name": "Pac-Tracer",
         "nick": "pac_tracer",
         "year": "2021",
-        "description": "This piece was commissioned by the <a href='https://arts.mit.edu/cast/'>MIT Center for Art, Science & Technology (CAST)</a> for the <a href='https://generative-unfoldings.mit.edu/'>Generative Unfoldings</a> exhibiton. Pac-Tracer is a programatic animation that examines the elegance and liveliness of the original Pac-Man AI, developed in 1980, by following the paths of Pac-Man and the four ghosts through an extruded 3D maze. Pac-Man’s AI represents some of the earliest and still most compelling work in games AI, with simple rules evoking the sense that each ghost has its own personality and own predispositions for mischief.<br><br>The rules that define the ghost movement are not truly adversarial: rather, they are about spatial desires. Each ghost has a place they want to be relative to Pac-Man and their fellow ghosts. This project allows those desires to play out unfettered by concerns about gamestate, or for that matter, any human interloper. By tracing those paths through the maze, the idiosyncrasies and personalities emerging from those rules become clear. What was a hunt now looks more like a waltz of attraction.<br><br>To compliment the web-app, I created a series of <a href='http://andymakes.com/?p=plotter_prints/pac_path'>plotter drawings</a> from frames of the animation.<br><br>You can view Pac-Tracer on the <a href='https://generative-unfoldings.mit.edu/works/pac-tracer/view.html'>Generative Unfoldings website.</a>",       
+        "description": "This piece was commissioned by the <a href='https://arts.mit.edu/cast/'>MIT Center for Art, Science & Technology (CAST)</a> for the <a href='https://generative-unfoldings.mit.edu/'>Generative Unfoldings</a> exhibiton. Pac-Tracer is a programatic animation that examines the elegance and liveliness of the original Pac-Man AI, developed in 1980, by following the paths of Pac-Man and the four ghosts through an extruded 3D maze. Pac-Man’s AI represents some of the earliest and still most compelling work in games AI, with simple rules evoking the sense that each ghost has its own personality and own predispositions for mischief.<br><br>The rules that define the ghost movement are not truly adversarial: rather, they are about spatial desires. Each ghost has a place they want to be relative to Pac-Man and their fellow ghosts. This project allows those desires to play out unfettered by concerns about gamestate, or for that matter, any human interloper. By tracing those paths through the maze, the idiosyncrasies and personalities emerging from those rules become clear. What was a hunt now looks more like a waltz of attraction.<br><br>To compliment the web-app, I created a series of <a href='http://andymakes.com/?p=plotter_prints/pac_path'>plotter drawings</a> from frames of the animation.<br><br>You can view Pac-Tracer on the <a href='https://generative-unfoldings.mit.edu/works/pac-tracer/view.html'>Generative Unfoldings website.</a><br><br>This project was also featured in the Inter/Access exhibition <a href='https://sculptedandforged.com/pac-tracer'>Sculpted in Our Image, Forged in Our Minds</a>.",       
         "tags": [
             "Featured",
             "Toy",
@@ -1009,6 +1044,97 @@
 
 
     {
+        "name": "DBAA Logo",
+        "nick": "plotter_prints/dbaa_logo",
+        "year": "2021",
+        "description": "12\" x 9\"<br>Micron on Bristol<br><br>This drawing of the <a href='https://deathbyaudioarcade.com'>Death By Audio Arcade</a> logo was created for the <a href='https://www.32auctions.com/organizations/75301/auctions/114568?r=1&t=all'>organization's fundraiser auction</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "dbaa_trim.JPG",
+            "close.JPG",
+            "process3.JPG"
+        ]
+    },
+    {
+        "name": "Taffy Pull",
+        "nick": "plotter_prints/taffy",
+        "year": "2021",
+        "description": "12\" x 9\"<br>Micron on Bristol<br>Metallic ink on art paper<br><br>Both of these drawings are based on <a href='https://twitter.com/Andy_Makes/status/1443020876891447297'>a tweet-length Pico-8 sketch</a> I made.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "taffy2_trim.JPG",
+            "taffy1_full.JPG",
+            "taffy2_detail.JPG",
+            "taffy1_detail1.JPG"
+        ]
+    },
+    {
+        "name": "Noise Loops",
+        "nick": "plotter_prints/noise_loops",
+        "year": "2021",
+        "description": "Postcard series<br>Metallic ink on gold paper<br>",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "1.JPG",
+            "2.JPG",
+            "3.JPG",
+            "4.JPG"
+        ]
+    },
+    {
+        "name": "Capsule",
+        "nick": "plotter_prints/capsule",
+        "year": "2021",
+        "description": "8.5\" x 11\"<br>Metallic ink on skytone paper<br>",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "trim.jpg",
+            "detail1.JPG",
+            "detail2.JPG"
+        ]
+    },
+    {
+        "name": "Truisms",
+        "nick": "plotter_prints/holzer",
+        "year": "2021",
+        "description": "Postcard series<br>Micron on Bristol<br><br>Each postcard in this series showcases one of Jenny Holzer's <a href='https://www.moma.org/collection/works/63755'>Truisms</a>.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "1.JPG",
+            "2.JPG",
+            "3.JPG",
+            "4.JPG",
+            "5.JPG",
+            "6.JPG",
+            "7.JPG",
+            "8.JPG"
+        ]
+    },
+    {
+        "name": "Exploded Circle",
+        "nick": "plotter_prints/exploded_circle",
+        "year": "2021",
+        "description": "Postcard series<br>Micron on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "exploded_circle.jpg",
+            "IMG_4214.JPG",
+            "IMG_4218.JPG"
+        ]
+    },
+    {
         "name": "Eggs",
         "nick": "plotter_prints/eggs",
         "year": "2021",
@@ -1543,7 +1669,7 @@
         ]
     },
     {
-        "name": "Venn Diagram Post Card",
+        "name": "Venn Diagram Postcard",
         "nick": "plotter_prints/venn_diagram",
         "year": "2020",
         "description": "5.5\"x4.\"<br>Micron pens on Bristol paper.<br><br>Postcard series plotted on heavy cardstock.",       
