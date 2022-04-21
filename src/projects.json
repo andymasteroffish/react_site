@@ -1,8 +1,26 @@
 [
     {
+        "name": "Fuzzy Borders",
+        "nick": "fuzzy_borders",
+        "year": "2022",
+        "description": "Fuzzy borders is a life-sized game of expansion and negotiation. Players claim their space with giant carpet tiles and attempt to maneuver their way into creating the highest scoring shapes and patterns on the ground. While playing, they are free to talk to and negotiate with their fellow players–however, they are physically limited to only standing on the space they have claimed with their carpet tiles<br><br>Fuzzy borders was created as part of the <a href='http://www.thecelltheatre.org/player-indigo'>Player Indigo Game Maker Residency</a> and was first shown at <a href='http://www.thecelltheatre.org/'>The Cell Theater in Manhattan</a> in February of 2022<br><br>You can read about the creation of this game <a href='https://andymakesgames.tumblr.com/post/681606618637565952/fuzzy-borders-design-journal'>here</a>.<br><br>Photos by <a href='https://www.instagram.com/osmworks/'>Osmany Cabrera</a>.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "PlayerIndigo-94-show.jpg",
+            "PlayerIndigo-15-card.jpg",
+            "PlayerIndigo-96-gameplay.jpg",
+            "PlayerIndigo-04.jpg",
+            "poster_small.jpg"
+        ]
+    },
+    {
         "name": "Skirmish Society",
         "nick": "skirmish",
-        "year": "2021",
+        "year": "2022",
         "description": "Played online and in Discord, Skirmish Society is a game of diplomacy and espionage that turns your DMs into marching orders. Invite our gamemaster bot to your server and they’ll generate a dynamic world for you and your friends to conquer -- cooperatively or otherwise.<br><br>This is a work-in-progress wargame inspired by Diplomacy that uses Discord as an interface.<br><br>It is available in early-access <a href='https://skirmishsociety.com/'>here</a>.<br><br>Design & Programming by Andy Wallace<br>Backend Programming by <a href='http://dustmop.io/'>Dustin Long</a><br>Frontend Programming by <a href='https://walt.codes/'>Walt Mitchell</a> and <a href='http://robysoft.net/'>Nick Santaniello</a><br>Icons by <a href='https://twitter.com/iscariot83'>Chris Hernandez</a>",       
         "tags": [
             "Featured",
@@ -296,7 +314,7 @@
         "nick": "pivop",
         "year": "2018",
         "max_height" : 600,
-        "description": "Pivop is a small, one-button arcade game about a swinging head. It was created in one week while following along with a game-a-week class being taught by my colleague at LIU, <a href='https://twitter.com/ramirocorbetta'>Ramiro Corbetta</a>.<br><br>Pivop is free and can be played in the browser on <a href='https://andymakes.itch.io/pivop'>Itch.io</a>.<br><br>The art in the game was created using <a href='https://fernandoramallo.itch.io/doodle-studio-95'>Doodle Studio 95</a> and the music was composed by me on a <a href='https://www.teenageengineering.com/products/po-32'>Pocket Operator Tonic</a>.",
+        "description": "Pivop is a small, one-button arcade game about a swinging head. It was created in one week while following along with a game-a-week class being taught by my colleague at LIU, <a href='https://twitter.com/ramirocorbetta'>Ramiro Corbetta</a>.<br><br>Pivop is free and can be played in the browser on <a href='https://andymakes.itch.io/pivop'>Itch.io</a>.<br><br>This game is also available on the <a href='https://wondervillenyc.square.site/?shipping=true&item=383'>Death By Audio Arcade Snack Pack Vol 3</a>.<br><br>The art in the game was created using <a href='https://fernandoramallo.itch.io/doodle-studio-95'>Doodle Studio 95</a> and the music was composed by me on a <a href='https://www.teenageengineering.com/products/po-32'>Pocket Operator Tonic</a>.",
        
         "tags": [
             "All",
@@ -1043,6 +1061,70 @@
     },
 
 
+
+
+    {
+        "name": "Diamond Gamp",
+        "nick": "plotter_prints/diamond_gamp",
+        "year": "2022",
+        "description": "12\" x 9\"<br>Micron on Bristol<br><br>The name of this drawing refers to a <a href='https://lunaticfringeyarns.com/what-is-a-color-gamp/'>color gamp</a>, a weaving technique used to compare interwoven colors.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "diamond_gamp_full.jpg",
+            "diamond_gamp_detail_1.JPG",
+            "diamond_gamp_detail_2.JPG"
+        ]
+    },
+    {
+        "name": "Moiré Tiles Tiles",
+        "nick": "plotter_prints/moire_tiles",
+        "year": "2022",
+        "description": "12\" x 9\"<br>Micron on Bristol<br><br>The Moiré pattern in this drawing was inspired by a the artifacting of a coworker's jacket on a video call.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "tiles_full.jpg",
+            "tiles_close.JPG",
+            "tiles_progress1.JPG"
+        ]
+    },
+    {
+        "name": "Bézier Cycle",
+        "nick": "plotter_prints/bez_cycle",
+        "year": "2022",
+        "description": "5.5\" x 4\"<br>Micron on Bristol<br><br>These postcards are created using nearly identical rules. Each curve has the same start and end points. The only difference is the relative angles of the control points, which are randomized for each drawing.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "01.JPG",
+            "02.JPG",
+            "03.JPG",
+            "04.JPG",
+            "05.JPG",
+            "06.JPG",
+            "07.JPG",
+            "08.JPG"
+        ]
+    },
+    {
+        "name": "Greeble Cell",
+        "nick": "plotter_prints/greeble_cell",
+        "year": "2022",
+        "description": "12\" x 9\"<br>Micron on Bristol<br><br>This recursive design exists as a set of large prints and smaller postcards.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "full.jpg",
+            "group.JPG",
+            "pair.JPG",
+            "detail1.JPG"
+        ]
+    },
     {
         "name": "DBAA Logo",
         "nick": "plotter_prints/dbaa_logo",
@@ -1425,7 +1507,7 @@
         "name": "Radiant Labyrinth 1",
         "nick": "plotter_prints/radiant_labyrinth1",
         "year": "2021",
-        "description": "9\"x12\"<br>Micron on Bristol paper. These drawings were inspired by the paintings of <a href='http://www.richardanuszkiewicz.com/'>Richard Anuszkiewicz</a>.",       
+        "description": "9\"x12\"<br>Micron on Bristol paper.<br><br>These drawings were inspired by the paintings of <a href='http://www.richardanuszkiewicz.com/'>Richard Anuszkiewicz</a>.",       
         "tags": [
             "Plotter"
         ],
@@ -1439,7 +1521,7 @@
         "name": "Radiant Labyrinth 2",
         "nick": "plotter_prints/radiant_labyrinth2",
         "year": "2021",
-        "description": "9\"x12\"<br>Micron on Bristol paper. These drawings were inspired by the paintings of <a href='http://www.richardanuszkiewicz.com/'>Richard Anuszkiewicz</a>.",       
+        "description": "9\"x12\"<br>Micron on Bristol paper.<br><bThese drawings were inspired by the paintings of <a href='http://www.richardanuszkiewicz.com/'>Richard Anuszkiewicz</a>.",       
         "tags": [
             "Plotter"
         ],
@@ -1453,7 +1535,7 @@
         "name": "Withering Wall",
         "nick": "plotter_prints/withering_wall",
         "year": "2021",
-        "description": "12\"x9\"<br>Micron on Bristol paper. The last image is a study for this drawing.",       
+        "description": "12\"x9\"<br>Micron on Bristol paper.<br><bThe last image is a study for this drawing.",       
         "tags": [
             "Plotter"
         ],
@@ -2111,7 +2193,7 @@
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is an independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. And now he is available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown througout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.<br><br>You can view my CV <a href='https://andymakes.com/cv'>here</a>.",
+        "description": "Andy Wallace is an independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. In 2022 he was one of the cofounders of <a href='https://emma.coop/'>EMMA</a>, a worker-owned creative technology cooperative that is currently available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown throughout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.<br><br>You can view his CV <a href='https://andymakes.com/cv'>here</a>.",
         "tags": [
             "About"
         ],
