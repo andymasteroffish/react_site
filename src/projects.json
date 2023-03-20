@@ -1,5 +1,69 @@
 [
     {
+        "name": "Skirmish Society",
+        "nick": "skirmish",
+        "year": "2023",
+        "description": "Played online and in Discord, Skirmish Society is a game of diplomacy and espionage that turns your DMs into marching orders. Invite our gamemaster bot to your server and they’ll generate a dynamic world for you and your friends to conquer -- cooperatively or otherwise.<br><br>Skirmish Society is a wargame inspired by Diplomacy that uses Discord as an interface. I built it over the coure of about 4 years with help from members of the Death By Audio Arcade community.<br><br>It is available <a href='https://skirmishsociety.com/'>here</a>.<br><br>Design & Programming by Andy Wallace<br>Backend Programming by <a href='http://dustmop.io/'>Dustin Long</a><br>Frontend Programming by <a href='https://walt.codes/'>Walt Mitchell</a> and <a href='http://robysoft.net/'>Nick Santaniello</a><br>Icons by <a href='https://twitter.com/iscariot83'>Chris Hernandez</a><br>Trailer by <a href='https://trashpandaqc.xyz/'>Trash Panda QC</a>",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "vid": "<iframe width='672' height='378' src='https://www.youtube.com/embed/PpN41oLDsl4' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "file-11.jpg",
+            "Screenshot_20210608-165524.png",
+            "file-14.jpg",
+            "screenshot.jpg"
+        ]
+    },
+    {
+        "name": "Star Catcher",
+        "nick": "star_catcher",
+        "year": "2022",
+        "description": "Walking into a lush untainted forest floor, immersed in the sounds of nature and engulfed by a canopy of falling stars, audience members are handed shimmering nets and invited to catch stars as they move through this nature scene. The world is alive on its own, yet responds to the audience's actions within its ecosystem. This immersive game is an invitation to get lost together, but also to be observant.<br><br>Star Catcher is an ongoing project in development by <a href='https://twitter.com/adellelin?lang=en'>Adelle Lin</a> and <a href='https://www.instagram.com/mpinner/'>Matt Pinner</a>, that uses whimsy to contemplate our relationship with consumption and its environmental impact.<br><br>I was hired to create procedural plants and animations that are used to decorate the space and show the overall health of the system. The drawings used for these plants were created by <a href='https://www.salchen.com/'>Sal Chen</a>.<br><br>Description by <a href='https://touchtech.io/StarCatcher-Plasma-Our-Shared-Planet'>touchtech.io</a><br>Video by Adelle Lin<br>Photos by <a href='http://jeremygrier.co/'>Jeremy Grier</a>",       
+        "tags": [
+            "All",
+            "Featured",
+            "Game"
+        ],
+        "vid": "<iframe width='672' height='378' src='https://www.youtube.com/embed/1MDecZbq8kE' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "pics": [
+            "vid",
+            "_DSF0934.JPG",
+            "_DSF0937.JPG",
+            "_DSF0952.JPG"
+        ]
+    },
+    {
+        "name": "Cold Sun Surf",
+        "nick": "cold_sun",
+        "year": "2022",
+        "description": "Created for the <a href='https://itch.io/jam/pico-1k-2022'>PICO-1K</a> jam, the entire source code for this tight & twitchy arcade game is less than 1024 bytes. The game's page includes a full breakdown of the code.<br><br>You can play it <a href='https://andymakes.itch.io/cold-sun-surf'>here</a>.",       
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "space_7.gif"
+        ]
+    },
+    
+    {
+        "name": "Pico Pond",
+        "nick": "pico_pond",
+        "year": "2022",
+        "description": "This is a Pico-8 demake of the fantastic <a href='https://frogchorus.com/?pond=the_big_pond'>Frog Chorus</a> by <a href='https://v21.io/'>v buckenham</a> & <a href='https://www.vivianeschwarz.co.uk/'>Viviane Schwarz</a>. It is a networked experience which makes it fairly unusual for Pico-8!<br><br>I have a detailed description of how the networking works along with the game's source code <a href='https://github.com/andymasteroffish/pico_pond_front'>here</a>.<br><br>You can play it <a href='https://andymakes.itch.io/pico-pond'>here</a>. You'll need a friend, or you might get lucky and meet a stranger!",       
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "game_small.jpg"
+        ]
+    },
+    {
         "name": "Fuzzy Borders",
         "nick": "fuzzy_borders",
         "year": "2022",
@@ -17,23 +81,7 @@
             "poster_small.jpg"
         ]
     },
-    {
-        "name": "Skirmish Society",
-        "nick": "skirmish",
-        "year": "2022",
-        "description": "Played online and in Discord, Skirmish Society is a game of diplomacy and espionage that turns your DMs into marching orders. Invite our gamemaster bot to your server and they’ll generate a dynamic world for you and your friends to conquer -- cooperatively or otherwise.<br><br>This is a work-in-progress wargame inspired by Diplomacy that uses Discord as an interface.<br><br>It is available in early-access <a href='https://skirmishsociety.com/'>here</a>.<br><br>Design & Programming by Andy Wallace<br>Backend Programming by <a href='http://dustmop.io/'>Dustin Long</a><br>Frontend Programming by <a href='https://walt.codes/'>Walt Mitchell</a> and <a href='http://robysoft.net/'>Nick Santaniello</a><br>Icons by <a href='https://twitter.com/iscariot83'>Chris Hernandez</a>",       
-        "tags": [
-            "Featured",
-            "All",
-            "Game"
-        ],
-        "pics": [
-            "file-11.jpg",
-            "Screenshot_20210608-165524.png",
-            "file-14.jpg",
-            "screenshot.jpg"
-        ]
-    },
+    
     {
         "name": "Night Voyagers",
         "nick": "night_voyagers",
@@ -209,10 +257,10 @@
         ]
     },
     {
-        "name": "Maciavelli & Cheese Truck",
+        "name": "Machiavelli & Cheese Truck",
         "nick": "maciavelli",
         "year": "2019",
-        "description": "The Night Market is <a href='https://withfriends.co/event/595315/lost_horizon_night_market'>“a transient bazaar where one can encounter a variety of mysterious lounges, theaters, galleries, cafes, installations and other establishments, all situated within seemingly ordinary box trucks.”</a><br><br>In 2019 I helped create the Maciavelli & Cheese Truck, a brutal food truck that preyed on the worst impulses of man. The design was lead by <a href='https://www.larissahayden.com/'>Larissa Hayden</a>.<br><br>In addition to creating the truck, I acted as the carnival barker, luring participants in and selecting a suitable \"prince\" in each group. That's me in the first pictrue. I wrote about the creation of the truck <a href='https://andymakesgames.tumblr.com/post/185529281439/lost-horizon-night-market-2019-machiavelli'>here</a>.<br><br>The first image was taken by <a href='https://gothamist.com/arts-entertainment/photos/photos-inside-the-box-trucks-that-briefly-transformed-this-queens-street-into-an-immersive-art-experience?image=5'>Tod Seelie for Gothamist.</a>",       
+        "description": "The Night Market is <a href='https://withfriends.co/event/595315/lost_horizon_night_market'>“a transient bazaar where one can encounter a variety of mysterious lounges, theaters, galleries, cafes, installations and other establishments, all situated within seemingly ordinary box trucks.”</a><br><br>In 2019 I helped create the Machiavelli & Cheese Truck, a brutal food truck that preyed on the worst impulses of man. The design was lead by <a href='https://www.larissahayden.com/'>Larissa Hayden</a>.<br><br>In addition to creating the truck, I acted as the carnival barker, luring participants in and selecting a suitable \"prince\" in each group. That's me in the first pictrue. I wrote about the creation of the truck <a href='https://andymakesgames.tumblr.com/post/185529281439/lost-horizon-night-market-2019-machiavelli'>here</a>.<br><br>The first image was taken by <a href='https://gothamist.com/arts-entertainment/photos/photos-inside-the-box-trucks-that-briefly-transformed-this-queens-street-into-an-immersive-art-experience?image=5'>Tod Seelie for Gothamist.</a>",       
         "tags": [
             "All",
             "Other"
@@ -1061,13 +1109,88 @@
     },
 
 
+    {
+        "name": "Vase",
+        "nick": "plotter_prints/vase",
+        "year": "2023",
+        "description": "9\" x 12\"<br>Micron on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "vase_full.jpg",
+            "vase_detail1.JPG",
+            "vase_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Split View",
+        "nick": "plotter_prints/split_view",
+        "year": "2023",
+        "description": "9\" x 12\"<br>Micron on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "split_view_whole.jpg",
+            "split_view_detail1.jpg",
+            "split_view_detail2.jpg"
+        ]
+    },
 
-
+    {
+        "name": "Portals",
+        "nick": "plotter_prints/portals",
+        "year": "2022",
+        "description": "9\" x 12\"<br>Micron and metallic ink on Bristol<br>Metallic ink on art paper",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "portal1_full.JPG",
+            "portal2_full.JPG",
+            "portal1_detail1.JPG",
+            "portal2_detail2.JPG"
+        ]
+    },
+    {
+        "name": "Trinket Altar",
+        "nick": "plotter_prints/trinket_altar",
+        "year": "2022",
+        "description": "9\" x 12\"<br>Micron on Bristol.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "take_1_full.JPG",
+            "take_2_full.jpg",
+            "take_1_detail1.JPG",
+            "take_2_detail1.JPG",
+            "take_1_process2.JPG"
+        ]
+    },
+    {
+        "name": "Rings",
+        "nick": "plotter_prints/rings",
+        "year": "2022",
+        "description": "9\" x 12\"<br>Micron on Bristol<br><br>This pair of drawings uses 4 colors of Micron pens, tightly packed into alternating circles. These circles are offset by small, random amounts to create texture for the rings.",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "full.jpg",
+            "full2.jpg",
+            "detail1.JPG",
+            "detal2.JPG",
+            "detail3.JPG",
+            "detail2.JPG"
+        ]
+    },
     {
         "name": "Diamond Gamp",
         "nick": "plotter_prints/diamond_gamp",
         "year": "2022",
-        "description": "12\" x 9\"<br>Micron on Bristol<br><br>The name of this drawing refers to a <a href='https://lunaticfringeyarns.com/what-is-a-color-gamp/'>color gamp</a>, a weaving technique used to compare interwoven colors.",       
+        "description": "9\" x 12\"<br>Micron on Bristol<br><br>The name of this drawing refers to a <a href='https://lunaticfringeyarns.com/what-is-a-color-gamp/'>color gamp</a>, a weaving technique used to compare interwoven colors.",       
         "tags": [
             "Plotter"
         ],
@@ -1078,10 +1201,10 @@
         ]
     },
     {
-        "name": "Moiré Tiles Tiles",
+        "name": "Moiré Tiles",
         "nick": "plotter_prints/moire_tiles",
         "year": "2022",
-        "description": "12\" x 9\"<br>Micron on Bristol<br><br>The Moiré pattern in this drawing was inspired by a the artifacting of a coworker's jacket on a video call.",       
+        "description": "9\" x 12\"<br>Micron on Bristol<br><br>The Moiré pattern in this drawing was inspired by a the artifacting of a coworker's jacket on a video call.",       
         "tags": [
             "Plotter"
         ],
