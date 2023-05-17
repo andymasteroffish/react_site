@@ -19,6 +19,23 @@
         ]
     },
     {
+        "name": "Shitty Space Camp",
+        "nick": "shitty_space_camp",
+        "year": "2023",
+        "description": "The Night Market is <a href='https://withfriends.co/event/16166236/lost_horizon_night_market'>“a transient bazaar where one can encounter a variety of mysterious lounges, theaters, galleries, cafes, installations and other establishments, all situated within seemingly ordinary box trucks.”</a><br><br>My partner, <a href='https://janefriedhoff.com/'>Jane Friedhoff</a>, and I have been talking about running an event called Shitty Space Camp for years and Night Market seemed like the perfect opportunity. Every kid wants to go to space camp, but some kids wind up at SSC, a low-budget disappointment run by people who'd rather be anywhere else. Come experience the wonders of space expressed as a bunch of stuff we found in the trash. No refunds. And what better place for our fly-by-night operation than the back of a U-Haul truck?<br><br>Thanks to our teammates <a href='https://www.instagram.com/usumoio/'>Mike</a>, <a href='https://www.instagram.com/modern_girl_blitz/?hl=en'>Midge</a>, <a href='https://twitter.com/Iscariot83'>Chris</a> & <a href='https://www.instagram.com/bacon_and_legs/'>Dane</a>.<br><br>A writeup with more pictures can be found on <a href='https://andymakesgames.tumblr.com/post/717409616832708608/shitty-space-camp-explored-the-cosmos-at-night'>my blog</a>.<br><br>Photos by <a href='https://www.jochiang.com/'>Jo Chiang</a>.",       
+        "tags": [
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "ssc1.jpg",
+            "ssc2.jpg",
+            "ssc3.jpg",
+            "ssc4.jpg",
+            "ssc5.jpg"
+        ]
+    },
+    {
         "name": "Star Catcher",
         "nick": "star_catcher",
         "year": "2022",
@@ -1109,6 +1126,34 @@
     },
 
 
+    {
+        "name": "Mountain Climber",
+        "nick": "plotter_prints/mountain_climber",
+        "year": "2023",
+        "description": "9\" x 12\"<br>Micron & marker on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "mountain_climber_full.jpg",
+            "mountain_climber_detail_1.JPG",
+            "mountain_climber_detail_2.JPG"
+        ]
+    },
+    {
+        "name": "Purple Wave",
+        "nick": "plotter_prints/purple_wave",
+        "year": "2023",
+        "description": "9\" x 12\"<br>Micron on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "purple_wave_full.jpg",
+            "purple_wave_detail_1.JPG",
+            "purple_wave_detail_2.JPG"
+        ]
+    },
     {
         "name": "Vase",
         "nick": "plotter_prints/vase",
