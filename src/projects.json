@@ -98,7 +98,21 @@
             "poster_small.jpg"
         ]
     },
-    
+    {
+        "name": "FLDC - The Beauty of Unity",
+        "nick": "fldc",
+        "year": "2021",
+        "description": "This 40-foot, multi-user, double sided projection mapped interactive experience hallway gives users a way to share their museum experience at the FLDC museum in Philadelphia, displaying items they interacted with in the museum in a playful environemnt. Users interact with the space via motion-tracked wands.<br><br>I was contracted by <a href='https://www.rc.tech/'>Remote Control Technology</a> to develop the software that drives the experience in Unity 3D.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Freelance"
+        ],
+        "vid": "<iframe width='672' height='378' src='https://www.youtube.com/embed/PpN41oLDsl4' frameborder='0' allow='accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture' allowfullscreen></iframe>",
+        "pics": [
+            "unity.jpg"
+        ]
+    },
     {
         "name": "Night Voyagers",
         "nick": "night_voyagers",
@@ -1126,6 +1140,19 @@
     },
 
 
+    {
+        "name": "Checker Flower",
+        "nick": "plotter_prints/checker_flower",
+        "year": "2023",
+        "description": "9\" x 12\"<br>Micron & Sharpie on Bristol",       
+        "tags": [
+            "Plotter"
+        ],
+        "pics": [
+            "checker_flower.jpg",
+            "checker_flower_close.JPG"
+        ]
+    },
     {
         "name": "Mountain Climber",
         "nick": "plotter_prints/mountain_climber",
