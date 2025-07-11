@@ -1,5 +1,37 @@
 [
     {
+        "name": "The Algorithm",
+        "nick": "algorithm",
+        "year": "2024",
+        "description": "<i><a href='https://whatsthealgorithm.com/index.html'>The Algorithm</a></i> was built by <a href='https://aliaelkattan.com/'>Alia ElKattan</a> and <a href='https://lujainibrahim.com/'>Lujain Ibrahim</a>, of <a href='https://decifer.tech/'>Decifer Studio</a>, through the generous support of <a href='https://foundation.mozilla.org/en/what-we-fund/awards/creative-media-awards/'>The Mozilla Foundation's Creative Media Award</a>.<br><br><i>The Algorithm</i> aims to demystify recommender systems for the broader public. It is a part of a larger mission to leverage creative coding and web-based experiences to build public literacy of emerging technologies.<br><br>I created a series of modular animations in P5JS to act as the content for this experience.<br><br>You can play it for free <a href='https://whatsthealgorithm.com/index.html'>here</a>.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Other"
+        ],
+        "pics": [
+            "animations_1.gif",
+            "animations_2.gif",
+            "loading.gif"
+        ]
+    },
+    {
+        "name": "Slam City Oracles Arcade",
+        "nick": "sco",
+        "year": "2024",
+        "description": "Slam City Oracles is a rambunctious, riot grrrl, Katamari-meets-Grand Theft Auto physics game, in which you and a friend slam onto the world around you to cause as much chaos as possible in two minutes. It was designed and programmed by <a href='https://janefriedhoff.com/'>Jane Friedhoff</a> with art by <a href='https://x.com/q_dork'>Jenny Jiao Hsia</a> and music by <a href='https://scullyscully.bandcamp.com/album/encounters'>Scully</a>.<br><br>In 2024 I was hired to update the arcade version of the game to add features, modernize it and make the game easier to expand. This update debuted at the Nitehawk Cinema Prospect Park, where the arcade machine was featured in the lounge.",       
+        "tags": [
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "cSLT0M.gif",
+            "Slam-City.jpg",
+            "dIxPVh.gif",
+            "E5TO0.png"
+        ]
+    },
+    {
         "name": "Skirmish Society",
         "nick": "skirmish",
         "year": "2023",
@@ -306,7 +338,7 @@
         "name": "Vector Mace",
         "nick": "vector_mace",
         "year": "2019",
-        "description": "This port of my game <a href='/?p=particlemace'>PARTICLE MACE</a> is displayed on a hacked Vectrex display, allowing it to be played on the whiter-than-white vector screen that inspired the look of the game.<br><br>It is a controlled via a hacked IBM joystick from the same era and topped off with a <a href='https://www.etsy.com/listing/564082324/vectrex-overlay-reproductions-and'>psychadelic gel overlay</a>.",
+        "description": "This port of my game <a href='/?p=particlemace'>PARTICLE MACE</a> is displayed on a hacked Vectrex display, allowing it to be played on the whiter-than-white vector screen that inspired the look of the game.<br><br>It is a controlled via a hacked IBM joystick from the same era and topped off with a <a href='https://www.etsy.com/listing/564082324/vectrex-overlay-reproductions-and'>psychadelic gel overlay</a>.<br><br>This project was made possible by <a href='https://trmm.net/'>Trammell Hudson</a> who donated the Vectrex unit and worked on the <a href='https://github.com/osresearch/vst?tab=readme-ov-file'>V.st board</a> that drives the display.",
         "tags": [
             "All",
             "Game"
@@ -1105,7 +1137,7 @@
         "name": "Isabelle, Poppy & Bling",
         "nick": "ipb",
         "year": "2009",
-        "description": "As I was finishing up my undergrad degree, I was approached by musician Justin Braun, to create a music video to promote his new album, <i>Relays From Home</i>. After listening to the song a few times, though, I thought the music was better suited for a game.<br><br>The game was made in Flash uses a collage style and is split into three major sections, each of which takes inspiration from and is directly affected by the music.<br><br>This game was a <a href='http://www.indiegames.com/2009/07/browser_game_pick_isabelle_pop.html'>Browser Game Pick at indieClick.com</a> and was featured in Gamasutra's article <a href='http://www.gamasutra.com/view/news/24749/Best_Of_Indie_Games_Falling_Head_Over_Heels_For_Art_Games.php'>Best of Indie Games: Falling Head Over Heels For Art Games.</a><br><br>It can be <a href='http://www.kongregate.com/games/andymasteroffish/isabelle-poppy-and-bling'>played for free</a> on Kongregate.",
+        "description": "As I was finishing up my undergrad degree, I was approached by musician Justin Braun, to create a music video to promote his new album, <i>Relays From Home</i>. After listening to the song a few times, though, I thought the music was better suited for a game.<br><br>The game was made in Flash uses a collage style and is split into three major sections, each of which takes inspiration from and is directly affected by the music.<br><br>This game was a <a href='http://www.indiegames.com/2009/07/browser_game_pick_isabelle_pop.html'>Browser Game Pick at indieClick.com</a> and was featured in Gamasutra's article <a href='http://www.gamasutra.com/view/news/24749/Best_Of_Indie_Games_Falling_Head_Over_Heels_For_Art_Games.php'>Best of Indie Games: Falling Head Over Heels For Art Games.</a><br><br>It can be <a href='https://andymakes.itch.io/isabelle-poppy-and-bling'>played for free</a>.",
         "tags": [
             "All",
             "Game",
@@ -2388,7 +2420,7 @@
         "name": "Andy Wallace",
         "nick": "about",
         "year": "1988",
-        "description": "Andy Wallace is an independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a> collective. He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. In 2022 he was one of the cofounders of <a href='https://emma.coop/'>EMMA</a>, a worker-owned creative technology cooperative that is currently available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown throughout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.<br><br>You can view his CV <a href='https://andymakes.com/cv'>here</a>.",
+        "description": "Andy Wallace is an independent game designer and creative coder who lives in NYC. He is also a founding member of the non-profit <a href='https://arcadecommons.org/'>Arcade Commons</a> (Previously called <a href='http://deathbyaudioarcade.com'>Death By Audio Arcade</a>). He received his MFA from Parsons The New School For Design in 2012, and worked for a few years at the tiny NYC game company Golden Ruby Games. After that, he was the director of the Digital Game Design & Development program at Long Island University Post Campus. In 2022 he was one of the cofounders of <a href='https://emma.coop/'>EMMA</a>, a worker-owned creative technology cooperative that is currently available to work on your projects!<br><br>He started coding on his parents' IBM 386 when he was 10, and shows no signs of stopping anytime soon. He loves using computers to make magic. If you have freelance inquiries or just want to say hi, he can be reached at <a href='mailto:andy@andymakes.com'>andy@andymakes.com</a> or <a href='https://twitter.com/Andy_Makes'>@andy_makes</a>. I'm sure he'd love to hear from you.<br><br>His work has been featured on <a href='http://www.gamasutra.com/blogs/BenServiss/20140114/208574/Particle_Mace_The_Space_Game_About_Selflessness.php'>Gamastutra.com</a>, <a href='http://indiegames.com/index.html'>IndieGames.com</a>, <a href='http://www.engadget.com/'>Engadget.com</a>, <a href='http://www.pcworld.com/'>PC World</a>, and <a href='http://www.creativeapplications.net/'>CreativeApplications.net</a> among others. His work has been shown throughout the world at places like <a href='http://www.indiecade.com/'>IndieCade</a>, <a href='http://americanart.si.edu/calendar/family/?trumbaEmbed=view%3Devent%26eventid%3D112227868'>The Smithsonian American Museum Of Art</a>, <a href='https://dublin.sciencegallery.com/'>The Dublin Science Gallery</a>, <a href='http://www.sfmoma.org/'>SF MoMA</a>, <a href='http://magfest.org/'>MAGfest</a>, <a href='http://bicfest.org/'>The Busan Indie Connection Festival</a> in Korea, and <a href='http://www.movingimage.us/'>The Museum of The Moving Image</a>.<br><br>You can view his CV <a href='https://andymakes.com/cv'>here</a>.",
         "tags": [
             "About"
         ],
