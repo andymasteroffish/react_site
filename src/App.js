@@ -149,7 +149,8 @@ class App extends Component {
             <Col xs={6} style={{textAlign:"right"}}>
               <a href="https://shop.andymakes.com"><img src={"/img/icons/shop.png"} width={50} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://mastodon.art/@andymakes"><img src={"/img/icons/mastodon.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
-              <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
+              <a href="https://bsky.app/profile/andymakes.itch.io"><img src={"/img/icons/bluesky.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
+              {/* <a href="https://twitter.com/Andy_Makes"><img src={"/img/icons/twitter_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a> */}
               <a href="https://andymakesgames.tumblr.com/"><img src={"/img/icons/tumblr_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://vimeo.com/andymakes"><img src={"/img/icons/vimeo_resize.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>
               <a href="https://github.com/andymasteroffish"><img src={"/img/icons/GitHub-Mark-64px_white.png"} width={socialIconSize} height={socialIconSize} style={socialIconStyle}></img></a>

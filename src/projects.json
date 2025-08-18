@@ -1,5 +1,21 @@
 [
     {
+        "name": "Cloud Gobblers",
+        "nick": "cloud_gobblers",
+        "year": "2024",
+        "description": "Cloud Gobblers was created with my coop, the <a href='https://emma.coop/'>EMMA Technology Cooperative</a>. The game was commissioned by Arcade Commons for the <a href='https://arcadecommons.org/games/weathersys-admin/'>Weather Sys Admin arcade cabinet</a>.<br><br>This machine was made with support from the Brooklyn Arts Council's 2024 Arts Fund Grant. Several devs were asked to make games that incorporate weather data in some way.<br><br>For Cloud Gobblers, we used satellite data of clouds. Players are dropped into a head-to-head snake-style game, but the animated image of the earth provides a special incentive: by moving the head of their snake over the clouds they grow longer, making it easier to trap their opponent.<br><br>It was the first project that every member of the coop worked on!<br><br>Weather Sys Admin and Cloud Gobblers were moved to the Museum of the Moving Image in 2025.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "cloud_gobblers_title.jpg",
+            "weathersys-admin.png",
+            "playing.jpg"
+        ]
+    },
+    {
         "name": "The Algorithm",
         "nick": "algorithm",
         "year": "2024",
@@ -35,7 +51,7 @@
         "name": "Skirmish Society",
         "nick": "skirmish",
         "year": "2023",
-        "description": "Played online and in Discord, Skirmish Society is a game of diplomacy and espionage that turns your DMs into marching orders. Invite our gamemaster bot to your server and they’ll generate a dynamic world for you and your friends to conquer -- cooperatively or otherwise.<br><br>Skirmish Society is a wargame inspired by Diplomacy that uses Discord as an interface. I built it over the coure of about 4 years with help from members of the Death By Audio Arcade community.<br><br>It is available <a href='https://skirmishsociety.com/'>here</a>.<br><br>Design & Programming by Andy Wallace<br>Backend Programming by <a href='http://dustmop.io/'>Dustin Long</a><br>Frontend Programming by <a href='https://walt.codes/'>Walt Mitchell</a> and <a href='http://robysoft.net/'>Nick Santaniello</a><br>Icons by <a href='https://twitter.com/iscariot83'>Chris Hernandez</a><br>Trailer by <a href='https://trashpandaqc.xyz/'>Trash Panda QC</a>",       
+        "description": "Played online and in Discord, Skirmish Society is a game of diplomacy and espionage that turns your DMs into marching orders. Invite our gamemaster bot to your server and they’ll generate a dynamic world for you and your friends to conquer -- cooperatively or otherwise.<br><br>Skirmish Society is a wargame inspired by Diplomacy that uses Discord as an interface. I built it over the course of about 4 years with help from members of the Death By Audio Arcade community.<br><br>It is available <a href='https://skirmishsociety.com/'>here</a>.<br><br>Design & Programming by Andy Wallace<br>Backend Programming by <a href='http://dustmop.io/'>Dustin Long</a><br>Frontend Programming by <a href='https://walt.codes/'>Walt Mitchell</a> and <a href='http://robysoft.net/'>Nick Santaniello</a><br>Icons by <a href='https://twitter.com/iscariot83'>Chris Hernandez</a><br>Trailer by <a href='https://trashpandaqc.xyz/'>Trash Panda QC</a>",       
         "tags": [
             "Featured",
             "All",
@@ -134,7 +150,7 @@
         "name": "FLDC - The Beauty of Unity",
         "nick": "fldc",
         "year": "2021",
-        "description": "This 40-foot, multi-user, double sided projection mapped interactive experience hallway gives users a way to share their museum experience at the FLDC museum in Philadelphia, displaying items they interacted with in the museum in a playful environemnt. Users interact with the space via motion-tracked wands.<br><br>I was contracted by <a href='https://www.rc.tech/'>Remote Control Technology</a> to develop the software that drives the experience in Unity 3D.",       
+        "description": "This 40-foot, multi-user, double sided projection mapped interactive experience hallway gives users a way to share their museum experience at the FLDC museum in Philadelphia, displaying items they interacted with in the museum in a playful environment. Users interact with the space via motion-tracked wands. The experience stretches across the entire room.<br><br>I was contracted by <a href='https://www.rc.tech/'>Remote Control Technology</a> to develop the software that drives the experience in Unity 3D.",       
         "tags": [
             "Featured",
             "All",
@@ -289,7 +305,7 @@
         "name": "Killipede Music Video",
         "nick": "killipede",
         "year": "2019",
-        "description": "I directed and animated this music video for the song Killipede by <a href='http://danfriel.com'>Dan Friel</a> off his new album <a href='https://thrilljockey.com/products/fanfare'>Fanfare</a>. The video was written entirely in C++ using openFrameworks and makes heavy use of JPEG corruption.<br><br>I wrote a lengthy post about the creation of this video on <a href='https://andymakesgames.tumblr.com/post/187892688614/killipede-programming-a-music-video'>my blog</a>.<br><br>I also created the <a href='/?p=fanfare'>album cover</a> for Fanfare using methods developped for the video.",       
+        "description": "I directed and animated this music video for the song Killipede by <a href='http://danfriel.com'>Dan Friel</a> off his new album <a href='https://thrilljockey.com/products/fanfare'>Fanfare</a>. The video was written entirely in C++ using openFrameworks and makes heavy use of JPEG corruption.<br><br>I wrote a lengthy post about the creation of this video on <a href='https://andymakesgames.tumblr.com/post/187892688614/killipede-programming-a-music-video'>my blog</a>.<br><br>I also created the <a href='/?p=fanfare'>album cover</a> for Fanfare using methods developed for the video.",       
         "tags": [
             "Featured",
             "All",
@@ -323,7 +339,7 @@
         "name": "Machiavelli & Cheese Truck",
         "nick": "maciavelli",
         "year": "2019",
-        "description": "The Night Market is <a href='https://withfriends.co/event/595315/lost_horizon_night_market'>“a transient bazaar where one can encounter a variety of mysterious lounges, theaters, galleries, cafes, installations and other establishments, all situated within seemingly ordinary box trucks.”</a><br><br>In 2019 I helped create the Machiavelli & Cheese Truck, a brutal food truck that preyed on the worst impulses of man. The design was lead by <a href='https://www.larissahayden.com/'>Larissa Hayden</a>.<br><br>In addition to creating the truck, I acted as the carnival barker, luring participants in and selecting a suitable \"prince\" in each group. That's me in the first pictrue. I wrote about the creation of the truck <a href='https://andymakesgames.tumblr.com/post/185529281439/lost-horizon-night-market-2019-machiavelli'>here</a>.<br><br>The first image was taken by <a href='https://gothamist.com/arts-entertainment/photos/photos-inside-the-box-trucks-that-briefly-transformed-this-queens-street-into-an-immersive-art-experience?image=5'>Tod Seelie for Gothamist.</a>",       
+        "description": "The Night Market is <a href='https://withfriends.co/event/595315/lost_horizon_night_market'>“a transient bazaar where one can encounter a variety of mysterious lounges, theaters, galleries, cafes, installations and other establishments, all situated within seemingly ordinary box trucks.”</a><br><br>In 2019 I helped create the Machiavelli & Cheese Truck, a brutal food truck that preyed on the worst impulses of man. The design was lead by <a href='https://www.larissahayden.com/'>Larissa Hayden</a>.<br><br>In addition to creating the truck, I acted as the carnival barker, luring participants in and selecting a suitable \"prince\" in each group. That's me in the first picture. I wrote about the creation of the truck <a href='https://andymakesgames.tumblr.com/post/185529281439/lost-horizon-night-market-2019-machiavelli'>here</a>.<br><br>The first image was taken by <a href='https://gothamist.com/arts-entertainment/photos/photos-inside-the-box-trucks-that-briefly-transformed-this-queens-street-into-an-immersive-art-experience?image=5'>Tod Seelie for Gothamist.</a>",       
         "tags": [
             "All",
             "Other"
@@ -353,7 +369,7 @@
         "name": "Ziggurat of the Titan Beetle",
         "nick": "ziggurat",
         "year": "2019",
-        "description": "Ziggurat of the Titan Beetle is a four-player party rougelike where players must communicate and work together to beat dungeons. Despite striving towards a common goal, time pressure and shared resources make it easy to accidentaly step on each other's toes.<br><br>This game was created as an exclusive reward for backers of the <a href='https://www.kickstarter.com/projects/markkleeb/wonderville-arcade'>Wonderville Kickstarter campaign</a>.<br><br>Sprites and logo by <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a>.<br><br>The <a href='https://en.wikipedia.org/wiki/Titan_beetle'>Titan Beetle</a> is a real creature and the largest known species of beetle.",       
+        "description": "Ziggurat of the Titan Beetle is a four-player party rougelike where players must communicate and work together to beat dungeons. Despite striving towards a common goal, time pressure and shared resources make it easy to accidentally step on each other's toes.<br><br>This game was created as an exclusive reward for backers of the <a href='https://www.kickstarter.com/projects/markkleeb/wonderville-arcade'>Wonderville Kickstarter campaign</a>.<br><br>Sprites and logo by <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a>.<br><br>The <a href='https://en.wikipedia.org/wiki/Titan_beetle'>Titan Beetle</a> is a real creature and the largest known species of beetle.",       
         "tags": [
             "All",
             "Game",
