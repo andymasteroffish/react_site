@@ -1,5 +1,54 @@
 [
     {
+        "name": "Hypnogenesis",
+        "nick": "hypnogenesis",
+        "year": "2025 (ongoing)",
+        "description": "Hypnogenesis is a video synthesis arcade game designed by me and <a href='https://allen-riley.com/'>Allen Riley</a>. The game is a psychedelic space shooter that uses video feedback as a core gameplay mechanic. The game state directly modifies frame buffer values in a customized version of <a href='https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED'>Andrei Jay's open source Video Waaaves software</a>.<br><br>Hypnogenesis is an ongoing project but has been shown at festivals including <a href='https://www.synthlibraryportland.org/events/video-sync'>Video Sync 2025</a> and <a href='https://super.magfest.org/'>MAGFest 2026</a>.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "vid":"<iframe src='https://player.vimeo.com/video/1155588377' width='600' height='600' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe>",
+        "pics": [
+            "036a3032cc4c15232ff1d632b3c888dc88eebbc31c083c4762495bbdd9d753d1.jpg",
+            "vid",
+            "signal-2025-08-16-165107.jpeg"
+        ]
+    },
+    {
+        "name": "The Indomitable Rocket Dog",
+        "nick": "rocketdog",
+        "year": "2025 (ongoing)",
+        "description": "The Indomitable Rocket Dog is an upcoming action / speedrunning game. Unhappy with the feeling of Unity 3D’s physics I am working on my own physics engine written in C++, using <a href='https://www.sfml-dev.org/'>SFML</a> for rendering.<br><br>The game is a mix of Sonic the Hedgehog and N++, all set to a Jungle soundtrack with visuals inspired by 90s rave flyers. I am working with <a href='https://janefriedhoff.com/'>Jane Friedhoff</a> on the graphic design for the game.<br><br>The game is a work and progress, but info is available at <a href='https://indomitablerocket.dog/'>indomitablerocket.dog</a>.",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "2025-07-01.jpg",
+            "level_select.png",
+            "2024-10-31_screenshot_34587.jpg"
+        ]
+    },
+    {
+        "name": "MAGFest Alt-Control Jams",
+        "nick": "altjam",
+        "year": "2025 (ongoing)",
+        "description": "The Alt-Control Jam is a yearly game jam I help run that is a collaboration between the <a href='https://super.magfest.org/'>Music and Games Festival</a> and <a href='https://arcadecommons.org/'>Arcade Commons</a>. Each year, we decide on a new novel input hardware and create an affordable custom controller that participants can build at home. Participants spend a week making a game for this interface which is then shown at the Music and Games Festival.<br><br>The goal of the jam is to provide an easy and fun way for developers and players to learn about hardware and microcontrollers.<br><br>In addition to working on the controller and moderating the jam, I created the <a href='https://github.com/andymasteroffish/mag_2026_flip_out_launcher'>open-source software for the multi-game launcher</a> that is used at the event.<br><br>Past hardware themes have included <a href='https://itch.io/jam/lever-up'>slide-pot levers</a> and <a href='https://itch.io/jam/flip-out'>toggle switches</a>.<br><br>The other members of the team that put on this jam are:<br><a href='https://mtylpg.itch.io/'>Matt Lepage</a><br><a href='https://bsky.app/profile/socksmagocs.bsky.social'>Socks Magocs</a><br><a href='https://bsky.app/profile/leapinlemurs.bsky.social'>Scott M</a><br><a href='https://bsky.app/profile/construct.goblinmo.de'>Ryan Wagahoff</a>",       
+        "tags": [
+            "Featured",
+            "All",
+            "Game"
+        ],
+        "pics": [
+            "IMG_6914.JPG",
+            "AQEfhU.png",
+            "games.jpg"
+        ]
+    },
+    {
         "name": "Cloud Gobblers",
         "nick": "cloud_gobblers",
         "year": "2024",
