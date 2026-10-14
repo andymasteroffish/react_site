@@ -3,7 +3,7 @@
         "name": "Hypnogenesis",
         "nick": "hypnogenesis",
         "year": "2025 (ongoing)",
-        "description": "Hypnogenesis is a video synthesis arcade game designed by me and <a href='https://allen-riley.com/'>Allen Riley</a>. The game is a psychedelic space shooter that uses video feedback as a core gameplay mechanic. The game state directly modifies frame buffer values in a customized version of <a href='https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED'>Andrei Jay's open source Video Waaaves software</a>.<br><br>Hypnogenesis is an ongoing project but has been shown at festivals including <a href='https://www.synthlibraryportland.org/events/video-sync'>Video Sync 2025</a> and <a href='https://super.magfest.org/'>MAGFest 2026</a>.",       
+        "description": "Hypnogenesis is a video synthesis arcade game designed by me and <a href='https://allen-riley.com/'>Allen Riley</a>. The game is a psychedelic space shooter that uses video feedback as a core gameplay mechanic. The game state directly modifies frame buffer values in a customized version of <a href='https://andreijaycreativecoding.com/VIDEO-WAAAVES-GETTING-STARTED'>Andrei Jay's open source Video Waaaves software</a>.<br><br>Hypnogenesis is an ongoing project. It has been shown at festivals including <a href='https://www.synthlibraryportland.org/events/video-sync'>Video Sync 2025</a> and <a href='https://super.magfest.org/'>MAGFest 2026</a>.<br><br>More info can be found at <a href=https://hypnogenesis.xyz/>hypnogenesis.xyz</a>.",       
         "tags": [
             "Featured",
             "All",
@@ -11,8 +11,9 @@
         ],
         "vid":"<iframe src='https://player.vimeo.com/video/1155588377' width='600' height='600' frameborder='0' allow='autoplay; fullscreen' allowfullscreen></iframe>",
         "pics": [
-            "036a3032cc4c15232ff1d632b3c888dc88eebbc31c083c4762495bbdd9d753d1.jpg",
+            "2026-01-01_hypno.gif",
             "vid",
+            "036a3032cc4c15232ff1d632b3c888dc88eebbc31c083c4762495bbdd9d753d1.jpg",
             "signal-2025-08-16-165107.jpeg"
         ]
     },
@@ -419,8 +420,8 @@
     {
         "name": "Ziggurat of the Titan Beetle",
         "nick": "ziggurat",
-        "year": "2019",
-        "description": "Ziggurat of the Titan Beetle is a four-player party rougelike where players must communicate and work together to beat dungeons. Despite striving towards a common goal, time pressure and shared resources make it easy to accidentally step on each other's toes.<br><br>This game was created as an exclusive reward for backers of the <a href='https://www.kickstarter.com/projects/markkleeb/wonderville-arcade'>Wonderville Kickstarter campaign</a>.<br><br>Sprites and logo by <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a>.<br><br>The <a href='https://en.wikipedia.org/wiki/Titan_beetle'>Titan Beetle</a> is a real creature and the largest known species of beetle.",       
+        "year": "2019-2027",
+        "description": "Ziggurat of the Titan Beetle is a four-player party rougelike where players must communicate and work together to beat dungeons. Despite striving towards a common goal, time pressure and shared resources make it easy to accidentally step on each other's toes.<br><br>This game was originally created as an exclusive reward for backers of the <a href='https://www.kickstarter.com/projects/markkleeb/wonderville-arcade'>Wonderville Kickstarter campaign</a>.<br><br>In 2026 it was revamped to create a custom cocktail arcade cabinet with <a href='https://arcadecommons.org/'>Arcade Commons</a>.<br><br>The <a href='https://en.wikipedia.org/wiki/Titan_beetle'>Titan Beetle</a> is a real creature and the largest known species of beetle.<br><br>Game Design: Andy Wallace<br>Fabrication: Josh Simonds & <a href='https://mattfryed.com'>Matt Fry</a> & Alex Panait<br>Visual Art: <a href='https://twitter.com/Iscariot83'>Chris Hernandez</a><br>Menu Design: <a href='https://chasedodge.games/'>Chase Dodge</a>",       
         "tags": [
             "All",
             "Game",
@@ -973,7 +974,7 @@
         "name": "Find Me A Good One",
         "nick": "findme",
         "year": "2012",
-        "description": "Find Me A Good One was created with <a href='http://llcl.lc/'>Haitham Ennasr</a> as our MFA thesis at Parsons The New School For Design, and was nominated as an <a href='http://www.indiecade.com/2012/games/'>IndieCade 2012 Finalist</a>. It is available for free for PC or Mac <a href='http://andymakes.itch.io/find-me-a-good-one'>here.</a><br><br>Find Me A Good One is a puzzle platformer that explores the sense of responsibility felt by players towards non-playing fictional characters. Although the brother in Find Me A Good One is clearly dependent on the player, it is up to the player to decide how much they want to help their sibling. While most games force the player to complete the task at hand in order to move on, Find Me A Good One allows the player to be diligent in their responsibility, or shirk it in order to further explore the dreamscape of the game. Because the system does not assign value to her actions, the player is left to judge their own actions and the effect they have on their virtual brother.",
+        "description": "Find Me A Good One was created with <a href='https://xennasr.com/'>Xaytun Ennasr</a> as our MFA thesis at Parsons The New School For Design, and was nominated as an <a href='http://www.indiecade.com/2012/games/'>IndieCade 2012 Finalist</a>. It is available for free for PC or Mac <a href='http://andymakes.itch.io/find-me-a-good-one'>here.</a><br><br>Find Me A Good One is a puzzle platformer that explores the sense of responsibility felt by players towards non-playing fictional characters. Although the brother in Find Me A Good One is clearly dependent on the player, it is up to the player to decide how much they want to help their sibling. While most games force the player to complete the task at hand in order to move on, Find Me A Good One allows the player to be diligent in their responsibility, or shirk it in order to further explore the dreamscape of the game. Because the system does not assign value to her actions, the player is left to judge their own actions and the effect they have on their virtual brother.",
         "tags": [
             "All",
             "Game",
